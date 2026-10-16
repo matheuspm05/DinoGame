@@ -20,7 +20,7 @@ namespace ProjetoRetorno.UI.Editor
     public static class MenuSceneSetup
     {
         public const string MainScenePath = "Assets/Scenes/MainMenu.unity";
-        public const string LevelScenePath = "Assets/Scenes/Level01_Nave.unity";
+        public const string LevelScenePath = "Assets/Scenes/Level01_Nave_Expanded.unity";
         public const string PausePrefabPath = "Assets/Prefabs/UI/PauseMenu.prefab";
         private static readonly Color Background = new Color(.018f, .035f, .055f, 1f);
         private static readonly Color Surface = new Color(.025f, .075f, .105f, .98f);
@@ -190,10 +190,11 @@ namespace ProjetoRetorno.UI.Editor
             }
         }
 
-        /// <summary>Sem argumentos/retorno. Define MainMenu primeiro e Level01_Nave segundo, incluindo override do perfil ativo se houver.</summary>
+        /// <summary>Sem argumentos/retorno. Define MainMenu primeiro, nave expandida segundo e original como referência; inclui override do perfil ativo.</summary>
         private static void ConfigureBuildScenes()
         {
-            var scenes = new[] { new EditorBuildSettingsScene(MainScenePath, true), new EditorBuildSettingsScene(LevelScenePath, true) };
+            var scenes = new[] { new EditorBuildSettingsScene(MainScenePath, true), new EditorBuildSettingsScene(LevelScenePath, true),
+                new EditorBuildSettingsScene("Assets/Scenes/Level01_Nave.unity", true) };
             EditorBuildSettings.scenes = scenes;
             BuildProfile profile = BuildProfile.GetActiveBuildProfile();
             if (profile != null && profile.overrideGlobalScenes)

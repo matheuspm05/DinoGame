@@ -1,0 +1,8 @@
+Arquivos próprios C#: 15.
+Metadados de scripts conferidos: 15; alterações: 0.
+Cenas, prefabs e entrada conferidos: 11 arquivos; alterações: 0.
+Caminhos dos modelos do relatório conferidos: 85; ausentes: 0.
+Links locais de documentação quebrados: 0.
+Referências antigas de pacotes no código: 0.
+Compilação dos scripts próprios: APROVADA.
+Cenário não regenerado. Assets movidos pelo AssetDatabase com GUIDs preservados.

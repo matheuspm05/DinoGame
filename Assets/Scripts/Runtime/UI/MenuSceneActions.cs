@@ -7,7 +7,7 @@ namespace ProjetoRetorno.UI
     public static class MenuSceneActions
     {
         public const string MainMenuScene = "MainMenu";
-        public const string LevelScene = "Level01_Nave";
+        public const string LevelScene = "Level01_Nave_Expanded";
 
         /// <summary>sceneName é o nome da cena de destino; sem retorno. Restaura o tempo/cursor e carrega a cena desde o início.</summary>
         public static void LoadScene(string sceneName)

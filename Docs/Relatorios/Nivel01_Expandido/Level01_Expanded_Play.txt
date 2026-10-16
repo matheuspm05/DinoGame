@@ -1,0 +1,22 @@
+Validação em Play da nave expandida
+Ponto alcançado: (0.00, 0.00, -1.00)
+Ponto alcançado: (0.00, 0.00, 9.00)
+Ponto alcançado: (-12.00, 0.00, 9.00)
+Ponto alcançado: (0.00, 0.00, 9.00)
+Ponto alcançado: (0.00, 0.00, 21.00)
+Ponto alcançado: (0.00, 0.00, 23.00)
+Ponto alcançado: (-15.00, 0.00, 23.00)
+Ponto alcançado: (-15.00, 0.00, 25.00)
+Ponto alcançado: (-15.00, 0.00, 23.00)
+Ponto alcançado: (0.00, 0.00, 23.00)
+Ponto alcançado: (0.00, 0.00, 21.00)
+Ponto alcançado: (20.00, 0.00, 21.00)
+Ponto alcançado: (20.00, 0.00, 39.00)
+Ponto alcançado: (20.00, 0.00, 37.00)
+Ponto alcançado: (37.00, 0.00, 37.00)
+Ponto alcançado: (20.00, 0.00, 37.00)
+Ponto alcançado: (20.00, 0.00, 39.00)
+Ponto alcançado: (20.00, 0.00, 60.00)
+Jogador existente, câmera, cápsula humana e pausa/retomada preservados.
+Movimentos físicos da cápsula: 724. Rota principal e todos os desvios percorridos.
+RESULTADO: APROVADO.

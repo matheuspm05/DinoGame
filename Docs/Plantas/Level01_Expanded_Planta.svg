@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="900" viewBox="0 0 780 900"><rect width="780" height="900" fill="#101d2b"/><g font-family="Arial" fill="#effaff">
+<text x="35" y="30" font-size="20">ECOS DO CRETÁCEO — NAVE EXPANDIDA</text>
+<text x="35" y="53" font-size="13">Planta de implantação · rota principal contínua · dois desvios opcionais</text>
+<rect x="220.0" y="620.0" width="40" height="80" fill="#304959" stroke="#62cdd8"/>
+<rect x="190.0" y="640.0" width="30" height="40" fill="#304959" stroke="#62cdd8"/>
+<rect x="320.0" y="520.0" width="20" height="40" fill="#304959" stroke="#62cdd8"/>
+<rect x="420.0" y="420.0" width="40" height="40" fill="#304959" stroke="#62cdd8"/>
+<rect x="415.0" y="260.0" width="50" height="40" fill="#304959" stroke="#62cdd8"/>
+<rect x="140.0" y="500.0" width="20" height="40" fill="#304959" stroke="#62cdd8"/>
+<rect x="510.0" y="360.0" width="40" height="40" fill="#304959" stroke="#62cdd8"/>
+<rect x="180.0" y="700.0" width="120" height="100" fill="#42668c" stroke="#8fdce5" stroke-width="2"/>
+<text x="240" y="746" font-size="14" text-anchor="middle">01 Contenção</text><text x="240" y="765" font-size="12" text-anchor="middle">12 × 10 m</text>
+<rect x="50.0" y="600.0" width="140" height="120" fill="#956431" stroke="#8fdce5" stroke-width="2"/>
+<text x="120" y="656" font-size="14" text-anchor="middle">03 Energia</text><text x="120" y="675" font-size="12" text-anchor="middle">14 × 12 m</text>
+<rect x="160.0" y="460.0" width="160" height="160" fill="#806b42" stroke="#8fdce5" stroke-width="2"/>
+<text x="240" y="536" font-size="14" text-anchor="middle">04 Depósito</text><text x="240" y="555" font-size="12" text-anchor="middle">16 × 16 m</text>
+<rect x="340.0" y="460.0" width="200" height="160" fill="#277d94" stroke="#8fdce5" stroke-width="2"/>
+<text x="440" y="536" font-size="14" text-anchor="middle">05 Laboratório</text><text x="440" y="555" font-size="12" text-anchor="middle">20 × 16 m</text>
+<rect x="370.0" y="300.0" width="140" height="120" fill="#486b9c" stroke="#8fdce5" stroke-width="2"/>
+<text x="440" y="356" font-size="14" text-anchor="middle">06 Segurança</text><text x="440" y="375" font-size="12" text-anchor="middle">14 × 12 m</text>
+<rect x="310.0" y="40.0" width="260" height="220" fill="#536c80" stroke="#8fdce5" stroke-width="2"/>
+<text x="440" y="146" font-size="14" text-anchor="middle">07 Hangar</text><text x="440" y="165" font-size="12" text-anchor="middle">26 × 22 m</text>
+<rect x="40.0" y="420.0" width="100" height="160" fill="#9a4e32" stroke="#8fdce5" stroke-width="2"/>
+<text x="90" y="496" font-size="14" text-anchor="middle">08 Máquinas</text><text x="90" y="515" font-size="12" text-anchor="middle">10 × 16 m</text>
+<rect x="550.0" y="330.0" width="120" height="100" fill="#367e66" stroke="#8fdce5" stroke-width="2"/>
+<text x="610" y="376" font-size="14" text-anchor="middle">09 Manutenção</text><text x="610" y="395" font-size="12" text-anchor="middle">12 × 10 m</text>
+<polyline points="240,760 240,660 240,540 440,540 440,360 440,150" fill="none" stroke="#b9f7ff" stroke-width="3" stroke-dasharray="6 5"/>
+<polyline points="240,660 120,660" fill="none" stroke="#ffd692" stroke-width="3" stroke-dasharray="5 5"/>
+<polyline points="240,520 90,520 90,500" fill="none" stroke="#ffd692" stroke-width="3" stroke-dasharray="5 5"/>
+<polyline points="440,380 610,380" fill="none" stroke="#ffd692" stroke-width="3" stroke-dasharray="5 5"/>
+<circle cx="240" cy="760" r="5" fill="#c2ffe5"/><text x="250" y="765" font-size="11">INÍCIO</text>
+<text x="35" y="860" font-size="13">02 Corredores: conexões curtas entre salas; largura principal de 4 m.</text><text x="35" y="882" font-size="12">Contornos mostram envelopes das salas; a cena contém vãos e portas abertas nas conexões.</text></g></svg>

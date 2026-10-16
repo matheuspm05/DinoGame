@@ -1,0 +1,30 @@
+Level01_Nave — validação da estrutura
+Unity: 6000.0.81f1
+Módulos vinculados: 307; modelos distintos: 20
+Amostras de rota com piso e vão humano livre: 243
+Scripts ausentes: 0
+Portas internas abertas; saída externa fechada, reservada para etapa futura.
+Sem alteração em SampleScene, Build Settings, Tags, Input Settings ou assets dos fornecedores.
+Quatro prévias visuais em Docs/Previas/Nivel01.
+
+Assets reais utilizados (vínculos de prefab preservados):
+Assets/ThirdParty/Barking_Dog/3D Free Modular Kit/Prefabs/Door_Arch_01.prefab
+Assets/ThirdParty/Barking_Dog/3D Free Modular Kit/Prefabs/Door_Left_01.prefab
+Assets/ThirdParty/Barking_Dog/3D Free Modular Kit/Prefabs/Fan_01.prefab
+Assets/ThirdParty/Barking_Dog/3D Free Modular Kit/Prefabs/Floor_01.prefab
+Assets/ThirdParty/Barking_Dog/3D Free Modular Kit/Prefabs/Roof_01.prefab
+Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Columns/Column_Pipes.fbx
+Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Platforms/Door_DarkMetal.fbx
+Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Platforms/Door_Frame_Square.fbx
+Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_AccessPoint.fbx
+Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Barrel_Large.fbx
+Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Cable_3.fbx
+Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Computer.fbx
+Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Crate3.fbx
+Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Crate4.fbx
+Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_ItemHolder.fbx
+Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Light_Wide.fbx
+Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Vent_Small.fbx
+Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Vent_Wide.fbx
+Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Walls/TopSimple_Straight.fbx
+Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Walls/WallAstra_Straight.fbx

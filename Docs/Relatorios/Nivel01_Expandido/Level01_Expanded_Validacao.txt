@@ -1,0 +1,25 @@
+Nave expandida — validação estrutural
+Unity: 6000.0.81f1
+Rota principal e desvios: 741 amostras de piso contínuo e vão livre para cápsula de 1,80 m / raio 0,30 m.
+Setor conectado: 01_Contencao — 12 x 10 m; pé-direito 3,8 m.
+Setor conectado: Eixo_Contencao_Deposito — 4 x 8 m; pé-direito 3,8 m.
+Setor conectado: 03_Energia — 14 x 12 m; pé-direito 3,8 m.
+Setor conectado: Acesso_Energia — 3 x 4 m; pé-direito 3,8 m.
+Setor conectado: 04_Deposito — 16 x 16 m; pé-direito 3,8 m.
+Setor conectado: 05_Laboratorio — 20 x 16 m; pé-direito 3,8 m.
+Setor conectado: Acesso_Laboratorio — 2 x 4 m; pé-direito 3,8 m.
+Setor conectado: 06_Seguranca — 14 x 12 m; pé-direito 3,8 m.
+Setor conectado: Acesso_Seguranca — 4 x 4 m; pé-direito 3,8 m.
+Setor conectado: 07_Hangar — 26 x 22 m; pé-direito 6 m.
+Setor conectado: Acesso_Hangar — 5 x 4 m; pé-direito 3,8 m.
+Setor conectado: 08_Maquinas — 10 x 16 m; pé-direito 4 m.
+Setor conectado: Acesso_Maquinas — 2 x 4 m; pé-direito 3,8 m.
+Setor conectado: 09_Manutencao — 12 x 10 m; pé-direito 3,8 m.
+Setor conectado: Acesso_Manutencao — 4 x 4 m; pé-direito 3,8 m.
+Grade navegável: 2883 / 2889 pontos alcançáveis; verificação de travessias por CapsuleCast.
+Materiais compatíveis verificados: 131; luzes pontuais sem sombras: 25.
+Scripts ausentes: 0; jogador, câmera, pausa e EventSystem: um de cada.
+Geometria de arquitetura usa módulos ajustados; objetos de decoração mantêm escala uniforme. Colisores importados desativados por instância, com caixas simples locais para objetos sólidos.
+
+Modelos visuais distintos comprovados: 82
+Cena salva: Assets/Scenes/Level01_Nave_Expanded.unity

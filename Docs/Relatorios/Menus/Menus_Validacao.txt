@@ -1,0 +1,93 @@
+Validação dos menus — Unity 6000.0.81f1
+OK: MainMenu é a entrada em Play
+OK: Um único EventSystem na cena
+OK: UI usa o novo Input System
+OK: Canvas Overlay com scaler 1920x1080
+OK: OnClick serializado: Sair
+OK: OnClick serializado: Controles
+OK: OnClick serializado: Voltar
+OK: OnClick serializado: NovoJogo
+OK: Painel de controles inclui Ctrl para agachar
+OK: Painel não anuncia interação ausente
+OK: Raycast alcança Controles
+OK: Raycast alcança Controles
+OK: Controles abrem pelo OnClick do Menu Principal
+OK: Raycast alcança Voltar
+OK: Raycast alcança Voltar
+OK: Voltar retorna ao Menu Principal
+OK: Raycast alcança NovoJogo
+OK: Raycast alcança NovoJogo
+OK: Novo Jogo carrega Level01_Nave_Expanded
+OK: Nível inicia com tempo e jogador ativos
+OK: Pausa começa oculta
+OK: Um único EventSystem na cena
+OK: UI usa o novo Input System
+OK: Canvas Overlay com scaler 1920x1080
+OK: OnClick serializado: MenuPrincipal
+OK: OnClick serializado: Sair
+OK: OnClick serializado: ReiniciarNivel
+OK: OnClick serializado: Continuar
+OK: OnClick serializado: Controles
+OK: OnClick serializado: Voltar
+OK: Painel de controles inclui Ctrl para agachar
+OK: Painel não anuncia interação ausente
+OK: Controle de movimento existente continua funcionando
+OK: Shift mantém corrida mais rápida que a caminhada
+OK: Espaço mantém salto quando o personagem está em pé
+OK: Salto retorna ao piso com colisão
+OK: Ctrl esquerdo reduz a cápsula para 1,1 m
+OK: Agachar baixa a câmera e mantém os pés no piso
+OK: Ctrl direito também agacha e Espaço não permite pular agachado
+OK: Soltar Ctrl sob teto baixo mantém a cápsula agachada
+OK: Sem teto, soltar Ctrl restaura a altura original automaticamente
+OK: Câmera retorna à altura original
+OK: ESC congela o tempo e bloqueia o controlador
+OK: Pausa libera e mostra o cursor
+OK: Abrir a pausa preserva o agachamento
+OK: WASD e mouse não movem/giram o jogador durante a pausa
+OK: Raycast alcança Controles
+OK: Raycast alcança Controles
+OK: Cliques e Controles funcionam com timeScale zero
+OK: Raycast alcança Voltar
+OK: Raycast alcança Voltar
+OK: Voltar mantém a pausa
+OK: Segundo ESC retoma o jogo e captura o cursor
+OK: Continuar com Ctrl solto restaura a postura sem perder as dimensões originais
+OK: Raycast alcança Continuar
+OK: Raycast alcança Continuar
+OK: Continuar retoma o jogo
+OK: Raycast alcança ReiniciarNivel
+OK: Raycast alcança ReiniciarNivel
+OK: Reiniciar Nível recria o estado inicial da cena
+OK: Reinício não deixa pausa residual
+OK: Um único EventSystem na cena
+OK: UI usa o novo Input System
+OK: Canvas Overlay com scaler 1920x1080
+OK: OnClick serializado: Continuar
+OK: OnClick serializado: Controles
+OK: OnClick serializado: Sair
+OK: OnClick serializado: MenuPrincipal
+OK: OnClick serializado: ReiniciarNivel
+OK: OnClick serializado: Voltar
+OK: Painel de controles inclui Ctrl para agachar
+OK: Painel não anuncia interação ausente
+OK: Raycast alcança MenuPrincipal
+OK: Raycast alcança MenuPrincipal
+OK: Menu Principal troca de cena com tempo normal
+OK: Menu Principal restaura o cursor
+OK: Um único EventSystem na cena
+OK: UI usa o novo Input System
+OK: Canvas Overlay com scaler 1920x1080
+OK: OnClick serializado: NovoJogo
+OK: OnClick serializado: Controles
+OK: OnClick serializado: Voltar
+OK: OnClick serializado: Sair
+OK: Painel de controles inclui Ctrl para agachar
+OK: Painel não anuncia interação ausente
+OK: Raycast alcança NovoJogo
+OK: Raycast alcança NovoJogo
+OK: Novo Jogo funciona após retornar ao menu (cena: Level01_Nave_Expanded)
+OK: Raycast alcança Sair
+OK: Raycast alcança Sair
+OK: Sair encerrou o Play Mode.
+RESULTADO: APROVADO.

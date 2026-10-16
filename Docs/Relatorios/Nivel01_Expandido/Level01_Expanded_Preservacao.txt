@@ -1,0 +1,8 @@
+Preservação: 2248 arquivos conferidos por SHA-256.
+Arquivos protegidos alterados: 0.
+Incluídos: Level01_Nave.unity, MainMenu.unity, PauseMenu.prefab, controlador do jogador, Input Actions, manifest de pacotes, Player Settings e arquivos de metadados/prefabs/materiais/scripts dos fornecedores.
+Prefabs na cena expandida: 1006; cenário: 1005; UI excluída: 1.
+Arquivos de origem de cenário distintos: 85; conjuntos geométricos auditados: 82.
+Instâncias entre gerações: 1005 -> 1005; geometrias: 82 -> 82.
+Mesmas geometrias e quantidades entre gerações: True.
+As mudanças autorizadas de fluxo estão nos scripts de ação/configuração dos menus e na Scene List. A cena original permaneceu intacta.

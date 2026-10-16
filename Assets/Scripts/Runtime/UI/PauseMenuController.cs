@@ -71,11 +71,11 @@ namespace ProjetoRetorno.UI
             if (IsPaused && controlsPanel != null) controlsPanel.Show();
         }
 
-        /// <summary>Sem argumentos/retorno. Encerra a pausa e recarrega Level01_Nave desde o início.</summary>
+        /// <summary>Sem argumentos/retorno. Encerra a pausa e recarrega a cena deste menu, preservando reinício na nave original e na expandida.</summary>
         public void RestartLevel()
         {
             Resume();
-            MenuSceneActions.LoadScene(MenuSceneActions.LevelScene);
+            MenuSceneActions.LoadScene(gameObject.scene.name);
         }
 
         /// <summary>Sem argumentos/retorno. Encerra a pausa e retorna à cena MainMenu.</summary>

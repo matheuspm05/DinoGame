@@ -1,0 +1,1071 @@
+{
+    "scene": "Assets/Scenes/Level01_Nave_Expanded.unity",
+    "distinctModels": 82,
+    "instances": 1005,
+    "models": [
+        {
+            "name": "Prop_Barrel_Large",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Barrel_Large.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Armazenamento",
+            "geometryHash": "dfc45d13c7a809151bac64a1c5f1cf5b52007e88f5b469da88d8f353424d09fc",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Barrel_Large.fbx :: Prop_Barrel_Large",
+            "instances": 1,
+            "sectors": [
+                "04_Deposito"
+            ]
+        },
+        {
+            "name": "Prop_Chest",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Chest.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Armazenamento",
+            "geometryHash": "a693d11f328334542a1a8544dec704723a78813d4e86e23a127491c9a0869ed2",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Chest.fbx :: Prop_Chest; Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Chest.fbx :: Prop_Chest_Top",
+            "instances": 1,
+            "sectors": [
+                "07_Hangar"
+            ]
+        },
+        {
+            "name": "Prop_Crate3",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Crate3.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Armazenamento",
+            "geometryHash": "7d3b30bd0ab6be2dc3a3d0b233f612ec1b704447ff15bb596ba4922530461a36",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Crate3.fbx :: Prop_Crate3",
+            "instances": 1,
+            "sectors": [
+                "04_Deposito"
+            ]
+        },
+        {
+            "name": "Prop_Crate4",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Crate4.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Armazenamento",
+            "geometryHash": "bbe1f1ef32c4d5dec97692cf103089d1538a1936a4601650d2707975d6b81bb1",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Crate4.fbx :: Prop_Crate4",
+            "instances": 3,
+            "sectors": [
+                "04_Deposito",
+                "07_Hangar"
+            ]
+        },
+        {
+            "name": "Prop_ItemHolder",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_ItemHolder.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Armazenamento",
+            "geometryHash": "13300fa14986015d9f2d620a3a0dfe193bfe9dbf19301574a9d1ab092039a4db",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_ItemHolder.fbx :: Prop_ItemHolder",
+            "instances": 1,
+            "sectors": [
+                "01_Contencao"
+            ]
+        },
+        {
+            "name": "Storage_Barrel_01",
+            "sourcePath": "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Prefabs/Barrel_01.prefab",
+            "package": "Low Poly Storage Pack",
+            "category": "Armazenamento",
+            "geometryHash": "51990cc0da3d103cbd7900c435a96d871e0a69b0f43c2d8c19add75fcb08814d",
+            "meshOrigins": "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Models/Barrel_01.dae :: Barrel_1_mesh",
+            "instances": 1,
+            "sectors": [
+                "04_Deposito"
+            ]
+        },
+        {
+            "name": "Storage_Barrel_02",
+            "sourcePath": "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Prefabs/Barrel_02.prefab",
+            "package": "Low Poly Storage Pack",
+            "category": "Armazenamento",
+            "geometryHash": "23b4eafae0f541faaaf5cc05829bb5e0d45c4ef52efe71a99caa649bbe0e99b6",
+            "meshOrigins": "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Models/Barrel_02.dae :: Barrel_2_mesh",
+            "instances": 1,
+            "sectors": [
+                "04_Deposito"
+            ]
+        },
+        {
+            "name": "Storage_Barrel_04",
+            "sourcePath": "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Prefabs/Barrel_04.prefab",
+            "package": "Low Poly Storage Pack",
+            "category": "Armazenamento",
+            "geometryHash": "c863681231f737a42ae2eb2a266afc29d576a46453cabcafb97bcc39b0d1c39b",
+            "meshOrigins": "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Models/Barrel_04.dae :: Barrel_4_mesh",
+            "instances": 1,
+            "sectors": [
+                "07_Hangar"
+            ]
+        },
+        {
+            "name": "Storage_Cabinet_01",
+            "sourcePath": "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Prefabs/Cabinet_01.prefab",
+            "package": "Low Poly Storage Pack",
+            "category": "Armazenamento",
+            "geometryHash": "4f3b0c55e2409839d021c7e8f50170f0cc4dc5b77d2e5fcea1601c0b22bd6b76",
+            "meshOrigins": "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Models/Cabinet_01.dae :: Cabinet_1_mesh",
+            "instances": 1,
+            "sectors": [
+                "04_Deposito"
+            ]
+        },
+        {
+            "name": "Storage_Cabinet_02",
+            "sourcePath": "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Prefabs/Cabinet_02.prefab",
+            "package": "Low Poly Storage Pack",
+            "category": "Armazenamento",
+            "geometryHash": "309ff60048d03e8a90cc565a811c5b2c35a4f0ef779288818123a22cd42ea366",
+            "meshOrigins": "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Models/Cabinet_02.dae :: Cabinet_2_mesh",
+            "instances": 1,
+            "sectors": [
+                "09_Manutencao"
+            ]
+        },
+        {
+            "name": "Storage_Cabinet_03",
+            "sourcePath": "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Prefabs/Cabinet_03.prefab",
+            "package": "Low Poly Storage Pack",
+            "category": "Armazenamento",
+            "geometryHash": "67c70a77dc7ae1fa9b7291a94d4f23b4857ae7ecb5a38d6c2c7b3fe91e314d39",
+            "meshOrigins": "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Models/Cabinet_03.dae :: Cabinet_3_mesh",
+            "instances": 1,
+            "sectors": [
+                "09_Manutencao"
+            ]
+        },
+        {
+            "name": "Storage_Cabinet_04",
+            "sourcePath": "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Prefabs/Cabinet_04.prefab",
+            "package": "Low Poly Storage Pack",
+            "category": "Armazenamento",
+            "geometryHash": "ef96cda762e7aeb2326bc87a7aa431f5bc799c872a5939ff911e07131e38c2a2",
+            "meshOrigins": "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Models/Cabinet_04.dae :: Cabinet_4_mesh",
+            "instances": 1,
+            "sectors": [
+                "09_Manutencao"
+            ]
+        },
+        {
+            "name": "Storage_Container_01_Blue",
+            "sourcePath": "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Prefabs/Container_01_Blue.prefab",
+            "package": "Low Poly Storage Pack",
+            "category": "Armazenamento",
+            "geometryHash": "1a4eedc958f4b1b957045ba36cd8df1f55137c0baa39a045f66f8a318a374409",
+            "meshOrigins": "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Models/Container_01.dae :: Container_1_mesh",
+            "instances": 1,
+            "sectors": [
+                "04_Deposito"
+            ]
+        },
+        {
+            "name": "Storage_Container_02_Blue",
+            "sourcePath": "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Prefabs/Container_02_Blue.prefab",
+            "package": "Low Poly Storage Pack",
+            "category": "Armazenamento",
+            "geometryHash": "f99588ada51760ad4f89e75ab1d7f3778592240a9695d2f06edcdeb67ad7942e",
+            "meshOrigins": "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Models/Container_02.dae :: Container_2_mesh",
+            "instances": 3,
+            "sectors": [
+                "07_Hangar"
+            ]
+        },
+        {
+            "name": "Storage_Crate_01",
+            "sourcePath": "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Prefabs/Crate_01.prefab",
+            "package": "Low Poly Storage Pack",
+            "category": "Armazenamento",
+            "geometryHash": "b614b95dc6220c321456e81295ddf90df7869a23899dcc24185f8dfb4c3a5f01",
+            "meshOrigins": "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Models/Crate_01.dae :: Crate_1_mesh",
+            "instances": 1,
+            "sectors": [
+                "04_Deposito"
+            ]
+        },
+        {
+            "name": "Storage_Crate_02",
+            "sourcePath": "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Prefabs/Crate_02.prefab",
+            "package": "Low Poly Storage Pack",
+            "category": "Armazenamento",
+            "geometryHash": "bb930f41388758452a684f24a68657ed55fab2a9134786149b0b51569ac24b65",
+            "meshOrigins": "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Models/Crate_02.dae :: Crate_2_mesh",
+            "instances": 1,
+            "sectors": [
+                "04_Deposito"
+            ]
+        },
+        {
+            "name": "Storage_EUR-Pallet",
+            "sourcePath": "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Prefabs/EUR-Pallet.prefab",
+            "package": "Low Poly Storage Pack",
+            "category": "Armazenamento",
+            "geometryHash": "71977321054186a0a779013bab4adea5e5f3242708f9aee88df7e84d2715e334",
+            "meshOrigins": "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Models/EUR-Pallet.dae :: EUPallette_mesh",
+            "instances": 1,
+            "sectors": [
+                "04_Deposito"
+            ]
+        },
+        {
+            "name": "Storage_Locker",
+            "sourcePath": "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Prefabs/Locker.prefab",
+            "package": "Low Poly Storage Pack",
+            "category": "Armazenamento",
+            "geometryHash": "40085295c763430f1880df0e61e55ae6b92566c54b058701a2202658e306eae9",
+            "meshOrigins": "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Models/Locker.dae :: Locker_mesh",
+            "instances": 1,
+            "sectors": [
+                "06_Seguranca"
+            ]
+        },
+        {
+            "name": "Storage_Storage_Rack_01",
+            "sourcePath": "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Prefabs/Storage_Rack_01.prefab",
+            "package": "Low Poly Storage Pack",
+            "category": "Armazenamento",
+            "geometryHash": "4bd78cb804e325d16d8c09259d8105a18bc5e58df936976a1d6cf15962212b4c",
+            "meshOrigins": "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Models/StorageRack_01.dae :: StorageRack_1_mesh",
+            "instances": 1,
+            "sectors": [
+                "04_Deposito"
+            ]
+        },
+        {
+            "name": "Storage_Storage_Rack_02",
+            "sourcePath": "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Prefabs/Storage_Rack_02.prefab",
+            "package": "Low Poly Storage Pack",
+            "category": "Armazenamento",
+            "geometryHash": "068df225009c5c2c24ca50e8fc03f5439e21157a2446ed31feca7c6f720b4e7d",
+            "meshOrigins": "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Models/StorageRack_02.dae :: StorageRack_2_mesh",
+            "instances": 1,
+            "sectors": [
+                "04_Deposito"
+            ]
+        },
+        {
+            "name": "BottomMetal_Straight",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Walls/BottomMetal_Straight.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Arquitetura",
+            "geometryHash": "b62385c9bb4650d20e248ae4c9ff90285ea64b6e681938032e8bd06d41d60455",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Walls/BottomMetal_Straight.fbx :: BottomMetal_Straight",
+            "instances": 41,
+            "sectors": [
+                "02_Corredores",
+                "03_Energia",
+                "08_Maquinas"
+            ]
+        },
+        {
+            "name": "BottomSimple_Straight",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Walls/BottomSimple_Straight.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Arquitetura",
+            "geometryHash": "2b9c9c3de7782f0ea420f2fb1b949b29f52956228b07be16f31fc4c0b893ac94",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Walls/BottomSimple_Straight.fbx :: BottomSimple_Straight",
+            "instances": 148,
+            "sectors": [
+                "01_Contencao",
+                "02_Corredores",
+                "04_Deposito",
+                "05_Laboratorio",
+                "06_Seguranca",
+                "07_Hangar",
+                "09_Manutencao"
+            ]
+        },
+        {
+            "name": "Door_DarkMetal",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Platforms/Door_DarkMetal.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Arquitetura",
+            "geometryHash": "88d0f8e87e7ba0b50ec248034f37f6987bdd3dacca027c1d468658960cd94d26",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Platforms/Door_DarkMetal.fbx :: Door_DarkMetal",
+            "instances": 1,
+            "sectors": [
+                "07_Hangar"
+            ]
+        },
+        {
+            "name": "Door_Frame_A",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Platforms/Door_Frame_A.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Arquitetura",
+            "geometryHash": "6bba43fe3d6e46471aa43c816684a83b62cb42186318b7d89ab81edf707c5e2a",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Platforms/Door_Frame_A.fbx :: Door_Frame_A",
+            "instances": 3,
+            "sectors": [
+                "03_Energia",
+                "07_Hangar",
+                "08_Maquinas"
+            ]
+        },
+        {
+            "name": "Door_Frame_Square",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Platforms/Door_Frame_Square.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Arquitetura",
+            "geometryHash": "eb7c99c1a00d0134cc2a89b9059df828bf871308e23d5c4eae70a051004093c6",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Platforms/Door_Frame_Square.fbx :: Door_Frame_Square",
+            "instances": 4,
+            "sectors": [
+                "01_Contencao",
+                "04_Deposito",
+                "06_Seguranca",
+                "09_Manutencao"
+            ]
+        },
+        {
+            "name": "Door_Frame_SquareTall",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Platforms/Door_Frame_SquareTall.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Arquitetura",
+            "geometryHash": "041e25d7d580aa2b1155e90102bc82aec1167f5cb7593ffd3bac66093410150f",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Platforms/Door_Frame_SquareTall.fbx :: Door_Frame_SquareTall",
+            "instances": 1,
+            "sectors": [
+                "05_Laboratorio"
+            ]
+        },
+        {
+            "name": "Door_Simple",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Platforms/Door_Simple.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Arquitetura",
+            "geometryHash": "8222dd496439732f42357fa142dcbf87be231559d631a3f29fa376d41bb25564",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Platforms/Door_Simple.fbx :: Door_Simple",
+            "instances": 1,
+            "sectors": [
+                "08_Maquinas"
+            ]
+        },
+        {
+            "name": "Floor_01",
+            "sourcePath": "Assets/ThirdParty/Barking_Dog/3D Free Modular Kit/Prefabs/Floor_01.prefab",
+            "package": "Barking Dog — 3D Free Modular Kit",
+            "category": "Arquitetura",
+            "geometryHash": "c6cee2c74bf4380c7db014c424726ef56390724495cea0ab993409c921f5fc33",
+            "meshOrigins": "Assets/ThirdParty/Barking_Dog/3D Free Modular Kit/Meshes/Floor_01.FBX :: Floor_01",
+            "instances": 141,
+            "sectors": [
+                "01_Contencao",
+                "02_Corredores",
+                "03_Energia",
+                "04_Deposito",
+                "05_Laboratorio",
+                "06_Seguranca",
+                "07_Hangar",
+                "08_Maquinas",
+                "09_Manutencao"
+            ]
+        },
+        {
+            "name": "Platform_3Plates",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Platforms/Platform_3Plates.fbx\nAssets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Platforms/Platform_DarkPlates.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Arquitetura",
+            "geometryHash": "08eaf35848cdfe3dcb523434dff53fe7b762b092408932d12b376805578f2178",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Platforms/Platform_3Plates.fbx :: Platform_3Plates",
+            "instances": 2,
+            "sectors": [
+                "07_Hangar"
+            ]
+        },
+        {
+            "name": "Platform_Metal",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Platforms/Platform_Metal.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Arquitetura",
+            "geometryHash": "cc7c137ac1911d9416449e2603fd54c22b68b72e1e664c1a13f05e2d94a87326",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Platforms/Platform_Metal.fbx :: Platform_Metal",
+            "instances": 1,
+            "sectors": [
+                "07_Hangar"
+            ]
+        },
+        {
+            "name": "Platform_Metal2",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Platforms/Platform_Metal2.fbx\nAssets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Platforms/Platform_Squares.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Arquitetura",
+            "geometryHash": "7d962882edd12e9697e8ee7ebc43cdcd6681f6da37069ba1100cd089efe08c4b",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Platforms/Platform_Metal2.fbx :: Platform_Metal2",
+            "instances": 2,
+            "sectors": [
+                "07_Hangar"
+            ]
+        },
+        {
+            "name": "Roof_01",
+            "sourcePath": "Assets/ThirdParty/Barking_Dog/3D Free Modular Kit/Prefabs/Roof_01.prefab",
+            "package": "Barking Dog — 3D Free Modular Kit",
+            "category": "Arquitetura",
+            "geometryHash": "d2955fc7f20c7ab96da9688033f908b937cf54a148ce860d89b020fdf068c076",
+            "meshOrigins": "Assets/ThirdParty/Barking_Dog/3D Free Modular Kit/Meshes/Roof_01.FBX :: Roof_01",
+            "instances": 141,
+            "sectors": [
+                "01_Contencao",
+                "02_Corredores",
+                "03_Energia",
+                "04_Deposito",
+                "05_Laboratorio",
+                "06_Seguranca",
+                "07_Hangar",
+                "08_Maquinas",
+                "09_Manutencao"
+            ]
+        },
+        {
+            "name": "TopAstra_Straight",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Walls/TopAstra_Straight.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Arquitetura",
+            "geometryHash": "5944126289b52aec96fcab23249311354da3fcb7b4e861c133dd97d0987042c7",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Walls/TopAstra_Straight.fbx :: TopAstra_Straight",
+            "instances": 32,
+            "sectors": [
+                "01_Contencao",
+                "06_Seguranca"
+            ]
+        },
+        {
+            "name": "TopCables_Straight",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Walls/TopCables_Straight.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Arquitetura",
+            "geometryHash": "3643170a586720db4786d527641200aa8d88a22324d0c9bc066fe90710238613",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Walls/TopCables_Straight.fbx :: TopCables_Straight",
+            "instances": 70,
+            "sectors": [
+                "03_Energia",
+                "07_Hangar",
+                "08_Maquinas"
+            ]
+        },
+        {
+            "name": "TopPlastic_Straight",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Walls/TopPlastic_Straight.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Arquitetura",
+            "geometryHash": "ade9b87a1586f1e0e3690a0761d226af3bf39ae3f2414bd0ac27c1a1f8964729",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Walls/TopPlastic_Straight.fbx :: TopPlastic_Straight",
+            "instances": 25,
+            "sectors": [
+                "05_Laboratorio"
+            ]
+        },
+        {
+            "name": "TopSimple_Straight",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Walls/TopSimple_Straight.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Arquitetura",
+            "geometryHash": "2c6b57e1a3da15c020948c6e35504e9fa7303f38796cc1c8c7396c7003e7f2a5",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Walls/TopSimple_Straight.fbx :: TopSimple_Straight",
+            "instances": 62,
+            "sectors": [
+                "02_Corredores",
+                "04_Deposito",
+                "09_Manutencao"
+            ]
+        },
+        {
+            "name": "WallAstra_Straight",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Walls/WallAstra_Straight.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Arquitetura",
+            "geometryHash": "ab7e115b205ed107984c2750e278df520995b3ee9c856fc6bdedf274c58fc000",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Walls/WallAstra_Straight.fbx :: WallAstra_Straight",
+            "instances": 57,
+            "sectors": [
+                "01_Contencao",
+                "02_Corredores",
+                "06_Seguranca"
+            ]
+        },
+        {
+            "name": "WallAstra_Straight_Divided",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Walls/WallAstra_Straight_Divided.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Arquitetura",
+            "geometryHash": "69d74331f0960a3bd769b8d63da670df9ba176a0bf45e59715825cf6cade8dc8",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Walls/WallAstra_Straight_Divided.fbx :: WallAstra_Straight_Divided",
+            "instances": 41,
+            "sectors": [
+                "05_Laboratorio",
+                "09_Manutencao"
+            ]
+        },
+        {
+            "name": "WallAstra_Straight_Flat_Window",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Walls/WallAstra_Straight_Flat_Window.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Arquitetura",
+            "geometryHash": "7ef4a0f25ddc9d2bb9f23eb9a585b417d0694e93d25f36fc40abe3d5025b019a",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Walls/WallAstra_Straight_Flat_Window.fbx :: WallAstra_Straight_Flat_Window",
+            "instances": 1,
+            "sectors": [
+                "05_Laboratorio"
+            ]
+        },
+        {
+            "name": "WallBand_Straight",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Walls/WallBand_Straight.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Arquitetura",
+            "geometryHash": "0594cb91e1088b408c2d5f2d0747c60f1a9778c7edc9d718aa4198caa67b9c61",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Walls/WallBand_Straight.fbx :: WallBand_Straight",
+            "instances": 91,
+            "sectors": [
+                "03_Energia",
+                "04_Deposito",
+                "07_Hangar",
+                "08_Maquinas"
+            ]
+        },
+        {
+            "name": "WallWindow_Straight",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Walls/WallWindow_Straight.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Arquitetura",
+            "geometryHash": "bb48ceb67dd19ad3ef65b0cd0d3aae6478e4b6a0ff30ce833c372ea7f8089059",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Walls/WallWindow_Straight.fbx :: WallWindow_Straight",
+            "instances": 1,
+            "sectors": [
+                "05_Laboratorio"
+            ]
+        },
+        {
+            "name": "Office_Mechanical arm 1",
+            "sourcePath": "Assets/ThirdParty/ScifiOfficeLite/Prefabs/Tech Accessories/Mechanical arm 1.prefab\nAssets/ThirdParty/ScifiOfficeLite/Prefabs/Tech Accessories/Mechanical arm 2.prefab",
+            "package": "Free Sci-Fi Office Pack",
+            "category": "Científico",
+            "geometryHash": "c106e5b185fe8e9305bed447764207f2382a01f59a1fc7559830bf5bd9530efc",
+            "meshOrigins": "Assets/ThirdParty/ScifiOfficeLite/Meshes/Sci-Fi Environment/Mechanical Arm 1.FBX :: Base; Assets/ThirdParty/ScifiOfficeLite/Meshes/Sci-Fi Environment/Mechanical Arm 1.FBX :: Box355; Assets/ThirdParty/ScifiOfficeLite/Meshes/Sci-Fi Environment/Mechanical Arm 1.FBX :: Box356; Assets/ThirdParty/ScifiOfficeLite/Meshes/Sci-Fi Environment/Mechanical Arm 1.FBX :: Box357; Assets/ThirdParty/ScifiOfficeLite/Meshes/Sci-Fi Environment/Mechanical Arm 1.FBX :: Box360; Assets/ThirdParty/ScifiOfficeLite/Meshes/Sci-Fi Environment/Mechanical Arm 1.FBX :: Box361; Assets/ThirdParty/ScifiOfficeLite/Meshes/Sci-Fi Environment/Mechanical Arm 1.FBX :: Cylinder093; Assets/ThirdParty/ScifiOfficeLite/Meshes/Sci-Fi Environment/Mechanical Arm 1.FBX :: Cylinder094; Assets/ThirdParty/ScifiOfficeLite/Meshes/Sci-Fi Environment/Mechanical Arm 1.FBX :: Cylinder095; Assets/ThirdParty/ScifiOfficeLite/Meshes/Sci-Fi Environment/Mechanical Arm 1.FBX :: Cylinder096; Assets/ThirdParty/ScifiOfficeLite/Meshes/Sci-Fi Environment/Mechanical Arm 1.FBX :: Cylinder097; Assets/ThirdParty/ScifiOfficeLite/Meshes/Sci-Fi Environment/Mechanical Arm 1.FBX :: Cylinder098; Assets/ThirdParty/ScifiOfficeLite/Meshes/Sci-Fi Environment/Mechanical Arm 1.FBX :: Cylinder100; Assets/ThirdParty/ScifiOfficeLite/Meshes/Sci-Fi Environment/Mechanical Arm 1.FBX :: Object387; Assets/ThirdParty/ScifiOfficeLite/Meshes/Sci-Fi Environment/Mechanical Arm 1.FBX :: Object388; Assets/ThirdParty/ScifiOfficeLite/Meshes/Sci-Fi Environment/Mechanical Arm 1.FBX :: Object394; Assets/ThirdParty/ScifiOfficeLite/Meshes/Sci-Fi Environment/Mechanical Arm 1.FBX :: Object400; Assets/ThirdParty/ScifiOfficeLite/Meshes/Sci-Fi Environment/Mechanical Arm 1.FBX :: Object412; Assets/ThirdParty/ScifiOfficeLite/Meshes/Sci-Fi Environment/Mechanical Arm 1.FBX :: Object415",
+            "instances": 2,
+            "sectors": [
+                "05_Laboratorio"
+            ]
+        },
+        {
+            "name": "Office_Tray",
+            "sourcePath": "Assets/ThirdParty/ScifiOfficeLite/Prefabs/Tray.prefab",
+            "package": "Free Sci-Fi Office Pack",
+            "category": "Científico",
+            "geometryHash": "51c7d376772abbe8392dfad8ffea5ca33f043e2c7ab99b743645e86d18d993a5",
+            "meshOrigins": "Assets/ThirdParty/ScifiOfficeLite/Meshes/Office Interior/Tray.FBX :: Object050",
+            "instances": 3,
+            "sectors": [
+                "05_Laboratorio"
+            ]
+        },
+        {
+            "name": "Office_PC 2",
+            "sourcePath": "Assets/ThirdParty/ScifiOfficeLite/Prefabs/Tech Accessories/PC 2.prefab",
+            "package": "Free Sci-Fi Office Pack",
+            "category": "Computadores",
+            "geometryHash": "a23762b3147b86de1ed07c65655eb8a59d0f3b48b28f639d3994d9f7286018a8",
+            "meshOrigins": "Assets/ThirdParty/ScifiOfficeLite/Meshes/Office Interior/Computers/PC 2.FBX :: PC 2",
+            "instances": 5,
+            "sectors": [
+                "01_Contencao",
+                "05_Laboratorio",
+                "06_Seguranca"
+            ]
+        },
+        {
+            "name": "Office_Server Rack",
+            "sourcePath": "Assets/ThirdParty/ScifiOfficeLite/Prefabs/Tech Accessories/Server Rack.prefab",
+            "package": "Free Sci-Fi Office Pack",
+            "category": "Computadores",
+            "geometryHash": "c92b04331f9c58c47d961f26389f9e9b9c80a3c50e175f88214b1143d69407a0",
+            "meshOrigins": "Assets/ThirdParty/ScifiOfficeLite/Meshes/Sci-Fi Environment/Server Rack.FBX :: Box418; Assets/ThirdParty/ScifiOfficeLite/Meshes/Sci-Fi Environment/Server Rack.FBX :: Control Panel _Lo002; Assets/ThirdParty/ScifiOfficeLite/Meshes/Sci-Fi Environment/Server Rack.FBX :: Panel 004; Assets/ThirdParty/ScifiOfficeLite/Meshes/Sci-Fi Environment/Server Rack.FBX :: PC 010; Assets/ThirdParty/ScifiOfficeLite/Meshes/Sci-Fi Environment/Server Rack.FBX :: PC 011; Assets/ThirdParty/ScifiOfficeLite/Meshes/Sci-Fi Environment/Server Rack.FBX :: PC 012; Assets/ThirdParty/ScifiOfficeLite/Meshes/Sci-Fi Environment/Server Rack.FBX :: PC 013; Assets/ThirdParty/ScifiOfficeLite/Meshes/Sci-Fi Environment/Server Rack.FBX :: PC 014",
+            "instances": 4,
+            "sectors": [
+                "03_Energia",
+                "05_Laboratorio",
+                "06_Seguranca"
+            ]
+        },
+        {
+            "name": "Office_Tv 32 Inch",
+            "sourcePath": "Assets/ThirdParty/ScifiOfficeLite/Prefabs/TVs/Tv 32 Inch.prefab",
+            "package": "Free Sci-Fi Office Pack",
+            "category": "Computadores",
+            "geometryHash": "7052cd352baf7621f8fee3d35a0e399381034ee1648673c842323c0299a81330",
+            "meshOrigins": "Assets/ThirdParty/ScifiOfficeLite/Meshes/Office Interior/Tv/Tv 32 Inch.FBX :: TV 32 inch.001; Assets/ThirdParty/ScifiOfficeLite/Meshes/Office Interior/Tv/Tv 32 Inch.FBX :: TV 32 inch.002",
+            "instances": 3,
+            "sectors": [
+                "05_Laboratorio",
+                "06_Seguranca"
+            ]
+        },
+        {
+            "name": "Prop_AccessPoint",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_AccessPoint.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Computadores",
+            "geometryHash": "78ba369d57abb7c26d64ec9a62d9b4030aaddcf1e30faa345fd8f35205bcbd3b",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_AccessPoint.fbx :: Prop_AccessPoint",
+            "instances": 3,
+            "sectors": [
+                "01_Contencao",
+                "06_Seguranca",
+                "09_Manutencao"
+            ]
+        },
+        {
+            "name": "Prop_Computer",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Computer.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Computadores",
+            "geometryHash": "82b106facf7cf45749464cd38031253127404e210f9d227201d69df8733052e2",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Computer.fbx :: Prop_Computer",
+            "instances": 2,
+            "sectors": [
+                "03_Energia",
+                "06_Seguranca"
+            ]
+        },
+        {
+            "name": "Column_Astra",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Columns/Column_Astra.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Estruturas industriais",
+            "geometryHash": "2b087ee58ce110ec749c5a911819233a3bf99564367c67a25c51cc412a288497",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Columns/Column_Astra.fbx :: Column_Astra",
+            "instances": 1,
+            "sectors": [
+                "01_Contencao"
+            ]
+        },
+        {
+            "name": "Column_Hollow",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Columns/Column_Hollow.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Estruturas industriais",
+            "geometryHash": "bcecdaeef6cee66069d503ec49fbc4cf9fb541bfff430a1c22f6f558b5c4b50e",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Columns/Column_Hollow.fbx :: Column_Hollow",
+            "instances": 2,
+            "sectors": [
+                "01_Contencao",
+                "08_Maquinas"
+            ]
+        },
+        {
+            "name": "Column_MetalSupport",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Columns/Column_MetalSupport.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Estruturas industriais",
+            "geometryHash": "482eb8e56a30c05a5de0cebab6d85282e96d6220034db348fa927165b0466974",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Columns/Column_MetalSupport.fbx :: Column_MetalSupport",
+            "instances": 4,
+            "sectors": [
+                "07_Hangar"
+            ]
+        },
+        {
+            "name": "Column_Pipes",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Columns/Column_Pipes.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Estruturas industriais",
+            "geometryHash": "3c7125a984369b86c4db5ca56c1b3115333ca914328ec2cd34df43e333554501",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Columns/Column_Pipes.fbx :: Column_Pipes",
+            "instances": 3,
+            "sectors": [
+                "03_Energia",
+                "08_Maquinas"
+            ]
+        },
+        {
+            "name": "Column_Round",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Columns/Column_Round.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Estruturas industriais",
+            "geometryHash": "42c3fb5f7ede677f8f06b2758c8a54c010223c7ca6170a365bf8e75c8339a375",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Columns/Column_Round.fbx :: Column_Round",
+            "instances": 2,
+            "sectors": [
+                "05_Laboratorio"
+            ]
+        },
+        {
+            "name": "Column_Simple",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Columns/Column_Simple.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Estruturas industriais",
+            "geometryHash": "58c2c318a663769cc8cabf5165fd83a308059e22a7fc2481cac585c9311b72f8",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Columns/Column_Simple.fbx :: Column_Simple",
+            "instances": 1,
+            "sectors": [
+                "08_Maquinas"
+            ]
+        },
+        {
+            "name": "Light_01",
+            "sourcePath": "Assets/ThirdParty/Barking_Dog/3D Free Modular Kit/Prefabs/Light_01.prefab",
+            "package": "Barking Dog — 3D Free Modular Kit",
+            "category": "Iluminação",
+            "geometryHash": "b6ee18b43160d798812f78712d7fb5e10dad16a0ab961ef362a01d13bba5d5a3",
+            "meshOrigins": "Assets/ThirdParty/Barking_Dog/3D Free Modular Kit/Meshes/Light_01.FBX :: Light_01",
+            "instances": 1,
+            "sectors": [
+                "01_Contencao"
+            ]
+        },
+        {
+            "name": "Prop_Light_Corner",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Light_Corner.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Iluminação",
+            "geometryHash": "19a8477a6c429594457ef3ff09edeba07198569dff96f4aa2c0fb828c5aa8ae7",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Light_Corner.fbx :: Prop_Light_Corner",
+            "instances": 2,
+            "sectors": [
+                "07_Hangar"
+            ]
+        },
+        {
+            "name": "Prop_Light_Floor",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Light_Floor.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Iluminação",
+            "geometryHash": "c84318cc9f38c796e7790a6ac6d0d1c1af14d8a587a55e048ea952de5e7b1cfb",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Light_Floor.fbx :: Prop_Light_Floor",
+            "instances": 1,
+            "sectors": [
+                "04_Deposito"
+            ]
+        },
+        {
+            "name": "Prop_Light_Small",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Light_Small.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Iluminação",
+            "geometryHash": "880cd6b5bf663841938f263290c66e8eaaaf51eaea9a17243a67728672375c5a",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Light_Small.fbx :: Prop_Light_Small",
+            "instances": 2,
+            "sectors": [
+                "03_Energia",
+                "08_Maquinas"
+            ]
+        },
+        {
+            "name": "Prop_Light_Wide",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Light_Wide.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Iluminação",
+            "geometryHash": "ad659c73c6d20c769d8a482b2f550fd3f76a06505b6b5fabb7dd4eac41840ca9",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Light_Wide.fbx :: Prop_Light_Wide",
+            "instances": 25,
+            "sectors": [
+                "01_Contencao",
+                "02_Corredores",
+                "03_Energia",
+                "04_Deposito",
+                "05_Laboratorio",
+                "06_Seguranca",
+                "07_Hangar",
+                "08_Maquinas",
+                "09_Manutencao"
+            ]
+        },
+        {
+            "name": "Fan_01",
+            "sourcePath": "Assets/ThirdParty/Barking_Dog/3D Free Modular Kit/Prefabs/Fan_01.prefab",
+            "package": "Barking Dog — 3D Free Modular Kit",
+            "category": "Industrial",
+            "geometryHash": "e70ef12a5c232cf96d0cb358c093033d7caff30ea631674528b49214eda0fafb",
+            "meshOrigins": "Assets/ThirdParty/Barking_Dog/3D Free Modular Kit/Meshes/Fan_01.FBX :: Fan_Support_01; Assets/ThirdParty/Barking_Dog/3D Free Modular Kit/Meshes/Fan_01.FBX :: Fan_Wings_01",
+            "instances": 1,
+            "sectors": [
+                "08_Maquinas"
+            ]
+        },
+        {
+            "name": "Prop_Cable_1",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Cable_1.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Industrial",
+            "geometryHash": "da492c9ecacc504def29f06dd95a435799bfb582895e455ec6adcc18fba53ed8",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Cable_1.fbx :: Prop_Cable_1",
+            "instances": 2,
+            "sectors": [
+                "01_Contencao",
+                "02_Corredores"
+            ]
+        },
+        {
+            "name": "Prop_Cable_3",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Cable_3.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Industrial",
+            "geometryHash": "4f5fbc73876e3730393bc942196868de145f72700d00a8c102edbfeca898d935",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Cable_3.fbx :: Prop_Cable_3",
+            "instances": 2,
+            "sectors": [
+                "03_Energia",
+                "08_Maquinas"
+            ]
+        },
+        {
+            "name": "Prop_Clamp",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Clamp.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Industrial",
+            "geometryHash": "ffae59f856caac28d9a950f2045f91ca5ba9bfdb791a0fc4c0ce008f1b304467",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Clamp.fbx :: Prop_Clamp",
+            "instances": 2,
+            "sectors": [
+                "03_Energia",
+                "09_Manutencao"
+            ]
+        },
+        {
+            "name": "Prop_Fan_Small",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Fan_Small.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Industrial",
+            "geometryHash": "475d589b5d91fd2464efd43f0ecf2c277feda598b6227deccd497f3d931f385b",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Fan_Small.fbx :: Prop_Fan_Small; Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Fan_Small.fbx :: Prop_Fan_Small_Propeller",
+            "instances": 1,
+            "sectors": [
+                "08_Maquinas"
+            ]
+        },
+        {
+            "name": "Prop_PipeHolder",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_PipeHolder.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Industrial",
+            "geometryHash": "0129dd29708db65a1765e64058c2eea8acbfb26bc5e5a1e0a01525ddf6db619c",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_PipeHolder.fbx :: Prop_PipeHolder",
+            "instances": 2,
+            "sectors": [
+                "08_Maquinas",
+                "09_Manutencao"
+            ]
+        },
+        {
+            "name": "Prop_Rail_2",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Rail_2.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Industrial",
+            "geometryHash": "4e101925e0b7eaaee16c6732c5f048eac3abfde5968766294e77aa0f96f82f49",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Rail_2.fbx :: Prop_Rail_2",
+            "instances": 1,
+            "sectors": [
+                "07_Hangar"
+            ]
+        },
+        {
+            "name": "Prop_Rail_3",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Rail_3.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Industrial",
+            "geometryHash": "05fdcce1ab65010be3aee2e2df4244abe8fb6393b76d3b039551fa92337ea791",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Rail_3.fbx :: Prop_Rail_3",
+            "instances": 1,
+            "sectors": [
+                "07_Hangar"
+            ]
+        },
+        {
+            "name": "Prop_Vent_Big",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Vent_Big.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Industrial",
+            "geometryHash": "3df1227cb628480d11df04dde2f83cb03b225f5a53c0a5a473bd2e581b30759c",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Vent_Big.fbx :: Prop_Vent_Big",
+            "instances": 1,
+            "sectors": [
+                "03_Energia"
+            ]
+        },
+        {
+            "name": "Prop_Vent_Small",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Vent_Small.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Industrial",
+            "geometryHash": "59d56bb9c7ba73e1636deec78bf3aba6571f80da0a3ede189e891ba20266d1b2",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Vent_Small.fbx :: Prop_Vent_Small",
+            "instances": 2,
+            "sectors": [
+                "02_Corredores",
+                "08_Maquinas"
+            ]
+        },
+        {
+            "name": "Prop_Vent_Wide",
+            "sourcePath": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Vent_Wide.fbx",
+            "package": "Modular SciFi MegaKit",
+            "category": "Industrial",
+            "geometryHash": "8ec587fd266c09330654de874820b6f558fe40b5bb4304390078bf6989aab4f5",
+            "meshOrigins": "Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Vent_Wide.fbx :: Prop_Vent_Wide",
+            "instances": 1,
+            "sectors": [
+                "07_Hangar"
+            ]
+        },
+        {
+            "name": "Storage_Amp_Rack_01",
+            "sourcePath": "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Prefabs/Amp_Rack_01.prefab",
+            "package": "Low Poly Storage Pack",
+            "category": "Industrial",
+            "geometryHash": "31a1a30bf461a98fa9cadcdbe226f9729e69444f85cd4873d3a5b97dfb9d68da",
+            "meshOrigins": "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Models/AmpRack_01.dae :: MusicContainer_1_mesh",
+            "instances": 1,
+            "sectors": [
+                "03_Energia"
+            ]
+        },
+        {
+            "name": "Storage_Electric_Box_01",
+            "sourcePath": "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Prefabs/Electric_Box_01.prefab",
+            "package": "Low Poly Storage Pack",
+            "category": "Industrial",
+            "geometryHash": "8413d63e11531b481f812bd91ace4e5786bd366795c99fd7463813c5fd1486af",
+            "meshOrigins": "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Models/ElectricBox_01.dae :: ElectricBox_1_mesh",
+            "instances": 1,
+            "sectors": [
+                "03_Energia"
+            ]
+        },
+        {
+            "name": "Storage_Electric_Box_02",
+            "sourcePath": "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Prefabs/Electric_Box_02.prefab",
+            "package": "Low Poly Storage Pack",
+            "category": "Industrial",
+            "geometryHash": "ebb2bccd106bd3f030c1c21f7f64e79ecbfd9fdeaa43eb98cb73a76220c5306a",
+            "meshOrigins": "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Models/ElectricBox_02.dae :: ElectricBox_2_mesh",
+            "instances": 1,
+            "sectors": [
+                "08_Maquinas"
+            ]
+        },
+        {
+            "name": "Office_Drawer 2",
+            "sourcePath": "Assets/ThirdParty/ScifiOfficeLite/Prefabs/Drawers/Drawer 2.prefab",
+            "package": "Free Sci-Fi Office Pack",
+            "category": "Mobiliário",
+            "geometryHash": "7ffed6b7903e58aad6668ca78c4519815612767694e71a988a4c544e374d7767",
+            "meshOrigins": "Assets/ThirdParty/ScifiOfficeLite/Meshes/Office Interior/Drawer 2.FBX :: Drawer 2; Assets/ThirdParty/ScifiOfficeLite/Meshes/Office Interior/Drawer 2.FBX :: Drawer 2.001; Assets/ThirdParty/ScifiOfficeLite/Meshes/Office Interior/Drawer 2.FBX :: Drawer 2.002; Assets/ThirdParty/ScifiOfficeLite/Meshes/Office Interior/Drawer 2.FBX :: Drawer 2.003; Assets/ThirdParty/ScifiOfficeLite/Meshes/Office Interior/Drawer 2.FBX :: Drawer 2.004",
+            "instances": 1,
+            "sectors": [
+                "05_Laboratorio"
+            ]
+        },
+        {
+            "name": "Office_Drawer Table Long Blue Plastic Variant",
+            "sourcePath": "Assets/ThirdParty/ScifiOfficeLite/Prefabs/Tables/Blue Plastic/Drawer Table Long Blue Plastic Variant.prefab",
+            "package": "Free Sci-Fi Office Pack",
+            "category": "Mobiliário",
+            "geometryHash": "fb353f1a91cf96585bb7a206787980bd31bd92156edce3fa76885d78d78a8911",
+            "meshOrigins": "Assets/ThirdParty/ScifiOfficeLite/Meshes/Office Interior/Tables/Table 6.FBX :: Table 6; Assets/ThirdParty/ScifiOfficeLite/Meshes/Office Interior/Tables/Table 6.FBX :: Table 6 1; Assets/ThirdParty/ScifiOfficeLite/Meshes/Office Interior/Tables/Table 6.FBX :: Table 6 2; Assets/ThirdParty/ScifiOfficeLite/Meshes/Office Interior/Tables/Table 6.FBX :: Table 6 3; Assets/ThirdParty/ScifiOfficeLite/Meshes/Office Interior/Tables/Table 6.FBX :: Table 6 4; Assets/ThirdParty/ScifiOfficeLite/Meshes/Office Interior/Tables/Table 6.FBX :: Table 6 5",
+            "instances": 1,
+            "sectors": [
+                "05_Laboratorio"
+            ]
+        },
+        {
+            "name": "Office_Office Chair",
+            "sourcePath": "Assets/ThirdParty/ScifiOfficeLite/Prefabs/Chairs and Stools/Office Chair.prefab",
+            "package": "Free Sci-Fi Office Pack",
+            "category": "Mobiliário",
+            "geometryHash": "ff2c27a6dd28e91f0aa067886118d87797743429fb7f65a71a47764341d0e18c",
+            "meshOrigins": "Assets/ThirdParty/ScifiOfficeLite/Meshes/Office Interior/Chairs/office chair.FBX :: Office Chair",
+            "instances": 4,
+            "sectors": [
+                "05_Laboratorio",
+                "06_Seguranca"
+            ]
+        },
+        {
+            "name": "Office_Shelf without Crates",
+            "sourcePath": "Assets/ThirdParty/ScifiOfficeLite/Prefabs/Shelf without Crates.prefab",
+            "package": "Free Sci-Fi Office Pack",
+            "category": "Mobiliário",
+            "geometryHash": "099ec7a05bdf61d5e1d096ec643fe0be3daeeca6c6048d5558d85923a61c4ccb",
+            "meshOrigins": "Assets/ThirdParty/ScifiOfficeLite/Meshes/Office Interior/Shelf Without Crates.FBX :: Shelf",
+            "instances": 2,
+            "sectors": [
+                "05_Laboratorio",
+                "09_Manutencao"
+            ]
+        },
+        {
+            "name": "Office_Stool",
+            "sourcePath": "Assets/ThirdParty/ScifiOfficeLite/Prefabs/Chairs and Stools/Stool.prefab",
+            "package": "Free Sci-Fi Office Pack",
+            "category": "Mobiliário",
+            "geometryHash": "a2cd6dda32e515544532ae0fad9ff6ab6f07d060a2b6294ce721d2dfe5d6b1eb",
+            "meshOrigins": "Assets/ThirdParty/ScifiOfficeLite/Meshes/Office Interior/Chairs/Stool.FBX :: Stool",
+            "instances": 4,
+            "sectors": [
+                "01_Contencao",
+                "05_Laboratorio",
+                "09_Manutencao"
+            ]
+        },
+        {
+            "name": "Office_Table Metal Variant",
+            "sourcePath": "Assets/ThirdParty/ScifiOfficeLite/Prefabs/Tables/Metal/Table Metal Variant.prefab",
+            "package": "Free Sci-Fi Office Pack",
+            "category": "Mobiliário",
+            "geometryHash": "229f8ad7a1ec0c725595e4615d39cbf6d2368ea0e8f9b54a1fd404b5965c313d",
+            "meshOrigins": "Assets/ThirdParty/ScifiOfficeLite/Meshes/Office Interior/Tables/Table 1.FBX :: Table 10",
+            "instances": 7,
+            "sectors": [
+                "01_Contencao",
+                "05_Laboratorio",
+                "06_Seguranca",
+                "09_Manutencao"
+            ]
+        },
+        {
+            "name": "Door_Arch_01",
+            "sourcePath": "Assets/ThirdParty/Barking_Dog/3D Free Modular Kit/Prefabs/Door_Arch_01.prefab",
+            "package": "Barking Dog — 3D Free Modular Kit",
+            "category": "Portas",
+            "geometryHash": "352660df73f5346a42651ff7c464b8cf5b849acc5402ed811271d2812d60f4bc",
+            "meshOrigins": "Assets/ThirdParty/Barking_Dog/3D Free Modular Kit/Meshes/Door_Arch_01.FBX :: Door_Arch_01",
+            "instances": 1,
+            "sectors": [
+                "01_Contencao"
+            ]
+        },
+        {
+            "name": "Door_Left_01",
+            "sourcePath": "Assets/ThirdParty/Barking_Dog/3D Free Modular Kit/Prefabs/Door_Left_01.prefab",
+            "package": "Barking Dog — 3D Free Modular Kit",
+            "category": "Portas",
+            "geometryHash": "ed8bb3f3c33b67dc72df0913efa5a9bdb23162ebedc2f03c26da375d78cbaa38",
+            "meshOrigins": "Assets/ThirdParty/Barking_Dog/3D Free Modular Kit/Meshes/Door_Left_01.FBX :: Door_Left_01",
+            "instances": 8,
+            "sectors": [
+                "01_Contencao",
+                "03_Energia",
+                "04_Deposito",
+                "05_Laboratorio",
+                "06_Seguranca",
+                "07_Hangar",
+                "08_Maquinas",
+                "09_Manutencao"
+            ]
+        },
+        {
+            "name": "Surveillance",
+            "sourcePath": "Assets/ThirdParty/AK Studio Art/Surveillance Camera/Prefabs/Surveillance Camera.prefab",
+            "package": "Surveillance Camera",
+            "category": "Segurança",
+            "geometryHash": "702bab258e3eae32487c0f1427adfb60e5ac1103629fe290b09b21db696b610c",
+            "meshOrigins": "Assets/ThirdParty/AK Studio Art/Surveillance Camera/Models/Surveillance Camera.fbx :: Arm; Assets/ThirdParty/AK Studio Art/Surveillance Camera/Models/Surveillance Camera.fbx :: Base; Assets/ThirdParty/AK Studio Art/Surveillance Camera/Models/Surveillance Camera.fbx :: Camera",
+            "instances": 2,
+            "sectors": [
+                "02_Corredores",
+                "06_Seguranca"
+            ]
+        }
+    ]
+}
