@@ -6,7 +6,7 @@ A implementação está em `Assets/Scenes/Level01_Nave_Expanded.unity`. A nave o
 
 1. Abra `Assets/Scenes/MainMenu.unity` e entre em Play.
 2. **Novo Jogo** inicia `Level01_Nave_Expanded`.
-3. WASD movimenta, mouse olha, Shift esquerdo corre, Espaço pula, Ctrl esquerdo/direito agacha enquanto pressionado, ESC pausa/continua.
+3. WASD movimenta, mouse olha, Shift esquerdo corre, Espaço pula, Ctrl esquerdo/direito agacha enquanto pressionado, F interage, ESC pausa/continua.
 4. **Reiniciar Nível** recarrega a cena em que o menu de pausa está. Isso mantém o reinício correto tanto na nave expandida quanto na referência original.
 5. **Menu Principal** retorna ao menu; Novo Jogo permite iniciar novamente.
 
@@ -26,7 +26,7 @@ A Scene List é MainMenu → Level01_Nave_Expanded → Level01_Nave. MainMenu co
 | 08 Máquinas | 10 × 16 m | Ventiladores superiores, tubulações, suportes e quadros industriais; luz de alerta. Desvio curto pelo depósito. |
 | 09 Manutenção | 12 × 10 m | Bancada, suportes, armários e equipamentos; luz verde suave. Desvio pela segurança. |
 
-Veja a [planta](../Plantas/Level01_Expanded_Planta.svg) e as nove renderizações em `Docs/Previas/Nivel01_Expandido/`. A rota principal segue contenção → corredores → depósito → laboratório → segurança → hangar. Energia, máquinas e manutenção são explorações laterais. O tempo final de 5–10 minutos dependerá dos objetivos/puzzles da etapa futura; esta entrega contém somente o ambiente explorável.
+Veja a [planta](../Plantas/Level01_Expanded_Planta.svg) e as nove renderizações em `Docs/Previas/Nivel01_Expandido/`. A rota principal segue contenção → corredores → depósito → laboratório → segurança → hangar. Energia, máquinas e manutenção são explorações laterais. A nave agora inclui puzzles de bateria, cartão e terminais. Veja o [guia de gameplay](Gameplay_Nivel01.md) para a rota completa; o tempo de exploração precisa ser conferido numa partida da equipe.
 
 ## Assets e contagem
 
@@ -74,7 +74,7 @@ O cenário usa 25 luzes sem sombras em tempo real; renderizadores estáticos sã
 
 Ainda é recomendável conferir manualmente a movimentação próxima a móveis e plataformas: as caixas de colisão são mais simples que as pernas de mesa e recortes dos modelos. A grade pode registrar pequenos bolsões isolados atrás de mobiliário; todos os centros e entradas de setor são alcançáveis. As renderizações foram revisadas, mas não substituem uma vistoria manual de todos os ângulos. O desempenho em executável e outros computadores ainda precisa ser medido; o teste realizado usa o Editor.
 
-Energy Cells Free, Free Sockets and Switches, Planet Earth Free e Hand Painted Nature Kit LITE não foram encontrados. Não houve download ou instalação. City People está importado e ficou fora da cena. Não foi encontrada cápsula científica pronta específica: a contenção usa um berço tecnológico com os modelos disponíveis. O hangar mantém a saída selada, sem área externa. Não foram implementados puzzles, inventário, inimigos, missões, combate, cutscenes ou save.
+Na expansão inicial de 15/10, Energy Cells Free, Free Sockets and Switches, Planet Earth Free e Hand Painted Nature Kit LITE não foram encontrados. Energy Cells Free e o cartão ARCADIA foram importados posteriormente e já estão integrados aos puzzles. Não houve download ou instalação. City People está importado e ficou fora da cena. Não foi encontrada cápsula científica pronta específica: a contenção usa um berço tecnológico com os modelos disponíveis. A saída do hangar agora abre após três terminais e leva a um pequeno deck de conclusão. Há puzzles simples de bateria/cartão/terminais; continuam fora de escopo inventário complexo, inimigos, combate, cutscenes e save. Os relatórios de expansão de 15/10 registram a ambientação anterior; os testes atuais de gameplay estão em Docs/Relatorios/Gameplay.
 
 ## Outros arquivos modificados
 

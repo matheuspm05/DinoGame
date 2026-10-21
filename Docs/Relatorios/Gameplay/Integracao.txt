@@ -1,0 +1,3 @@
+Tetos com BoxCollider na espessura acima do ambiente: 141. Folhas decorativas sólidas: 9.
+Instalação existente preservada; nenhum item duplicado.
+Controles atualizados nos dois menus: F — Interagir; Ctrl continua Agachar.

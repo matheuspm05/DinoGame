@@ -20,7 +20,7 @@ A Scene List está configurada com `MainMenu` em primeiro, `Level01_Nave_Expande
 - Foram usados `Text` e a fonte nativa `LegacyRuntime.ttf`, sem importar recursos do TextMeshPro.
 - Botões usam `Image`, `Button`, `Color Tint` e eventos OnClick persistentes, visíveis no Inspector. O EventSystem usa `InputSystemUIInputModule`.
 
-O painel de controles informa **WASD**, **mouse**, **Shift esquerdo**, **Espaço**, **Ctrl (segurar) — Agachar** e **ESC**. Ctrl esquerdo ou direito reduz a cápsula de 1,8 m para 1,1 m, baixa suavemente a câmera e limita a velocidade a 1,8 m/s. Soltar Ctrl levanta o jogador quando há espaço acima. Enquanto agachado, correr e pular ficam bloqueados. A pausa preserva a postura; ao continuar, o controlador consulta novamente Ctrl e o espaço livre. Esses parâmetros ficam no Inspector do jogador. Interação ainda não está implementada.
+O painel de controles informa **WASD**, **mouse**, **Shift esquerdo**, **Espaço**, **Ctrl (segurar) — Agachar**, **F — Interagir** e **ESC**. Ctrl esquerdo ou direito reduz a cápsula de 1,8 m para 1,1 m, baixa suavemente a câmera e limita a velocidade a 1,8 m/s. Soltar Ctrl levanta o jogador quando há espaço acima. Enquanto agachado, correr e pular ficam bloqueados. A pausa preserva a postura; ao continuar, o controlador consulta novamente Ctrl e o espaço livre. Esses parâmetros ficam no Inspector do jogador. A interação com F está integrada aos puzzles do Nível 1; veja [Gameplay](Gameplay_Nivel01.md). F não interage durante a pausa.
 
 ## Scripts
 

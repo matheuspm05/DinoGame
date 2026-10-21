@@ -3,12 +3,12 @@ OK: MainMenu é a entrada em Play
 OK: Um único EventSystem na cena
 OK: UI usa o novo Input System
 OK: Canvas Overlay com scaler 1920x1080
-OK: OnClick serializado: Sair
 OK: OnClick serializado: Controles
 OK: OnClick serializado: Voltar
+OK: OnClick serializado: Sair
 OK: OnClick serializado: NovoJogo
 OK: Painel de controles inclui Ctrl para agachar
-OK: Painel não anuncia interação ausente
+OK: Painel anuncia a interação F implementada
 OK: Raycast alcança Controles
 OK: Raycast alcança Controles
 OK: Controles abrem pelo OnClick do Menu Principal
@@ -23,14 +23,16 @@ OK: Pausa começa oculta
 OK: Um único EventSystem na cena
 OK: UI usa o novo Input System
 OK: Canvas Overlay com scaler 1920x1080
-OK: OnClick serializado: MenuPrincipal
-OK: OnClick serializado: Sair
+OK: Canvas Overlay com scaler 1920x1080
 OK: OnClick serializado: ReiniciarNivel
-OK: OnClick serializado: Continuar
+OK: OnClick serializado: MenuPrincipal
 OK: OnClick serializado: Controles
+OK: OnClick serializado: Continuar
+OK: OnClick serializado: Voltar_Menu_Principal
 OK: OnClick serializado: Voltar
+OK: OnClick serializado: Sair
 OK: Painel de controles inclui Ctrl para agachar
-OK: Painel não anuncia interação ausente
+OK: Painel anuncia a interação F implementada
 OK: Controle de movimento existente continua funcionando
 OK: Shift mantém corrida mais rápida que a caminhada
 OK: Espaço mantém salto quando o personagem está em pé
@@ -63,14 +65,16 @@ OK: Reinício não deixa pausa residual
 OK: Um único EventSystem na cena
 OK: UI usa o novo Input System
 OK: Canvas Overlay com scaler 1920x1080
-OK: OnClick serializado: Continuar
-OK: OnClick serializado: Controles
+OK: Canvas Overlay com scaler 1920x1080
+OK: OnClick serializado: Voltar_Menu_Principal
 OK: OnClick serializado: Sair
+OK: OnClick serializado: Voltar
 OK: OnClick serializado: MenuPrincipal
 OK: OnClick serializado: ReiniciarNivel
-OK: OnClick serializado: Voltar
+OK: OnClick serializado: Controles
+OK: OnClick serializado: Continuar
 OK: Painel de controles inclui Ctrl para agachar
-OK: Painel não anuncia interação ausente
+OK: Painel anuncia a interação F implementada
 OK: Raycast alcança MenuPrincipal
 OK: Raycast alcança MenuPrincipal
 OK: Menu Principal troca de cena com tempo normal
@@ -78,12 +82,12 @@ OK: Menu Principal restaura o cursor
 OK: Um único EventSystem na cena
 OK: UI usa o novo Input System
 OK: Canvas Overlay com scaler 1920x1080
+OK: OnClick serializado: Voltar
 OK: OnClick serializado: NovoJogo
 OK: OnClick serializado: Controles
-OK: OnClick serializado: Voltar
 OK: OnClick serializado: Sair
 OK: Painel de controles inclui Ctrl para agachar
-OK: Painel não anuncia interação ausente
+OK: Painel anuncia a interação F implementada
 OK: Raycast alcança NovoJogo
 OK: Raycast alcança NovoJogo
 OK: Novo Jogo funciona após retornar ao menu (cena: Level01_Nave_Expanded)

@@ -1,0 +1,9 @@
+CARTAO ARCADIA / UNITY
+
+Arquivos: .obj (modelo), .mtl (materiais), duas texturas PNG.
+Extraia este ZIP e arraste a pasta Cartao_ARCADIA_Unity para Assets/Models dentro da Unity.
+Arraste Cartao_Arcadia.obj para a cena.
+A escala e real: 0.0856m x 0.054m. Aumente apenas se necessario para visualizacao.
+Se os materiais nao aparecerem: crie dois Materials, arraste as imagens para Base Map e aplique as faces (frente e verso).
+Render pipeline URP: se um material ficar rosa, altere Shader para Universal Render Pipeline/Lit.
+Mesh low-poly com furo superior real e bordas arredondadas. Modelo original criado a partir da arte do projeto.

@@ -86,6 +86,7 @@ namespace ProjetoRetorno.Level01.Editor
                 string validation = ValidateExpandedStructure(scene);
                 int distinct = Level01ExpandedAudit.WriteAssetsReport(scene, ExpandedSources.Values.ToArray());
                 if (distinct < 70) throw new InvalidOperationException("Contagem comprovada insuficiente: " + distinct + ". Consulte o relatório.");
+                Level01GameplaySetup.InstallIntoScene(scene);
                 if (!EditorSceneManager.SaveScene(scene, ExpandedScenePath)) throw new IOException("Não foi possível salvar a cena expandida.");
                 AssetDatabase.SaveAssets();
                 Directory.CreateDirectory("Docs/Relatorios/Nivel01_Expandido");

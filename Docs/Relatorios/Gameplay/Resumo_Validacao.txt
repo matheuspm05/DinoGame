@@ -1,0 +1,31 @@
+Validação final do Nível 1 — 20/10/2026
+Unity 6000.0.81f1 / URP / Input System novo
+
+Cena integrada: Assets/Scenes/Level01_Nave_Expanded.unity
+A nave não foi regenerada. Controlador de movimento/câmera e menus existentes reutilizados.
+Compilação e execução no Unity Editor: aprovadas.
+
+Evidências:
+1. Testes_Play.txt — progressão completa aprovada; 731 movimentos físicos da cápsula.
+   F via Input System: bateria, instalação, cartão, leitor e terminais.
+   Negativos: sem bateria, sem cartão, fora de alcance, atrás de porta/parede e durante pausa.
+   Portas fechadas impedem passagem; abertas permitem a rota.
+   Três terminais em ordem 1, 3, 2; repetição não conta; 0/3, 1/3, 2/3 e 3/3.
+   Saída e trigger de conclusão, retorno ao menu, Novo Jogo e reinício com estado zerado.
+   Aproximação da saída sem aguardar a abertura completa do portão.
+2. Auditoria_Cena.txt — zero scripts ausentes; um jogador, um gerente e um EventSystem.
+   Referências/fontes reais; materiais dos novos modelos URP.
+   Folhas móveis sem flags estáticas e sem sobreposição com paredes nas poses fechada/aberta.
+   Verso do cartão apontando para Arcadia_Verso.png.
+3. ../Menus/Menus_Validacao.txt — regressão aprovada em 20/10/2026.
+   Cliques reais, movimento, câmera, corrida, salto, Ctrl, teto baixo, pausa/continuação,
+   controles, reiniciar, voltar ao menu, Novo Jogo e Sair encerrando Play.
+4. 141 tetos modulares com BoxCollider sólido de 0.24 m, acima do limite interno.
+   Raycasts contra todos os módulos e subida da cápsula nos nove setores aprovados.
+5. Docs/Previas/Gameplay — capturas do HUD, bateria, cartão, hangar 3/3, conclusão e
+   as duas faces do cartão renderizadas. Frente/verso revisados visualmente.
+6. Scene List preservada: MainMenu, Level01_Nave_Expanded, Level01_Nave.
+
+Limites: testes feitos no Editor; executável não foi gerado. Uma partida humana e a conferência
+de iluminação/legibilidade nas resoluções da equipe ainda são recomendadas.
+Veja Docs/Guias/Gameplay_Nivel01.md e Arquivos.md para roteiro, referências e responsabilidades.

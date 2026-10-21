@@ -52,3 +52,22 @@ Esses cinco arquivos usam `partial class Level01NaveGenerator`: são partes da *
 - **Contagem dos assets:** `Level01ExpandedAudit.cs` e os relatórios em `Docs/Relatorios/Nivel01_Expandido`.
 
 O ponto de entrada para jogar continua sendo `Assets/Scenes/MainMenu.unity`. As ferramentas de Editor não entram como componentes de gameplay na build.
+
+## Gameplay do Nível 1 — Runtime/Gameplay e Editor/Level01/Gameplay
+
+A progressão foi integrada à nave expandida. O [guia de gameplay](Gameplay_Nivel01.md) apresenta os campos, objetos, comandos do Editor e o roteiro de teste.
+
+| Script | Para que serve |
+|---|---|
+| [IInteractable.cs](../../Assets/Scripts/Runtime/Gameplay/Interaction/IInteractable.cs) | Contrato compartilhado de mensagem e execução de interação. |
+| [PlayerInteraction.cs](../../Assets/Scripts/Runtime/Gameplay/Interaction/PlayerInteraction.cs) | F e raycast da câmera, alcance 3 m, bloqueio por paredes/portas e pausa. É acrescentado ao jogador existente. |
+| [Level01GameManager.cs](../../Assets/Scripts/Runtime/Gameplay/Level01/Level01GameManager.cs) | Estado único dos puzzles, objetivos, requisitos de abertura e conclusão. Reiniciar a cena zera tudo. |
+| [Level01Interactable.cs](../../Assets/Scripts/Runtime/Gameplay/Level01/Level01Interactable.cs) | Um componente configurável para bateria, painel, cartão, leitor e três terminais; encaminha ações ao gerente. |
+| [DoorController.cs](../../Assets/Scripts/Runtime/Gameplay/Level01/DoorController.cs) | Desliza a folha real com seu collider sólido, retirando-a do vão. |
+| [ObjectiveHUD.cs](../../Assets/Scripts/Runtime/Gameplay/UI/ObjectiveHUD.cs) | Objetivo, mira, mensagem F, confirmações temporárias, contador e página final no Canvas. |
+| [LevelCompleteTrigger.cs](../../Assets/Scripts/Runtime/Gameplay/Level01/LevelCompleteTrigger.cs) | Detecta a saída do jogador e solicita conclusão somente após o desbloqueio completo. |
+| [Level01GameplaySetup.cs](../../Assets/Scripts/Editor/Level01/Gameplay/Level01GameplaySetup.cs) | Integra os puzzles sem gerar a nave, cria prefabs/materiais locais e corrige colisores/controles. O gerador chama esta integração ao reconstruir futuramente. |
+| [Level01GameplayValidation.cs](../../Assets/Scripts/Editor/Level01/Gameplay/Level01GameplayValidation.cs) | Testa o fluxo inteiro em Play, F/ESC reais do Input System, cápsula, portas/tetos, conclusão e resets. |
+| [Level01GameplayAudit.cs](../../Assets/Scripts/Editor/Level01/Gameplay/Level01GameplayAudit.cs) | Audita referências reais e materiais e renderiza frente/verso do cartão. |
+
+Para alterar a ordem/requisitos dos puzzles, edite **Level01GameManager**. Para reposicionar itens, selecione os objetos sob **Gameplay_Level01** na cena. Para a aparência do HUD, edite **Canvas_Gameplay** pela Hierarchy/Inspector. Os campos e referências do controlador de movimento original continuam preservados.

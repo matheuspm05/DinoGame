@@ -2,8 +2,26 @@
 
 Projeto acadêmico em Unity 6, URP e novo Input System.
 
-Para jogar no Editor, abra `Assets/Scenes/MainMenu.unity` e pressione **Play**. Novo Jogo inicia `Level01_Nave_Expanded`. A cena `Level01_Nave` mantém a referência original.
+## Como baixar e jogar
 
+1. Instale o **Git**, o **Git LFS** e o **Unity Hub**.
+2. Pelo Unity Hub, instale a Unity **6000.0.81f1**.
+3. Abra o terminal e execute:
+
+   ```bash
+   git lfs install
+   git clone https://github.com/matheuspm05/DinoGame.git
+   cd DinoGame
+   git lfs pull
+   ```
+
+4. Aguarde o download terminar. No Unity Hub, adicione a pasta `DinoGame` e abra o projeto.
+5. Aguarde a importação e abra `Assets/Scenes/MainMenu.unity`.
+6. Pressione **Play** e clique em **Novo Jogo**.
+
+## Documentação
+
+- [Gameplay do Nível 1: puzzles, itens e testes](Docs/Guias/Gameplay_Nivel01.md)
 - [Mapa da documentação](Docs/README.md)
 - [Para que serve cada script](Docs/Guias/Scripts.md)
 - [Como usar o nível expandido](Docs/Guias/Level01_Expanded_ComoUsar.md)
