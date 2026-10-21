@@ -1,0 +1,36 @@
+\subsubsection{Estrutura da Missão/Desafio}
+
+O caminho obrigatório implementado no Nível 1 é:
+
+\begin{enumerate}
+\item Pegar uma caixa na sala de contenção.
+\item Arremessar a caixa contra o alvo acima da porta inicial.
+\item Encontrar a bateria em Máquinas/Carga, acessível pelo lado
+esquerdo do depósito.
+\item Instalar a bateria no painel da sala de energia.
+\item Entrar no laboratório desbloqueado e encontrar o cartão.
+\item Usar o cartão no leitor da segurança para liberar o hangar.
+\item Ativar os três terminais do hangar, em qualquer ordem.
+\item Atravessar a saída iluminada para concluir o nível.
+\end{enumerate}
+
+Adotar o Sparrow é uma atividade opcional depois da primeira porta
+e não bloqueia a progressão.
+
+\subsubsection{Estrutura dos Enigmas}
+
+Os desafios utilizam exploração, observação e interação simples.
+Não há senhas, ordem secreta de terminais ou minigames na versão atual.
+
+\paragraph{Impacto} Pegar a caixa com F e lançá-la com o botão esquerdo
+do mouse contra o alvo físico acima da porta. Erros permitem novas tentativas.
+
+\paragraph{Energia} Coletar a bateria e instalá-la no painel. A energia
+restaurada libera o laboratório.
+
+\paragraph{Acesso} Encontrar o único cartão, sorteado entre três pontos
+válidos do laboratório, e utilizá-lo no leitor da segurança.
+
+\paragraph{Três sistemas} Ativar uma vez cada terminal do hangar.
+A ordem é livre. Somente o conjunto completo libera a saída externa.
+

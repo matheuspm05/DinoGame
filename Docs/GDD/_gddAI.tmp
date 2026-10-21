@@ -1,0 +1,42 @@
+\section{Inteligência Artificial}
+
+\subsection{Comportamento implementado do companheiro}
+
+O Sparrow usa um comportamento simples e independente da progressão
+dos puzzles. Antes da adoção, permanece no ponto de espera, com
+variações periódicas de repouso. Depois de F, acompanha um alvo
+lateral próximo ao jogador.
+
+O movimento utiliza interpolação, verificação de obstáculos e
+recuperação segura por distância ou bloqueio. Não existe patrulha,
+combate, coleta de itens, navegação por NavMesh ou tomada de decisões
+complexa no pet.
+
+O pássaro pausa com o jogo, não bloqueia portas e não ativa os
+triggers de conclusão. Seus clipes reais são controlados pelo
+Animator original do pacote.
+
+\subsection{IA oponente e inimiga -- planejamento}
+
+A campanha prevê inimigos nos níveis posteriores, com máquina de
+estados simples: repouso, patrulha, suspeita, alerta, perseguição,
+busca e retorno.
+
+O planejamento inclui pontos de patrulha, distância e campo de
+visão, Raycast para verificar obstáculos e navegação por NavMesh.
+Esses sistemas não estão implementados no Nível 1 e não devem ser
+apresentados como uma funcionalidade atual das câmeras decorativas.
+
+\subsection{NPCs amigáveis -- planejamento}
+
+Tala e os rebeldes deverão participar dos níveis 4 e 5. Conversas,
+acompanhamento narrativo, objetivos fornecidos por NPCs e navegação
+por NavMesh são previstos para a campanha, não para o pet atual.
+
+\subsection{Sistemas de suporte}
+
+Na versão atual são utilizados Raycasts, Layers, colliders, triggers,
+referências de componentes e interpolação. NavMesh e NavMesh Agent
+continuam previstos para etapas futuras. O acompanhamento do
+Sparrow não comprova a implementação desses dois recursos.
+

@@ -54,6 +54,8 @@ namespace ProjetoRetorno.Level01.Editor
                     if (Mathf.Abs(capsule.height - 1.8f) > .01f || player.view == null || player.view.GetComponent<Camera>() == null)
                         throw new InvalidOperationException("Configuração original de jogador não preservada.");
                     route = JsonUtility.FromJson<ExpandedTourRoute>(File.ReadAllText("Docs/Relatorios/Nivel01_Expandido/Level01_Expanded_Navegacao.json")).points;
+                    // O passeio verifica geometria com as portas abertas; a progressão fechada é testada pelo validador de gameplay.
+                    foreach (var gate in UnityEngine.Object.FindObjectsByType<ProjetoRetorno.Gameplay.DoorController>(FindObjectsSortMode.None)) gate.SetOpen(true, true);
                     player.enabled = false;
                     target = 0; steps = 0; stalled = 0;
                     deadline = EditorApplication.timeSinceStartup + 120;

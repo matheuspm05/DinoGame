@@ -1,0 +1,157 @@
+\section{Interface}
+
+\subsection{Sistema visual}
+
+A interface segue o sistema tradicional de UI da Unity, com
+GameObject Canvas, Panel, Button, Text e eventos OnClick conectados
+a scripts. Não utiliza UI Toolkit ou interface externa.
+
+O Canvas usa \textit{Screen Space -- Overlay}; o Canvas Scaler usa
+\textit{Scale With Screen Size}, com referência de 1920$\times$1080.
+O estilo é futurista, com fundo escuro, detalhes azul/ciano e textos
+claros. Há um EventSystem por cena de jogo/menu, usando o novo
+Input System.
+
+\subsubsection*{HUD de gameplay}
+
+\begin{itemize}
+\item Objetivo atual no canto superior esquerdo.
+\item Mira pequena no centro da tela.
+\item Ação contextual na parte inferior central.
+\item Mensagens temporárias para coleta, instalação, adoção e ativações.
+\item Progresso dos terminais, de 0/3 a 3/3.
+\end{itemize}
+
+Não há barra de vida, inventário visual ou indicador de detecção.
+O HUD de gameplay é ocultado durante a pausa para não disputar
+espaço com os menus.
+
+\subsubsection*{Menu Principal}
+
+A cena \texttt{MainMenu.unity} apresenta:
+
+\begin{itemize}
+\item Título: ECOS DO CRETÁCEO.
+\item Subtítulo: PROJETO RETORNO.
+\item Novo Jogo: inicia o Nível 1 com os estados zerados.
+\item Controles: abre o painel dos comandos.
+\item Sair: encerra a aplicação na build.
+\end{itemize}
+
+Não há botão de carregar save ou menu de opções na versão atual.
+
+\subsubsection*{Menu de Pausa}
+
+ESC abre ou fecha o painel sobre o cenário. O jogo usa
+\texttt{Time.timeScale = 0}, mostra o cursor e bloqueia movimento,
+câmera, interação e arremesso. O áudio de gameplay e as partículas
+também pausam. A interface continua respondendo aos cliques.
+
+Os botões são:
+
+\begin{enumerate}
+\item Continuar.
+\item Controles.
+\item Reiniciar Nível.
+\item Menu Principal.
+\item Sair.
+\end{enumerate}
+
+Reiniciar recarrega a cena atual. Trocar de cena restaura o tempo
+normal. No Editor, Sair encerra o modo Play; na build, encerra
+a aplicação.
+
+\subsubsection*{Tela de conclusão}
+
+Mostra o título NÍVEL 1 CONCLUÍDO, a confirmação da fuga e
+o botão Voltar ao Menu Principal. Não oferece continuidade para
+um Nível 2 ainda não implementado.
+
+\subsection{Sistema de controle}
+
+\begin{center}
+\begin{tabularx}{\textwidth}{|p{4.3cm}|X|}
+\hline
+\textbf{Comando} & \textbf{Ação implementada}\\
+\hline
+W / A / S / D & Movimentação.\\
+\hline
+Mouse & Controlar câmera.\\
+\hline
+Espaço & Pular quando não estiver agachado.\\
+\hline
+Shift esquerdo & Correr.\\
+\hline
+Ctrl esquerdo ou direito, segurado & Agachar.\\
+\hline
+F & Interagir, coletar, usar painéis, pegar a primeira caixa e adotar o Sparrow.\\
+\hline
+Botão esquerdo do mouse & Arremessar uma caixa enquanto o desafio inicial estiver ativo.\\
+\hline
+ESC & Pausar / continuar.\\
+\hline
+\end{tabularx}
+\end{center}
+
+A tecla C não é um comando alternativo de agachamento.
+O clique esquerdo não ataca ou dispara armas na versão atual.
+
+\subsection{Áudio, música e efeitos sonoros}
+
+Foram localizados 173 AudioClips dos pacotes Kenney Sci-fi Sounds
+e Kenney Interface Sounds. O pacote adicional citado para falas,
+anúncios e ambientes não foi encontrado importado.
+
+Os clipes atualmente utilizados são:
+
+\begin{center}
+\begin{tabularx}{\textwidth}{|p{5cm}|X|}
+\hline
+\textbf{Clipe Kenney} & \textbf{Aplicação}\\
+\hline
+\texttt{doorOpen\_000.ogg} & Porta inicial e saída externa.\\
+\hline
+\texttt{doorOpen\_001.ogg} & Porta do laboratório.\\
+\hline
+\texttt{doorOpen\_002.ogg} & Porta do hangar.\\
+\hline
+\texttt{confirmation\_001.ogg} & Instalação bem-sucedida da bateria.\\
+\hline
+\texttt{error\_006.ogg} & Aviso eletrônico da saída externa, repetido por quatro segundos.\\
+\hline
+\texttt{engineCircular\_000.ogg} & Ambiente discreto da sala de energia.\\
+\hline
+\end{tabularx}
+\end{center}
+
+As fontes das portas e do pet são 3D. O som de abertura é disparado
+quando a folha começa a mover, sem repetição por frame. O aviso
+externo é finito, não uma fala ou sirene de um pacote inexistente.
+
+Não há trilha musical implementada. A alternância entre músicas de
+exploração, tensão e perseguição permanece como ideia para fases futuras.
+
+\subsubsection*{Passos e cantos: sistemas preparados}
+
+\texttt{PlayerFootstepAudio} lê velocidade real e contato com o chão.
+A corrida aumenta a frequência; parado ou no ar não gera passos.
+Pode variar pitch e escolher clipes sem repetição imediata.
+
+\texttt{CompanionChirps} só agenda cantos após a adoção, em intervalos
+aleatórios de 8 a 20 segundos, com volume discreto e fonte no pássaro.
+
+\textbf{Os arrays estão vazios por falta de áudios adequados.}
+Esses sons ainda não são ouvidos no jogo. Atribuir clipes reais no
+Inspector completa a configuração, sem usar efeitos eletrônicos
+como substitutos de passos ou cantos.
+
+\subsection{Sistema de ajuda}
+
+O objetivo orienta a progressão e a mensagem de interação descreve
+a ação disponível. O painel Controles funciona no Menu Principal
+e na pausa e possui botão Voltar.
+
+Mensagens de requisito informam quando faltam bateria ou cartão.
+As confirmações desaparecem após alguns segundos. Não há guia
+por setas, marcador de missão no mundo ou diálogo de ajuda.
+

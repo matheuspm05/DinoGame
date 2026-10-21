@@ -1,0 +1,55 @@
+SCENE Assets/Scenes/Level01_Nave_Expanded.unity dirty=True
+ASSET Assets/Energy/Type 1/EnergyCell_1/Models/EnergyCell_1_1.obj
+ Renderer Cylinder002 bounds=Center: (0.00, 0.30, 0.00), Extents: (0.12, 0.30, 0.12) materials=Cylinder002Mat/Universal Render Pipeline/Lit
+ Mesh Cylinder002 bounds=Center: (0.00, 0.30, 0.00), Extents: (0.12, 0.30, 0.12) submeshes=1
+ASSET Assets/Energy/Type 1/EnergyCell_1/Prefabs/EnergyCell_1_1.prefab
+ Renderer EnergyCell_1_1 bounds=Center: (-38.12, -0.05, -9.83), Extents: (0.12, 0.30, 0.12) materials=EnergyCell_1_1/Standard (Specular setup)
+ Mesh Cylinder002 bounds=Center: (0.00, 0.30, 0.00), Extents: (0.12, 0.30, 0.12) submeshes=1
+ASSET Assets/Energy/Type 2/EnergyCell_2/Models/EnergyCell_2.obj
+ Renderer Cylinder001 bounds=Center: (0.00, 0.47, 0.00), Extents: (0.13, 0.47, 0.13) materials=Cylinder001Mat/Universal Render Pipeline/Lit
+ Mesh Cylinder001 bounds=Center: (0.00, 0.47, 0.00), Extents: (0.13, 0.47, 0.13) submeshes=1
+ Renderer Glass bounds=Center: (0.00, 0.26, 0.00), Extents: (0.11, 0.21, 0.11) materials=GlassMat/Universal Render Pipeline/Lit
+ Mesh Glass bounds=Center: (0.00, 0.26, 0.00), Extents: (0.11, 0.21, 0.11) submeshes=1
+ASSET Assets/Energy/Type 2/EnergyCell_2/Prefabs/EnergyCell_2_1.prefab
+ Renderer EnergyCell_2_1 bounds=Center: (-29.47, 0.12, -10.54), Extents: (0.13, 0.47, 0.13) materials=EnergyCell_2_1/Standard (Specular setup)
+ Mesh Cylinder001 bounds=Center: (0.00, 0.47, 0.00), Extents: (0.13, 0.47, 0.13) submeshes=1
+ Renderer Glass bounds=Center: (-29.47, 0.12, -10.54), Extents: (0.12, 0.29, 0.12) materials=EnergyCell_2_Glass/Standard
+ Mesh Glass bounds=Center: (0.00, 0.26, 0.00), Extents: (0.11, 0.21, 0.11) submeshes=1
+ASSET Assets/Cartao_ARCADIA_Unity/Cartao_Arcadia.obj
+ Renderer default bounds=Center: (0.00, 0.00, 0.00), Extents: (0.04, 0.03, 0.00) materials=front/Universal Render Pipeline/Lit,back/Universal Render Pipeline/Lit,edge/Universal Render Pipeline/Lit
+ Mesh default bounds=Center: (0.00, 0.00, 0.00), Extents: (0.04, 0.03, 0.00) submeshes=3
+MAP Roof_01_002 pos=(-4.00, 3.92, -3.33) local=(-4.00, 3.92, -3.33) colliders=1
+MAP Roof_01 pos=(-2.00, 2.84, -5.00) local=(1.50, -3.37, -1.50) colliders=1
+MAP Roof_01 pos=(-2.00, 2.84, -5.00) local=(0.00, 0.00, 0.00) colliders=1
+MAP Roof_01_004 pos=(-4.00, 3.92, 0.00) local=(-4.00, 3.92, 0.00) colliders=1
+MAP Roof_01 pos=(-2.00, 2.84, -1.67) local=(1.50, -3.37, -1.50) colliders=1
+MAP Roof_01 pos=(-2.00, 2.84, -1.67) local=(0.00, 0.00, 0.00) colliders=1
+MAP Roof_01_006 pos=(-4.00, 3.92, 3.33) local=(-4.00, 3.92, 3.33) colliders=1
+MAP Roof_01 pos=(-2.00, 2.84, 1.67) local=(1.50, -3.37, -1.50) colliders=1
+MAP Roof_01 pos=(-2.00, 2.84, 1.67) local=(0.00, 0.00, 0.00) colliders=1
+MAP Roof_01_008 pos=(0.00, 3.92, -3.33) local=(0.00, 3.92, -3.33) colliders=1
+MAP Roof_01 pos=(2.00, 2.84, -5.00) local=(1.50, -3.37, -1.50) colliders=1
+MAP Roof_01 pos=(2.00, 2.84, -5.00) local=(0.00, 0.00, 0.00) colliders=1
+MAP Roof_01_010 pos=(0.00, 3.92, 0.00) local=(0.00, 3.92, 0.00) colliders=1
+MAP Roof_01 pos=(2.00, 2.84, -1.67) local=(1.50, -3.37, -1.50) colliders=1
+MAP Roof_01 pos=(2.00, 2.84, -1.67) local=(0.00, 0.00, 0.00) colliders=1
+MAP Roof_01_012 pos=(0.00, 3.92, 3.33) local=(0.00, 3.92, 3.33) colliders=1
+MAP Roof_01 pos=(2.00, 2.84, 1.67) local=(1.50, -3.37, -1.50) colliders=1
+MAP Roof_01 pos=(2.00, 2.84, 1.67) local=(0.00, 0.00, 0.00) colliders=1
+MAP Roof_01_014 pos=(4.00, 3.92, -3.33) local=(4.00, 3.92, -3.33) colliders=1
+MAP Roof_01 pos=(6.00, 2.84, -5.00) local=(1.50, -3.37, -1.50) colliders=1
+MAP Roof_01 pos=(6.00, 2.84, -5.00) local=(0.00, 0.00, 0.00) colliders=1
+MAP Roof_01_016 pos=(4.00, 3.92, 0.00) local=(4.00, 3.92, 0.00) colliders=1
+MAP Roof_01 pos=(6.00, 2.84, -1.67) local=(1.50, -3.37, -1.50) colliders=1
+MAP Roof_01 pos=(6.00, 2.84, -1.67) local=(0.00, 0.00, 0.00) colliders=1
+MAP Roof_01_018 pos=(4.00, 3.92, 3.33) local=(4.00, 3.92, 3.33) colliders=1
+MAP Roof_01 pos=(6.00, 2.84, 1.67) local=(1.50, -3.37, -1.50) colliders=1
+MAP Roof_01 pos=(6.00, 2.84, 1.67) local=(0.00, 0.00, 0.00) colliders=1
+MAP Door_Frame_Square_875 pos=(0.00, 1.65, 5.00) local=(0.00, 1.65, 5.00) colliders=0
+MAP Door_Frame_Square pos=(0.00, 0.01, 5.00) local=(0.00, -2.49, 0.00) colliders=0
+MAP Door_Left_01_876 pos=(2.00, 1.40, 5.16) local=(2.00, 1.40, 5.16) colliders=1
+MAP Door_Left_01 pos=(2.44, 0.00, 4.94) local=(1.63, -1.75, -0.50) colliders=1
+MAP Door_Left_01 pos=(2.44, 0.00, 4.94) local=(0.00, 0.00, 0.00) colliders=1
+MAP Door_Arch_01_898 pos=(0.00, 1.50, -4.75) local=(0.00, 1.50, -4.75) colliders=1
+MAP Door_Arch_01 pos=(0.30, 1.13, -4.85) local=(1.50, -1.88, -0.50) colliders=1
+MAP Door_Arch_01 pos=(0.30, 1.13, -4.85) local=(0.00, 0.00, 0.00) colliders=1

@@ -1,0 +1,152 @@
+\subsection{Mecânicas}
+
+\subsubsection{Física e colisões}
+
+O jogador usa o \texttt{CharacterController} existente, gravidade e
+colisão com o cenário. Não utiliza Rigidbody para a movimentação.
+
+As caixas arremessadas usam Rigidbody, impulso com \texttt{AddForce},
+torque com \texttt{AddTorque} e detecção contínua de colisão. A direção
+do lançamento acompanha a câmera.
+
+Pisos, paredes, tetos, portas fechadas e equipamentos sólidos possuem
+colisores adequados à geometria. São priorizados BoxColliders e
+composições simples. Mesas usam tampo e pés; marcos de portas usam
+laterais e verga. Cabos baixos não se tornam barreiras desnecessárias.
+
+Cada porta de progressão desloca sua folha por \texttt{Translate}.
+O collider sólido acompanha a folha e libera o vão ao abrir.
+Triggers de interação e conclusão são separados da colisão física.
+
+\subsubsection{Movimento no jogo}
+
+\begin{itemize}
+\item WASD: andar.
+\item Mouse: olhar ao redor, com limite vertical.
+\item Shift esquerdo: correr.
+\item Espaço: saltar.
+\item Ctrl esquerdo ou direito, mantido pressionado: agachar.
+\end{itemize}
+
+O agachamento reduz a cápsula e a altura da câmera sem deslocar os
+pés. O jogador só fica em pé quando há espaço acima. Não há stamina.
+
+\subsubsection{Interação em primeira pessoa}
+
+\texttt{PlayerInteraction} utiliza Raycast a partir da câmera, com
+alcance máximo de aproximadamente 3 metros. A tecla principal é
+\textbf{F}. A mensagem contextual aparece na parte inferior da tela.
+
+Obstáculos sólidos interrompem a busca. Não se coletam itens ou se
+acionam painéis através de paredes ou portas fechadas.
+\texttt{IInteractable} é o contrato compartilhado pelos interativos
+e pela adoção do Sparrow. A tecla E não é utilizada nesta versão.
+
+Interações e lançamentos são bloqueados na pausa e após a conclusão.
+
+\subsubsection{Arremesso e spawn de caixas}
+
+A caixa inicial fica no chão da contenção. Após F, uma instância
+aparece no \texttt{HoldPoint}, filho da câmera, abaixo e ao lado da
+mira. Enquanto segura, não colide com o jogador nem intercepta seus
+Raycasts.
+
+O botão esquerdo lança uma caixa física. A função de spawn usa
+\texttt{Instantiate} para criar automaticamente outra na mão.
+Um array contém dois prefabs locais de caixas baseados em modelos
+reais, selecionados com \texttt{Random.Range}.
+
+Os parâmetros atuais são impulso 11, torque 0,08, intervalo mínimo
+de 0,45 segundo, duração de 12 segundos e limite de oito projéteis
+ativos. São configuráveis no Inspector.
+
+Somente uma caixa efetivamente lançada pelo sistema ativa o alvo.
+O acerto abre a primeira porta, confirma visualmente o sucesso,
+remove as caixas e interrompe a geração de reposições.
+
+\subsubsection{Itens e estado dos puzzles}
+
+Bateria e cartão são itens-chave registrados por estado, sem
+inventário visual complexo. A coleta remove o item do cenário.
+A bateria instalada aparece no encaixe do painel.
+
+O cartão reutiliza o modelo ARCADIA, com \texttt{Arcadia\_Verso}
+no verso. Há somente um cartão ativo. No início de cada partida,
+é sorteado em execução entre três pontos apoiados em mesas reais
+do laboratório. São verificados limites, apoio e espaço livre.
+
+\texttt{Level01GameManager} é a única fonte de verdade para energia,
+cartão, terminais e conclusão, evitando estados conflitantes.
+
+\subsubsection{Passarinho companheiro}
+
+O Sparrow é opcional. Começa no chão de um ponto visível do corredor
+logo depois da primeira porta, sem acompanhar o jogador.
+
+Ao mirar nele e pressionar F, aparece a mensagem
+\emph{Novo companheiro encontrado!}. A adoção é registrada apenas na
+partida. O alvo de interação é desativado e o pássaro decola para
+seguir suavemente ao lado do protagonista.
+
+O movimento usa interpolação, varreduras contra obstáculos e uma
+trilha curta do jogador. Se necessário, a recuperação ocorre de
+forma oculta em posição segura fora da vista frontal. Não usa NavMesh.
+
+Após a adoção, o pet não tem colisão física ativa, não bloqueia
+Raycasts, não aciona puzzles ou conclusão e não interfere nas caixas.
+Pausa com ESC e volta a esperar ao reiniciar.
+
+\subsubsection{Combate e furtividade}
+
+Não há combate, inimigos, dano, vida, drone ou furtividade funcional
+no Nível 1 atual. Câmeras de vigilância são decorativas.
+
+A campanha prevê furtividade no Nível 3 e ação simples nas etapas
+finais. São sistemas futuros, ainda não implementados.
+
+\subsubsection{Economia}
+
+Não há dinheiro, comércio ou loja. A progressão depende de itens-chave,
+ações concluídas e acesso a novas áreas.
+
+\subsubsection{Fluxo de telas atual}
+
+\begin{center}
+\textbf{MainMenu: Novo Jogo / Controles / Sair}\\[0.2cm]
+$\downarrow$\\[0.2cm]
+\textbf{Level01\_Nave\_Expanded}\\[0.2cm]
+$\leftrightarrow$ \textbf{Pausa por ESC}\\[0.2cm]
+$\downarrow$\\[0.2cm]
+\textbf{NÍVEL 1 CONCLUÍDO}\\[0.2cm]
+$\downarrow$\\[0.2cm]
+\textbf{Voltar ao Menu Principal}
+\end{center}
+
+A campanha completa mantém cinco níveis planejados e um final
+narrativo. Essa sequência ainda não é jogável na versão atual.
+
+\subsection{Opções do jogo}
+
+O menu oferece a consulta dos controles. Não há tela de ajustes de
+volume, sensibilidade, resolução ou qualidade gráfica. A equipe
+pode editar parâmetros no Inspector.
+
+\subsection{Rejogabilidade e salvamento}
+
+Não há save, carregamento de progresso ou checkpoints. Novo Jogo e
+Reiniciar Nível recarregam a cena e zeram os estados.
+
+A porta inicial fecha, caixas antigas desaparecem, bateria retorna,
+cartão é sorteado novamente, terminais são resetados, saída e luz
+voltam ao início, e o Sparrow espera sem adoção.
+
+O sorteio do cartão e as variações de idle acrescentam pequena
+variedade sem alterar a solução principal.
+
+\subsection{Exploração opcional e Easter Eggs}
+
+Explorar salas auxiliares e adotar o Sparrow são atividades opcionais.
+Não há sala secreta, senha especial, documento coletável ou Easter Egg
+funcional declarado como implementado. Referências adicionais poderão
+ser incluídas depois, sem complicar o percurso obrigatório.
+

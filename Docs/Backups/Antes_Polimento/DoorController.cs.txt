@@ -1,0 +1,35 @@
+using UnityEngine;
+
+namespace ProjetoRetorno.Gameplay
+{
+    /// <summary>Desloca somente a folha e seu collider sólido, deixando o vão livre depois da abertura.</summary>
+    public sealed class DoorController : MonoBehaviour
+    {
+        public Transform movingLeaf;
+        public BoxCollider solidCollider;
+        public Vector3 closedLocalPosition;
+        public Vector3 openLocalOffset = new Vector3(-3.9f, 0, 0);
+        public float speed = 4f;
+        public bool IsOpen { get; private set; }
+        public bool IsFullyOpen => IsOpen && movingLeaf != null &&
+            (movingLeaf.localPosition - closedLocalPosition - openLocalOffset).sqrMagnitude < .0001f;
+
+        /// <summary>open solicita abertura/fechamento; immediate aplica sem transição. Sem retorno. Mantém a colisão na folha móvel.</summary>
+        public void SetOpen(bool open, bool immediate = false)
+        {
+            IsOpen = open;
+            if (movingLeaf == null) return;
+            if (solidCollider != null) { solidCollider.enabled = true; solidCollider.isTrigger = false; }
+            if (immediate) movingLeaf.localPosition = closedLocalPosition + (open ? openLocalOffset : Vector3.zero);
+        }
+
+        /// <summary>Sem argumentos/retorno. Move a folha até o destino usando tempo escalado; a pausa congela o movimento.</summary>
+        private void Update()
+        {
+            if (movingLeaf == null) return;
+            Vector3 destination = closedLocalPosition + (IsOpen ? openLocalOffset : Vector3.zero);
+            Vector3 next = Vector3.MoveTowards(movingLeaf.localPosition, destination, speed * Time.deltaTime);
+            movingLeaf.Translate(next - movingLeaf.localPosition, movingLeaf.parent);
+        }
+    }
+}

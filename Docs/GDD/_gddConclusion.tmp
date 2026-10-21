@@ -1,0 +1,24 @@
+\section*{Conclusão}
+
+\addcontentsline{toc}{section}{Conclusão}
+
+\jogo{} mantém a proposta de aventura narrativa em cinco níveis,
+com mistério e revelações graduais sobre Kryos, a Terra e a
+civilização dos dinossauros.
+
+A entrega implementada concentra-se no Nível 1: sair da contenção
+por um desafio de arremesso, restaurar energia, encontrar o cartão,
+liberar o hangar, ativar três terminais e atravessar a saída iluminada.
+O Sparrow oferece uma interação opcional de companheirismo sem
+aumentar a complexidade dos puzzles.
+
+O jogo atual preserva movimentação e menus, possui HUD, colisões,
+spawn, randomização, áudio disponível, partículas e animações reais
+do pet. As limitações de clipes, animação do protagonista e
+compatibilidade com o laboratório estão registradas.
+
+Os níveis 2 a 5 e seus sistemas narrativos, ambientais e de IA
+continuam como planejamento. O documento diferencia essa intenção
+da implementação existente, permitindo apresentar o trabalho
+acadêmico com evidências e escopo verificável.
+

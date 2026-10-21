@@ -1,0 +1,30 @@
+\subsection*{Estado do documento e da implementação}
+
+Esta revisão, de 21 de outubro de 2026, descreve o \textbf{Nível 1
+já jogável} e o \textbf{planejamento da campanha com cinco níveis}.
+Os níveis 2 a 5, seus personagens, diálogos, combates e eventos
+continuam sendo propostas de design.
+
+A versão atual contém Menu Principal, Nível 1 com progressão completa,
+Menu de Pausa e tela de conclusão. Ainda não existe transição jogável
+para o Nível 2. As cenas da seção narrativa orientam o desenvolvimento
+e não representam conteúdo já encenado no jogo.
+
+\begin{center}
+\begin{tabularx}{\textwidth}{|p{3cm}|X|}
+\hline
+\textbf{Situação} & \textbf{Conteúdo}\\
+\hline
+Implementado & Movimentação, corrida, salto, agachamento, interação F,
+arremesso, bateria, cartão aleatório, três terminais, portas, HUD,
+menus, pet adotável, partículas e áudio disponível.\\
+\hline
+Preparado & Componentes de passos e cantos do pássaro, ainda sem
+AudioClips adequados atribuídos.\\
+\hline
+Planejado & Níveis 2--5, narrativa encenada, inimigos, furtividade,
+combate, vida, checkpoints, salvamento, diálogos e NavMesh.\\
+\hline
+\end{tabularx}
+\end{center}
+

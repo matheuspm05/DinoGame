@@ -1,0 +1,9 @@
+2026-10-21T01:08:30
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.InvalidOperationException: Um modelo do cenário foi deslocado: Energia_Ativacao
+  at ProjetoRetorno.Level01.Editor.Level01PolishSetup.Install () [0x0015d] in C:\Users\matheus\Desktop\dino3\Assets\Scripts\Editor\Level01\Gameplay\Level01PolishSetup.cs:47 
+  at (wrapper managed-to-native) System.Reflection.RuntimeMethodInfo.InternalInvoke(System.Reflection.RuntimeMethodInfo,object,object[],System.Exception&)
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0006a] in <4449e9424e7e4d4d81a660907c68cb97>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00083] in <4449e9424e7e4d4d81a660907c68cb97>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <4449e9424e7e4d4d81a660907c68cb97>:0 
+  at ProjetoRetorno.Level01.Editor.PolishEditorBridge.Poll () [0x00102] in C:\Users\matheus\Desktop\dino3\Assets\Scripts\Editor\Level01\Gameplay\PolishEditorBridge.cs:35 

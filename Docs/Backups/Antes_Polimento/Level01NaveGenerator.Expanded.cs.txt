@@ -1,0 +1,164 @@
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using ProjetoRetorno.UI.Editor;
+using UnityEditor;
+using UnityEditor.SceneManagement;
+using UnityEngine;
+using UnityEngine.Rendering;
+using UnityEngine.SceneManagement;
+
+namespace ProjetoRetorno.Level01.Editor
+{
+    public static partial class Level01NaveGenerator
+    {
+        public const string ExpandedScenePath = "Assets/Scenes/Level01_Nave_Expanded.unity";
+        internal sealed class VisualSource
+        {
+            public string key, path, package, category;
+        }
+        internal static readonly Dictionary<string, VisualSource> ExpandedSources = new Dictionary<string, VisualSource>();
+
+        /// <summary>Sem argumentos/retorno. Gera somente a cena expandida; confirma substituição e preserva cenas abertas com alterações.</summary>
+        [MenuItem("Tools/Gerar Level 01 Expandido")]
+        public static void GenerateExpandedFromMenu()
+        {
+            if (EditorApplication.isPlayingOrWillChangePlaymode) throw new InvalidOperationException("Saia de Play antes de gerar.");
+            if (File.Exists(ExpandedScenePath) && !EditorUtility.DisplayDialog("Nave expandida",
+                "Substituir somente Level01_Nave_Expanded? Edições manuais dessa versão serão substituídas. A nave original será preservada.", "Gerar", "Cancelar")) return;
+            if (!EditorSceneManager.SaveCurrentModifiedScenesIfUserWantsTo()) return;
+            Scene loaded = SceneManager.GetSceneByPath(ExpandedScenePath);
+            if (loaded.IsValid() && loaded.isLoaded)
+            {
+                if (SceneManager.sceneCount == 1) EditorSceneManager.NewScene(NewSceneSetup.EmptyScene, NewSceneMode.Additive);
+                EditorSceneManager.CloseScene(loaded, true);
+            }
+            GenerateExpandedBatch();
+            EditorSceneManager.OpenScene(ExpandedScenePath);
+        }
+
+        /// <summary>Sem argumentos/retorno. Resolve assets reais, monta versão isolada, copia o jogador existente, valida e salva sem alterar a cena original.</summary>
+        public static void GenerateExpandedBatch()
+        {
+            if (EditorApplication.isPlayingOrWillChangePlaymode) throw new InvalidOperationException("Geração disponível fora de Play.");
+            Scene existing = SceneManager.GetSceneByPath(ExpandedScenePath);
+            if (existing.IsValid() && existing.isLoaded) throw new InvalidOperationException("Feche a cena expandida antes da geração batch.");
+            Models.Clear(); Converted.Clear(); BuiltWalls.Clear(); UsedAssets.Clear(); Route.Clear();
+            ExpandedSources.Clear(); ExpandedRooms.Clear(); ExpandedLinks.Clear();
+            moduleCount = 0; labelMaterial = null;
+            MaterialFolder = "Assets/Materials/Level01_Expanded";
+            ResolveExpandedSources();
+            Directory.CreateDirectory(MaterialFolder);
+            AssetDatabase.Refresh();
+            Scene previous = SceneManager.GetActiveScene();
+            Scene original = SceneManager.GetSceneByPath(ScenePath);
+            bool openedOriginal = !original.IsValid() || !original.isLoaded;
+            if (openedOriginal) original = EditorSceneManager.OpenScene(ScenePath, OpenSceneMode.Additive);
+            Scene scene = EditorSceneManager.NewScene(NewSceneSetup.EmptyScene, NewSceneMode.Additive);
+            SceneManager.SetActiveScene(scene);
+            try
+            {
+                RenderSettings.ambientMode = AmbientMode.Flat;
+                RenderSettings.ambientLight = new Color(.28f, .32f, .4f);
+                RenderSettings.ambientIntensity = 1;
+                RenderSettings.skybox = null; RenderSettings.fog = false;
+                Transform world = Group("Level01_Nave_Expanded", null);
+                BuildExpandedLayout(world);
+                DecorateExpanded();
+                foreach (MeshRenderer renderer in world.GetComponentsInChildren<MeshRenderer>(true))
+                {
+                    if (renderer.GetComponent<TextMesh>() != null) continue;
+                    GameObjectUtility.SetStaticEditorFlags(renderer.gameObject, StaticEditorFlags.BatchingStatic);
+                    renderer.shadowCastingMode = ShadowCastingMode.Off;
+                    renderer.receiveShadows = false;
+                }
+                foreach (AudioSource audio in world.GetComponentsInChildren<AudioSource>(true)) { audio.Stop(); audio.enabled = false; }
+                RecenterExpandedGroups();
+                var originalPlayers = original.GetRootGameObjects().SelectMany(go => go.GetComponentsInChildren<NaveWalkthroughController>(true)).ToArray();
+                if (originalPlayers.Length != 1) throw new InvalidOperationException("A nave original precisa ter um jogador existente.");
+                // Cópia integral do objeto já configurado, incluindo cápsula, câmera e parâmetros. Nenhum controlador é recriado.
+                GameObject player = UnityEngine.Object.Instantiate(originalPlayers[0].gameObject, world);
+                player.name = originalPlayers[0].gameObject.name;
+                player.transform.SetPositionAndRotation(new Vector3(0, .04f, -1), Quaternion.identity);
+                MenuSceneSetup.EnsurePauseMenu(scene);
+                Physics.SyncTransforms();
+                string validation = ValidateExpandedStructure(scene);
+                int distinct = Level01ExpandedAudit.WriteAssetsReport(scene, ExpandedSources.Values.ToArray());
+                if (distinct < 70) throw new InvalidOperationException("Contagem comprovada insuficiente: " + distinct + ". Consulte o relatório.");
+                Level01GameplaySetup.InstallIntoScene(scene);
+                Level01AdjustmentsSetup.InstallIntoScene(scene);
+                if (!EditorSceneManager.SaveScene(scene, ExpandedScenePath)) throw new IOException("Não foi possível salvar a cena expandida.");
+                AssetDatabase.SaveAssets();
+                Directory.CreateDirectory("Docs/Relatorios/Nivel01_Expandido");
+                File.WriteAllText("Docs/Relatorios/Nivel01_Expandido/Level01_Expanded_Validacao.txt", validation + "\nModelos visuais distintos comprovados: " + distinct + "\nCena salva: " + ExpandedScenePath + "\n");
+                File.WriteAllText("Docs/Relatorios/Nivel01_Expandido/Level01_Expanded_Navegacao.json", JsonUtility.ToJson(new ExpandedTourRoute { points = Route.ToArray() }, true));
+                CaptureExpandedPreviews(scene);
+                Debug.Log("Nave expandida salva. " + distinct + " modelos distintos. Nave original e fluxo dos menus preservados.");
+            }
+            finally
+            {
+                EditorSceneManager.CloseScene(scene, true);
+                if (openedOriginal) EditorSceneManager.CloseScene(original, true);
+                if (previous.IsValid() && previous.isLoaded) SceneManager.SetActiveScene(previous);
+            }
+        }
+
+        /// <summary>Sem argumentos/retorno. Centraliza os pivôs dos setores sem mover seus elementos, facilitando edição manual na Hierarchy.</summary>
+        private static void RecenterExpandedGroups()
+        {
+            foreach (ExpandedRoom room in ExpandedRooms)
+            {
+                Transform[] children = room.root.Cast<Transform>().ToArray();
+                Vector3[] positions = children.Select(t => t.position).ToArray();
+                room.root.position = new Vector3(room.center.x, 0, room.center.y);
+                for (int i = 0; i < children.Length; i++) children[i].position = positions[i];
+            }
+        }
+
+        /// <summary>Sem argumentos/retorno. Descobre caminhos com AssetDatabase e carrega somente modelos selecionados que realmente existem.</summary>
+        private static void ResolveExpandedSources()
+        {
+            var available = new HashSet<string>(AssetDatabase.FindAssets("t:GameObject", new[] { "Assets" }).Select(AssetDatabase.GUIDToAssetPath));
+            foreach (string key in new[] { "Floor_01", "Roof_01", "Door_Left_01", "Door_Arch_01", "Fan_01", "Light_01" })
+                RegisterExpanded(key, BarkRoot + key + ".prefab", "Barking Dog — 3D Free Modular Kit", key.Contains("Door") ? "Portas" : key.Contains("Fan") ? "Industrial" : key.Contains("Light") ? "Iluminação" : "Arquitetura", available);
+            RegisterMega("Walls", "Arquitetura", "WallAstra_Straight", "WallBand_Straight", "WallAstra_Straight_Divided", "WallAstra_Straight_Flat_Window", "WallWindow_Straight",
+                "TopSimple_Straight", "TopCables_Straight", "TopPlastic_Straight", "TopAstra_Straight", "BottomMetal_Straight", "BottomSimple_Straight");
+            RegisterMega("Columns", "Estruturas industriais", "Column_Astra", "Column_Hollow", "Column_MetalSupport", "Column_Pipes", "Column_Round", "Column_Simple");
+            RegisterMega("Platforms", "Arquitetura", "Door_Frame_Square", "Door_Frame_A", "Door_Frame_SquareTall", "Door_Simple", "Door_DarkMetal",
+                "Platform_3Plates", "Platform_DarkPlates", "Platform_Metal", "Platform_Metal2", "Platform_Squares");
+            RegisterMega("Props", "Armazenamento", "Prop_Barrel_Large", "Prop_Chest", "Prop_Crate3", "Prop_Crate4", "Prop_ItemHolder");
+            RegisterMega("Props", "Computadores", "Prop_Computer", "Prop_AccessPoint");
+            RegisterMega("Props", "Industrial", "Prop_Cable_1", "Prop_Cable_3", "Prop_Clamp", "Prop_Fan_Small", "Prop_PipeHolder", "Prop_Vent_Big", "Prop_Vent_Small", "Prop_Vent_Wide", "Prop_Rail_2", "Prop_Rail_3");
+            RegisterMega("Props", "Iluminação", "Prop_Light_Corner", "Prop_Light_Floor", "Prop_Light_Small", "Prop_Light_Wide");
+            string office = "Assets/ThirdParty/ScifiOfficeLite/Prefabs/";
+            string[] entries = { "Chairs and Stools/Office Chair", "Chairs and Stools/Stool", "Tables/Metal/Table Metal Variant", "Tables/Blue Plastic/Drawer Table Long Blue Plastic Variant",
+                "Tech Accessories/PC 2", "Tech Accessories/Server Rack", "Tech Accessories/Mechanical arm 1", "Tech Accessories/Mechanical arm 2", "Tray", "Drawers/Drawer 2", "Shelf without Crates", "TVs/Tv 32 Inch" };
+            foreach (string entry in entries)
+            {
+                string name = Path.GetFileName(entry);
+                string category = name.Contains("arm") || name == "Tray" ? "Científico" : name.Contains("PC") || name.Contains("Server") || name.Contains("Tv") ? "Computadores" : "Mobiliário";
+                RegisterExpanded("Office_" + name, office + entry + ".prefab", "Free Sci-Fi Office Pack", category, available);
+            }
+            string storage = "Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Prefabs/";
+            foreach (string name in new[] { "Barrel_01", "Barrel_02", "Barrel_04", "Cabinet_01", "Cabinet_02", "Cabinet_03", "Cabinet_04", "Container_01_Blue", "Container_02_Blue",
+                "Crate_01", "Crate_02", "Electric_Box_01", "Electric_Box_02", "EUR-Pallet", "Locker", "Storage_Rack_01", "Storage_Rack_02", "Amp_Rack_01" })
+                RegisterExpanded("Storage_" + name, storage + name + ".prefab", "Low Poly Storage Pack", name.Contains("Electric") || name.Contains("Amp") ? "Industrial" : "Armazenamento", available);
+            RegisterExpanded("Surveillance", "Assets/ThirdParty/AK Studio Art/Surveillance Camera/Prefabs/Surveillance Camera.prefab", "Surveillance Camera", "Segurança", available);
+        }
+
+        /// <summary>Pasta, categoria e nomes identificam modelos reais do MegaKit; sem retorno. Registra cada FBX Unity uma única vez.</summary>
+        private static void RegisterMega(string folder, string category, params string[] names)
+        {
+            var available = new HashSet<string>(AssetDatabase.FindAssets("t:GameObject", new[] { "Assets/ThirdParty/Modular SciFi MegaKit[Standard]" }).Select(AssetDatabase.GUIDToAssetPath));
+            foreach (string name in names) RegisterExpanded(name, MegaRoot + folder + "/" + name + ".fbx", "Modular SciFi MegaKit", category, available);
+        }
+
+        /// <summary>Identificador, caminho, pacote, categoria e inventário são entradas; sem retorno. Rejeita caminhos ausentes antes da montagem.</summary>
+        private static void RegisterExpanded(string key, string path, string package, string category, HashSet<string> available)
+        {
+            LoadModel(key, path, available);
+            ExpandedSources.Add(path, new VisualSource { key = key, path = path, package = package, category = category });
+        }
+    }
+}

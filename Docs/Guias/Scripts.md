@@ -52,3 +52,62 @@ Esses cinco arquivos usam `partial class Level01NaveGenerator`: são partes da *
 - **Contagem dos assets:** `Level01ExpandedAudit.cs` e os relatórios em `Docs/Relatorios/Nivel01_Expandido`.
 
 O ponto de entrada para jogar continua sendo `Assets/Scenes/MainMenu.unity`. As ferramentas de Editor não entram como componentes de gameplay na build.
+
+## Gameplay do Nível 1 — Runtime/Gameplay e Editor/Level01/Gameplay
+
+A progressão foi integrada à nave expandida. O [guia de gameplay](Gameplay_Nivel01.md) apresenta os campos, objetos, comandos do Editor e o roteiro de teste.
+
+| Script | Para que serve |
+|---|---|
+| [IInteractable.cs](../../Assets/Scripts/Runtime/Gameplay/Interaction/IInteractable.cs) | Contrato compartilhado de mensagem e execução de interação. |
+| [PlayerInteraction.cs](../../Assets/Scripts/Runtime/Gameplay/Interaction/PlayerInteraction.cs) | F e raycast da câmera, alcance 3 m, bloqueio por paredes/portas e pausa. É acrescentado ao jogador existente. |
+| [Level01GameManager.cs](../../Assets/Scripts/Runtime/Gameplay/Level01/Level01GameManager.cs) | Estado único dos puzzles, objetivos, requisitos de abertura e conclusão. Reiniciar a cena zera tudo. |
+| [Level01Interactable.cs](../../Assets/Scripts/Runtime/Gameplay/Level01/Level01Interactable.cs) | Um componente configurável para bateria, painel, cartão, leitor e três terminais; encaminha ações ao gerente. |
+| [DoorController.cs](../../Assets/Scripts/Runtime/Gameplay/Level01/DoorController.cs) | Desliza a folha real com seu collider sólido, retirando-a do vão. |
+| [ObjectiveHUD.cs](../../Assets/Scripts/Runtime/Gameplay/UI/ObjectiveHUD.cs) | Objetivo, mira, mensagem F, confirmações temporárias, contador e página final no Canvas. |
+| [LevelCompleteTrigger.cs](../../Assets/Scripts/Runtime/Gameplay/Level01/LevelCompleteTrigger.cs) | Detecta a saída do jogador e solicita conclusão somente após o desbloqueio completo. |
+| [Level01GameplaySetup.cs](../../Assets/Scripts/Editor/Level01/Gameplay/Level01GameplaySetup.cs) | Integra os puzzles sem gerar a nave, cria prefabs/materiais locais e corrige colisores/controles. O gerador chama esta integração ao reconstruir futuramente. |
+| [Level01GameplayValidation.cs](../../Assets/Scripts/Editor/Level01/Gameplay/Level01GameplayValidation.cs) | Testa o fluxo inteiro em Play, F/ESC reais do Input System, cápsula, portas/tetos, conclusão e resets. |
+| [Level01GameplayAudit.cs](../../Assets/Scripts/Editor/Level01/Gameplay/Level01GameplayAudit.cs) | Audita referências reais e materiais e renderiza frente/verso do cartão. |
+
+Para alterar a ordem/requisitos dos puzzles, edite **Level01GameManager**. Para reposicionar itens, selecione os objetos sob **Gameplay_Level01** na cena. Para a aparência do HUD, edite **Canvas_Gameplay** pela Hierarchy/Inspector. Os campos e referências do controlador de movimento original continuam preservados.
+
+## Ajustes atuais: arremesso, cartão aleatório e Sparrow
+
+Veja [Ajustes do Nível 1](Ajustes_Nivel01.md) para a explicação dos campos e requisitos técnicos.
+
+| Script | Função |
+|---|---|
+| IntroThrowingSystem.cs | Primeira caixa, HoldPoint, array de prefabs, spawn por função, cooldown e estado do desafio inicial. |
+| ThrownObject.cs | Rigidbody, força, torque, colisão contínua e duração da caixa lançada. |
+| ThrowablePickup.cs | Interação F da primeira caixa. |
+| ImpactButton.cs | Aceita impacto somente de uma caixa lançada válida; fica junto do collider físico. |
+| CardSpawnSystem.cs | Sorteia pontos apoiados dentro do laboratório, reutilizando um único cartão. |
+| LaboratoryEntryTrigger.cs | Atualiza o objetivo ao entrar no laboratório. |
+| PetFollower.cs | Acompanhamento com obstáculos, voo Fly original e recuperação segura atrás do jogador. |
+| Level01AdjustmentsSetup.cs | Integração idempotente sem gerar a nave; corrige hitboxes e preserva transforms dos modelos. |
+| Level01AdjustmentsAudit.cs | Componentes, fontes reais, acesso aos pontos do cartão, comparação com backup e prévia estática do Sparrow. |
+
+Level01GameManager, PlayerInteraction e DoorController continuam sendo os scripts existentes.
+O validador Level01GameplayValidation foi atualizado para o fluxo novo completo.
+
+## Polimento audiovisual e adoção opcional
+
+Veja [Polimento do Nível 1](Polimento_Nivel01.md) para caminhos dos áudios, campos do Inspector, VFX e testes.
+
+| Script | Para que serve |
+|---|---|
+| [PauseAwareAudio.cs](../../Assets/Scripts/Runtime/Gameplay/Audio/PauseAwareAudio.cs) | Pausa/retoma a fonte local quando o jogo para, sem deixar AudioListener global pausado entre cenas. |
+| [PlayerFootstepAudio.cs](../../Assets/Scripts/Runtime/Gameplay/Audio/PlayerFootstepAudio.cs) | Lê deslocamento real e contato com o piso para cadência de passos. Arrays vazios até importar passos adequados. |
+| [DoorPresentation.cs](../../Assets/Scripts/Runtime/Gameplay/Audio/DoorPresentation.cs) | Reage ao evento de abertura da porta existente, dispara áudio 3D/vapor e limita o alerta externo a quatro segundos. |
+| [CompanionChirps.cs](../../Assets/Scripts/Runtime/Gameplay/Audio/CompanionChirps.cs) | Sorteia cantos e intervalos somente depois de adotar. Array vazio até importar cantos reais. |
+| [SparrowAnimationController.cs](../../Assets/Scripts/Runtime/Gameplay/Companion/SparrowAnimationController.cs) | Alterna Idle_A/B/C enquanto o pássaro espera no chão e faz transição para o Fly original após adoção. |
+| [EnergyActivationVFX.cs](../../Assets/Scripts/Runtime/Gameplay/VFX/EnergyActivationVFX.cs) | Observa a instalação real da bateria e dispara uma única apresentação de partículas/áudio. |
+| [Level01PolishSetup.cs](../../Assets/Scripts/Editor/Level01/Gameplay/Level01PolishSetup.cs) | Integra o polimento sem reconstruir o mapa, comprova a preservação da decoração e prepara a adoção. |
+| Level01PolishSetup.Audio.cs | Parte da mesma classe: organiza clipes com GUIDs preservados e liga fontes, portas e emissor de energia. |
+| Level01PolishSetup.VFX.cs | Parte da mesma classe: cria os dois prefabs nativos, máscara suave e materiais locais URP. |
+| Level01PolishSetup.Collisions.cs | Parte da mesma classe: alinha sólidos à geometria, compõe mesas/marcos e revê modelos avulsos. |
+| [Level01PolishAudit.cs](../../Assets/Scripts/Editor/Level01/Gameplay/Level01PolishAudit.cs) | Confere GUIDs, recursos reais, componentes únicos, partículas, referência do Sparrow e transforms com backup independente. |
+| Level01GameplayValidation.Polish.cs | Parte do validador existente: cadência, adoção por F, asas reais, VFX/áudio, pausa, retomada, alarme e capturas. |
+
+O `PetFollower` agora começa esperando e implementa `IInteractable` para adoção opcional. Depois de adotar, usa seu acompanhamento com varreduras e recuperação segura. `DoorController` continua abrindo por Translate e apenas avisa a apresentação pelo evento `OpeningStarted`.

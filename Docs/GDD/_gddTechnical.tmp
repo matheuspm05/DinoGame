@@ -1,0 +1,263 @@
+\section{Técnico}
+
+\subsection{Hardware alvo}
+
+A plataforma principal é Windows, com teclado e mouse. O objetivo
+de apresentação é funcionar em computadores comuns do laboratório.
+
+A referência de planejamento é Windows 10 ou superior, processador
+Core i5 ou equivalente, 8 GB de RAM, GPU compatível com DirectX 11
+e resolução a partir de 1280$\times$720. Esses valores não constituem
+uma especificação mínima validada por testes de desempenho.
+
+\subsection{Hardware e software de desenvolvimento}
+
+\subsubsection*{Engine e renderização}
+
+O projeto atual usa \textbf{Unity 6, versão 6000.0.81f1},
+\textbf{Universal Render Pipeline (URP)}, C\# e o novo Input System.
+
+O enunciado fornecido cita a versão \textbf{6000.0.8f1} do laboratório.
+As versões não são idênticas. A compatibilidade e a versão aceita
+para a apresentação precisam ser conferidas no laboratório; não
+foi realizado downgrade ou alterada configuração global para esta
+revisão do GDD.
+
+\subsubsection*{Ferramentas}
+
+São utilizados Unity Editor e código C\#, com assets importados e
+ferramentas próprias de integração. Git/GitHub, Blender, editores
+de áudio/imagem e outras ferramentas podem apoiar a equipe.
+A existência de um asset em planejamento não comprova sua importação.
+
+\subsubsection*{Cenas e fluxo}
+
+\begin{itemize}
+\item \texttt{Assets/Scenes/MainMenu.unity}: entrada da aplicação.
+\item \texttt{Assets/Scenes/Level01\_Nave\_Expanded.unity}: versão jogável.
+\item \texttt{Assets/Scenes/Level01\_Nave.unity}: referência original.
+\end{itemize}
+
+A Scene List mantém MainMenu primeiro. Novo Jogo carrega a nave
+expandida; Reiniciar recarrega a cena atual. Não há progresso
+persistente entre essas recargas.
+
+\subsubsection*{Arquitetura dos scripts implementados}
+
+O código é separado em \texttt{Runtime} e \texttt{Editor}.
+Os nomes abaixo correspondem aos arquivos reais, não a classes
+genéricas apenas planejadas.
+
+\small
+\begin{longtable}{|p{6.3cm}|p{8.7cm}|}
+\hline
+\textbf{Script ou grupo} & \textbf{Responsabilidade}\\
+\hline
+\endfirsthead
+\hline
+\textbf{Script ou grupo} & \textbf{Responsabilidade}\\
+\hline
+\endhead
+\texttt{NaveWalkthroughController} & Movimento, câmera, gravidade, salto, corrida e agachamento existentes.\\
+\hline
+\texttt{PlayerInteraction} e \texttt{IInteractable} & Raycast, mensagem contextual e execução da interação F.\\
+\hline
+\texttt{Level01GameManager} & Estado único de bateria, energia, cartão, terminais, objetivos e conclusão.\\
+\hline
+\texttt{Level01Interactable} & Configuração comum para coleta, painel, leitor e terminais.\\
+\hline
+\texttt{DoorController} & Folha móvel, collider sólido, Translate e evento de início de abertura.\\
+\hline
+\texttt{ObjectiveHUD} & Objetivos, mira, mensagens, contador e tela final.\\
+\hline
+\texttt{LevelCompleteTrigger} & Presença da cápsula do jogador na saída, condicionada pelo gerente.\\
+\hline
+\texttt{CardSpawnSystem} & Sorteio do único cartão entre pontos válidos do laboratório.\\
+\hline
+\texttt{LaboratoryEntryTrigger} & Atualiza o objetivo ao entrar no laboratório.\\
+\hline
+\texttt{IntroThrowingSystem} & HoldPoint, array de prefabs, spawn por função, cooldown e desafio inicial.\\
+\hline
+\texttt{ThrownObject} & Rigidbody, impulso, torque, colisão contínua e vida útil da caixa.\\
+\hline
+\texttt{ThrowablePickup} e \texttt{ImpactButton} & Primeira coleta e validação do impacto no alvo.\\
+\hline
+\texttt{PetFollower} & Espera, adoção por IInteractable e acompanhamento seguro do Sparrow.\\
+\hline
+\texttt{SparrowAnimationController} & Idles aleatórios e transição para o Fly existente.\\
+\hline
+\texttt{CompanionChirps} & Cantos ocasionais após adoção, preparado sem clipes.\\
+\hline
+\texttt{PlayerFootstepAudio} & Cadência por movimento/chão, preparado sem clipes.\\
+\hline
+\texttt{PauseAwareAudio} & Pausa e retomada da fonte local de gameplay.\\
+\hline
+\texttt{DoorPresentation} & Som 3D, vapor e alerta finito, usando a abertura existente.\\
+\hline
+\texttt{EnergyActivationVFX} & Energia ciano e confirmação após instalação real da bateria.\\
+\hline
+\texttt{MainMenuController}, \texttt{PauseMenuController}, \texttt{ControlsPanelController}, \texttt{MenuSceneActions}
+& Botões, controles, pausa e navegação entre cenas.\\
+\hline
+\texttt{NaveWorldLabel} & Atualização da fonte nas placas 3D do cenário.\\
+\hline
+\end{longtable}
+\normalsize
+
+O gerador \texttt{Level01NaveGenerator} mantém partes para estrutura,
+decoração e validação. As ferramentas \texttt{Level01GameplaySetup},
+\texttt{Level01AdjustmentsSetup} e \texttt{Level01PolishSetup}
+integram gameplay e apresentação de modo organizado.
+
+A integração de polimento pode ser reaplicada sem reconstruir a
+nave. O gerador chama essas integrações em futuras reconstruções,
+mas gerar novamente o mapa ainda pode substituir edições manuais.
+Os ajustes recentes preservaram o layout existente e suas referências.
+
+\subsubsection*{Organização dos arquivos}
+
+\begin{itemize}
+\item \texttt{Assets/Scripts/Runtime}: código usado pelo jogo.
+\item \texttt{Assets/Scripts/Editor}: montagem, auditorias e testes.
+\item \texttt{Assets/Scenes}: cenas e backups.
+\item \texttt{Assets/Prefabs/Gameplay/Level01}: bateria, cartão e caixas locais.
+\item \texttt{Assets/Audio/SFX}: Footsteps, Doors, Interactions, Alarms e Bird.
+\item \texttt{Assets/Audio/Ambient}, \texttt{Music} e \texttt{Libraries}: ambiente, espaço para música e bibliotecas Kenney.
+\item \texttt{Assets/VFX}: Particles, Materials e Prefabs.
+\item \texttt{Docs}: referências, guias, inventários, testes e prévias.
+\end{itemize}
+
+Áudios foram organizados por \texttt{AssetDatabase.MoveAsset},
+preservando metadados e GUIDs. Prefabs visuais dos fornecedores
+foram reutilizados com referências reais. Adaptações de materiais
+ficam em cópias locais compatíveis com URP.
+
+\subsubsection*{Documentação das funções}
+
+As funções C\# devem explicar finalidade, argumentos, retorno e
+processamento. O código da equipe é mantido por responsabilidade,
+para permitir estudo e apresentação pelos três integrantes.
+
+\subsection{Requisitos acadêmicos e situação da entrega parcial}
+
+O enunciado exige cinco níveis, com pelo menos 70 assets de
+categorias diferentes por nível, e determina que o primeiro
+bimestre implemente somente o Nível 1. Este GDD mantém os demais
+níveis como planejamento.
+
+\paragraph{Tema escolhido para a primeira etapa: Tecnologia}
+
+O Nível 1 evidencia tecnologia por pelo menos cinco elementos
+identificáveis: célula de energia, painel de instalação, leitor de
+cartão, terminais de controle, portas automatizadas e câmeras de
+vigilância decorativas. A função de cada elemento é descrita,
+sem transformar repetições em novos modelos para a contagem de assets.
+
+\paragraph{Demonstração técnica atual}
+
+\small
+\begin{longtable}{|p{6.3cm}|p{8.7cm}|}
+\hline
+\textbf{Critério citado no enunciado} & \textbf{Evidência e limite}\\
+\hline
+\endfirsthead
+\hline
+\textbf{Critério} & \textbf{Evidência e limite}\\
+\hline
+\endhead
+Movimento e colisão & CharacterController, gravidade, corrida, salto, agachamento e sólidos da nave.\\
+\hline
+Translate & Abertura da folha móvel das portas.\\
+\hline
+AddForce, rotação e torque & Lançamento de caixa com impulso e AddTorque; câmera e personagem também giram.\\
+\hline
+Vetor de prefabs e escolha aleatória & Array de dois prefabs de caixas, selecionado por Random.Range.\\
+\hline
+Spawn por função & Instantiate na função de reposição das caixas; limite de projéteis e remoção por tempo.\\
+\hline
+Randomização de posição & Cartão único sorteado entre três apoios válidos no laboratório.\\
+\hline
+UI com texto, botão e reinício & Canvas nativo, HUD, menus, controles e Reiniciar Nível.\\
+\hline
+Som & Portas, confirmação da bateria, alerta externo e ambiente. Passos/cantos ainda sem clipes.\\
+\hline
+Partículas e fumaça/vapor & VFX ciano e vapor nativo nas portas. Não há explosão ou pedrinhas; confirmar a abrangência dos exemplos exigidos.\\
+\hline
+Animação & Pet com Idle\_A/B/C e Fly reais. Isso não comprova os estados parado, andando, correndo, pulando e caindo do personagem principal.\\
+\hline
+Tag & MainCamera configurada na câmera. Gameplay identifica interativos por componentes e Layers; não há Tags fictícias de cartões/inimigos. Conferir a demonstração esperada de Tag.\\
+\hline
+70 assets no Nível 1 & Catálogo-base formal com 82 modelos distintos; conferir inventário da cena final.\\
+\hline
+Scripts documentados & Funções com finalidade, entradas, retorno e processamento; código organizado para apresentação do grupo.\\
+\hline
+\end{longtable}
+\normalsize
+
+\paragraph{Pontos a validar, sem declarar cumprimento automático}
+
+\begin{itemize}
+\item Compatibilidade da versão instalada com a versão do laboratório.
+\item Uso permitido de assets externos, conforme orientação do professor.
+\item Cobertura dos estados de animação pedidos para o personagem;
+movimentar a câmera ou animar o pet não substitui essa comprovação.
+\item Abrangência dos exemplos de partículas e da utilização de Tag.
+\item Inventário atualizado dos modelos da cena entregue.
+\item Participação de cada integrante, avaliada proporcionalmente
+pelo professor; este documento não atribui atividades não registradas.
+\end{itemize}
+
+\subsection{Planejamento do segundo bimestre}
+
+O enunciado prevê a campanha completa, com cinco níveis,
+NPCs, NavMesh, melhores animações, partículas criadas pelo grupo,
+iluminação e pós-processamento.
+
+Também descreve terreno modelado pela equipe e texturizado com
+pelo menos dez layers, com elementos como morros, vales, água,
+ravinas, areia, cascalho, grama, vegetação, árvores e caminhos.
+Esses itens são planejamento de fases externas, não conteúdo
+atual da nave.
+
+O texto apresenta uma divergência sobre o tema: nos critérios do
+segundo bimestre menciona três elementos de cada eixo; na descrição
+geral reaparece o mínimo de cinco. A referência de planejamento
+é cinco elementos por eixo, sujeita à confirmação do professor.
+Ecorenovação e Skills ainda precisam de uma distribuição explícita
+nos níveis futuros; não se declara que o simples uso de vegetação
+ou tecnologia já comprova esses eixos.
+
+Para a entrega são previstos GDD detalhado, arquivos completos
+do projeto e apresentação no laboratório. O vídeo de 1 a 3 minutos,
+com link, é indicado no enunciado somente para o segundo bimestre.
+Essas exigências documentais não foram executadas automaticamente
+por esta revisão do GDD.
+
+\subsection{Validação registrada}
+
+Os relatórios existentes registram compilação e execução na Unity
+6000.0.81f1, progressão completa aprovada com 849 movimentos físicos
+da cápsula e regressão dos menus aprovada em 21/10/2026.
+
+Foram verificados portas fechadas, tetos nos nove setores,
+Raycasts, estados negativos dos puzzles, sorteio do cartão,
+adoção, voo, áudio, partículas, pausa, reinício e conclusão.
+
+A auditoria de polimento comparou 1.434 renderizadores do cenário
+ao backup e confirmou preservação de posição, rotação e escala.
+O reposicionamento do pet para esperar no corredor foi intencional.
+Isso não é uma contagem de modelos distintos.
+
+Os 173 AudioClips tiveram GUIDs preservados. Reaplicar a integração
+não acrescentou colisores auxiliares. Nenhum MeshCollider ou
+Rigidbody novo foi adicionado à decoração nessa revisão.
+
+Esses resultados são de testes no Editor. Não substituem teste no
+laboratório, revisão auditiva humana ou validação de uma build
+standalone, ainda não gerada nessa etapa.
+
+\subsection{Requerimentos de rede}
+
+O jogo é single-player e não utiliza servidor, multiplayer,
+contas ou sincronização de progresso pela internet.
+

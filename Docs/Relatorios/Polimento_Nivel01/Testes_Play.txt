@@ -1,0 +1,227 @@
+Validação do gameplay — Unity 6000.0.81f1 — 2026-10-21T01:20:01
+OK: MainMenu inicial
+OK: Controles reais incluem F e Ctrl
+OK: Cena expandida com um gerente de gameplay
+OK: Um gerente, uma fonte de progresso
+OK: Jogador e câmera existentes preservados
+OK: Um único EventSystem
+OK: Interação por câmera limitada a 3m
+OK: Verso do cartão utiliza Arcadia_Verso.png
+OK: Novos modelos/prefabs usam materiais URP sem referências perdidas
+OK: Três terminais possuem índices diferentes
+OK: Controles reais incluem F e Ctrl
+OK: Estado inicial sem progresso
+OK: Itens restaurados no cenário
+OK: Três portas iniciam fechadas
+OK: HUD mostra novo objetivo inicial
+OK: Desafio inicial resetado
+OK: Luz desativada e pet presente
+OK: Sparrow inicia esperando no chão, sem adoção ou acompanhamento
+OK: Adoção é opcional e usa o sistema F existente
+OK: Pássaro não canta antes da adoção
+OK: Efeito de energia resetado
+OK: Apresentação resetada Porta_Inicial
+OK: Apresentação resetada Porta_05_Laboratorio
+OK: Apresentação resetada Porta_07_Hangar
+OK: Apresentação resetada Porta_Saida_Externa
+OK: Um único AudioListener em Play
+OK: Sem passos/cantos fictícios: arrays vazios até importação dos clipes adequados
+OK: Porta sólida impede cápsula humana: Porta_Inicial
+OK: Porta sólida impede cápsula humana: Porta_05_Laboratorio
+OK: Porta sólida impede cápsula humana: Porta_07_Hangar
+OK: Porta sólida impede cápsula humana: Porta_Saida_Externa
+OK: Todos os 141 módulos de teto têm colisão fina alinhada
+OK: Cápsula colide ao subir contra tetos nos nove setores
+OK: Ponto do cartão apoiado/livre 0
+OK: Ponto do cartão apoiado/livre 1
+OK: Ponto do cartão apoiado/livre 2
+OK: Sorteio válido 0
+OK: Sorteio válido 1
+OK: Sorteio válido 2
+OK: Sorteio válido 3
+OK: Sorteio válido 4
+OK: Sorteio válido 5
+OK: Sorteio válido 6
+OK: Sorteio válido 7
+OK: Sorteio válido 8
+OK: Sorteio válido 9
+OK: Sorteio válido 10
+OK: Sorteio válido 11
+OK: Sorteio válido 12
+OK: Sorteio válido 13
+OK: Sorteio válido 14
+OK: Sorteio válido 15
+OK: Sorteio válido 16
+OK: Sorteio válido 17
+OK: Sorteio válido 18
+OK: Sorteio válido 19
+OK: Sorteio válido 20
+OK: Sorteio válido 21
+OK: Sorteio válido 22
+OK: Sorteio válido 23
+OK: Sorteio válido 24
+OK: Sorteio válido 25
+OK: Sorteio válido 26
+OK: Sorteio válido 27
+OK: Sorteio válido 28
+OK: Sorteio válido 29
+OK: Sorteio válido 30
+OK: Sorteio válido 31
+OK: Sorteio válido 32
+OK: Sorteio válido 33
+OK: Sorteio válido 34
+OK: Sorteio válido 35
+OK: Sorteio válido 36
+OK: Sorteio válido 37
+OK: Sorteio válido 38
+OK: Sorteio válido 39
+OK: Variedade real de posições sem criar outro cartão
+OK: Exatamente um cartão na cena
+OK: Não conclui antecipadamente
+OK: Alvo rejeita contato sem caixa lançada válida
+OK: Cadência de passos usa deslocamento real ao caminhar
+OK: Corrida aumenta a frequência dos passos
+OK: Salto suspende passos de caminhada no ar
+OK: Parado não gera passos; nenhum áudio inadequado foi atribuído
+OK: F pega a caixa inicial e gera instância no HoldPoint
+OK: Caixa segura acompanha câmera sem colisão ou raycast
+OK: HUD orienta o impacto acima da porta
+OK: Sparrow segue o jogador com controller original
+OK: Clipe real adequado ao estado de adoção está sendo reproduzido
+OK: Pet sem colisão física e visual ignorado por raycast
+OK: Sparrow com atlas original em cópia URP
+OK: Mouse esquerdo lança Rigidbody com impulso e torque
+OK: Erro mantém porta fechada e cria nova caixa por função
+OK: Caixa antiga removida por tempo de vida
+OK: Sparrow permanece esperando antes da adoção opcional
+OK: ESC pausa jogador
+OK: Pausa bloqueia F, arremesso, pet, animação e HUD de gameplay
+OK: Impacto físico válido abre porta inicial e remove caixa segurada
+OK: Caixa do acerto removida
+OK: Spawn para após o acerto e HUD segue para bateria
+OK: Pássaro continua esperando depois de abrir a porta
+OK: Idle_A/B/C alternam periodicamente em Play
+OK: Raycast F encontra somente o pequeno alvo do Sparrow
+OK: F adota uma única vez e remove alvo do raycast
+OK: Sparrow decola suavemente após adoção, sem ficar preso no piso
+OK: Sparrow segue o jogador com controller original
+OK: Clipe real adequado ao estado de adoção está sendo reproduzido
+OK: Pet sem colisão física e visual ignorado por raycast
+OK: Sparrow com atlas original em cópia URP
+OK: Após adoção não há colliders que interfiram nos puzzles/caixas
+OK: Interação repetida não recria adoção
+OK: Fly movimenta as asas reais do Sparrow após a adoção
+OK: Painel com hitbox corrigida rejeita falta de bateria
+OK: Leitor movido manualmente reconhece F e rejeita falta de cartão
+OK: Porta sólida impede raycast para item próximo atrás dela
+OK: Porta inicial atravessada sem collider invisível
+OK: Bateria na posição atual continua coletável
+OK: Bateria instalada no encaixe do console e laboratório liberado
+OK: Bateria instalada dispara partículas ciano reais
+OK: Abertura do laboratório dispara som 3D e duas rajadas de vapor
+OK: Solicitação repetida não redispara o som da porta
+OK: Som curto de ativação reproduzido
+OK: Partículas de energia congelam com ESC
+OK: Áudio local pausa sem bloquear o EventSystem
+OK: Nenhum canto artificial foi inserido
+OK: Áudio que estava ativo retoma após ESC
+OK: Partículas azuis encerram automaticamente
+OK: Vapor encerra automaticamente sem colisão
+OK: Entrada no laboratório atualiza objetivo
+OK: Cartão aleatório visível e alcançável por raycast
+OK: F coleta o único cartão sorteado
+OK: Cartão libera hangar pelo leitor existente
+OK: Primeiro terminal mantém portão e luz bloqueados
+OK: Terminal não duplica ativação
+OK: Dois terminais não liberam saída/conclusão
+OK: 3/3 abre portão e acende luz; não conclui sem atravessar
+OK: 3/3 inicia portão e alerta eletrônico
+OK: Lógica repetida do portão não duplica alarme
+OK: Alarme para automaticamente após quatro segundos
+OK: Somente o jogador atravessando a luz conclui o nível: complete=True time=0 player=False pos=(20.00, 0.02, 73.30) trigger=Center: (20.00, 1.30, 73.30), Extents: (3.25, 1.30, 0.40)
+OK: Conclusão retorna ao MainMenu
+OK: Cena expandida com um gerente de gameplay
+OK: Estado inicial sem progresso
+OK: Itens restaurados no cenário
+OK: Três portas iniciam fechadas
+OK: HUD mostra novo objetivo inicial
+OK: Desafio inicial resetado
+OK: Luz desativada e pet presente
+OK: Sparrow inicia esperando no chão, sem adoção ou acompanhamento
+OK: Adoção é opcional e usa o sistema F existente
+OK: Pássaro não canta antes da adoção
+OK: Efeito de energia resetado
+OK: Apresentação resetada Porta_Inicial
+OK: Apresentação resetada Porta_05_Laboratorio
+OK: Apresentação resetada Porta_07_Hangar
+OK: Apresentação resetada Porta_Saida_Externa
+OK: Um único AudioListener em Play
+OK: Sem passos/cantos fictícios: arrays vazios até importação dos clipes adequados
+OK: Novo Jogo reinicia desafio, sorteio, puzzles, pet e luz
+OK: Progresso de arremesso antes do reinício
+OK: Cena expandida com um gerente de gameplay
+OK: Estado inicial sem progresso
+OK: Itens restaurados no cenário
+OK: Três portas iniciam fechadas
+OK: HUD mostra novo objetivo inicial
+OK: Desafio inicial resetado
+OK: Luz desativada e pet presente
+OK: Sparrow inicia esperando no chão, sem adoção ou acompanhamento
+OK: Adoção é opcional e usa o sistema F existente
+OK: Pássaro não canta antes da adoção
+OK: Efeito de energia resetado
+OK: Apresentação resetada Porta_Inicial
+OK: Apresentação resetada Porta_05_Laboratorio
+OK: Apresentação resetada Porta_07_Hangar
+OK: Apresentação resetada Porta_Saida_Externa
+OK: Um único AudioListener em Play
+OK: Sem passos/cantos fictícios: arrays vazios até importação dos clipes adequados
+OK: Reiniciar limpa caixas físicas antigas
+OK: Ponto do cartão apoiado/livre 0
+OK: Ponto do cartão apoiado/livre 1
+OK: Ponto do cartão apoiado/livre 2
+OK: Sorteio válido 0
+OK: Sorteio válido 1
+OK: Sorteio válido 2
+OK: Sorteio válido 3
+OK: Sorteio válido 4
+OK: Sorteio válido 5
+OK: Sorteio válido 6
+OK: Sorteio válido 7
+OK: Sorteio válido 8
+OK: Sorteio válido 9
+OK: Sorteio válido 10
+OK: Sorteio válido 11
+OK: Sorteio válido 12
+OK: Sorteio válido 13
+OK: Sorteio válido 14
+OK: Sorteio válido 15
+OK: Sorteio válido 16
+OK: Sorteio válido 17
+OK: Sorteio válido 18
+OK: Sorteio válido 19
+OK: Sorteio válido 20
+OK: Sorteio válido 21
+OK: Sorteio válido 22
+OK: Sorteio válido 23
+OK: Sorteio válido 24
+OK: Sorteio válido 25
+OK: Sorteio válido 26
+OK: Sorteio válido 27
+OK: Sorteio válido 28
+OK: Sorteio válido 29
+OK: Sorteio válido 30
+OK: Sorteio válido 31
+OK: Sorteio válido 32
+OK: Sorteio válido 33
+OK: Sorteio válido 34
+OK: Sorteio válido 35
+OK: Sorteio válido 36
+OK: Sorteio válido 37
+OK: Sorteio válido 38
+OK: Sorteio válido 39
+OK: Variedade real de posições sem criar outro cartão
+OK: Exatamente um cartão na cena
+OK: Menu Principal via pausa preservado
+Movimentos físicos da cápsula: 849
+RESULTADO: APROVADO.

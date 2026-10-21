@@ -1,0 +1,50 @@
+Auditoria — 2026-10-21T01:10:11
+Cena: Assets/Scenes/Level01_Nave_Expanded.unity
+OK: Zero scripts ausentes
+OK: Um jogador existente
+OK: Um EventSystem
+OK: Um HUD
+OK: Um sistema de arremesso
+OK: Um cartão
+OK: Ponto de cartão válido 0
+Posição (14.00, 0.91, 16.12) apoio Office_Table Metal Variant_924
+OK: Ponto de cartão válido 1
+Posição (26.00, 0.91, 16.12) apoio Office_Table Metal Variant_928
+OK: Ponto de cartão válido 2
+Posição (26.06, 0.91, 23.28) apoio Office_Table Metal Variant_939
+OK: Porta sólida Porta_Inicial
+OK: Folha dinâmica Porta_Inicial
+OK: Porta sólida Porta_05_Laboratorio
+OK: Folha dinâmica Porta_05_Laboratorio
+OK: Porta sólida Porta_07_Hangar
+OK: Folha dinâmica Porta_07_Hangar
+OK: Porta sólida Porta_Saida_Externa
+OK: Folha dinâmica Porta_Saida_Externa
+OK: ImpactButton recebe colisão no próprio collider
+OK: Prefab físico Assets/Prefabs/Gameplay/Level01/Throwing/Caixa_Crate3.prefab
+Modelo caixa: Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Crate3.fbx
+OK: Prefab físico Assets/Prefabs/Gameplay/Level01/Throwing/Caixa_Storage.prefab
+Modelo caixa: Assets/ThirdParty/BrokenVector/LowPolyStoragePack/Prefabs/Crate_01.prefab
+OK: Controller original Sparrow reutilizado
+Prefab: Assets/Quirky Series Ultimate/FREE/Prefabs/Sparrow.prefab
+Controller: Assets/Quirky Series Ultimate/FREE/Animations/AC_Sparrow.controller
+Clipes reais: Attack, Bounce, Clicked, Death, Eat, Eyes_Annoyed, Eyes_Blink, Eyes_Cry, Eyes_Dead, Eyes_Excited, Eyes_Happy, Eyes_LookDown, Eyes_LookIn, Eyes_LookOut, Eyes_LookUp, Eyes_Rabid, Eyes_Sad, Eyes_Shrink, Eyes_Sleep, Eyes_Spin, Eyes_Squint, Eyes_Trauma, Fear, Fly, Hit, Idle_A, Idle_B, Idle_C, Jump, Roll, Run, Sit, Spin, Sweat_L, Sweat_R, Swim, Teardrop_L, Teardrop_R, Walk
+Fly duração=0,4166667 loop=True
+Caminhos animados Fly: Rig, Rig/root, Rig/root/body, Rig/root/body/tail.01, Rig/root/body/tail.02, Rig/root/body/hair.01, Rig/root/body/hair.02, Rig/root/body/wing.L, Rig/root/body/wing.R, Rig/root/body/feet.L, Rig/root/body/feet.R
+OK: Atlas original preservado em URP: Mesh_LOD0
+OK: Atlas original preservado em URP: Mesh_LOD1
+OK: Atlas original preservado em URP: Mesh_LOD2
+OK: Atlas original preservado em URP: Mesh_LOD3
+OK: Pet não colide fisicamente
+OK: Trigger de conclusão reutilizado/ativo
+Volume final Center: (20.00, 1.30, 73.30), Extents: (3.25, 1.30, 0.40)
+Luz: ExitLightEffect inicialmente ativa=False
+OK: Luz começa desativada
+OK: Entrada da grade de laboratório livre
+OK: Cápsula alcança aproximação de Ponto_Cartao_1
+OK: Linha de visão livre para Ponto_Cartao_1
+OK: Cápsula alcança aproximação de Ponto_Cartao_2
+OK: Linha de visão livre para Ponto_Cartao_2
+OK: Cápsula alcança aproximação de Ponto_Cartao_3
+OK: Linha de visão livre para Ponto_Cartao_3
+Comparação independente com backup: 1430 renderizadores originais preservados em posição, rotação e escala.

@@ -1,0 +1,13 @@
+Hitbox Bateria_Carga_Esquerda centro local=(0.00, 0.30, 0.00) tamanho=(0.27, 0.63, 0.26) trigger=True
+Hitbox Cartao_Seguranca_Laboratorio centro local=(0.00, 0.00, 0.00) tamanho=(0.28, 0.19, 0.02) trigger=True
+Hitbox Painel_Instalar_Bateria centro local=(0.76, 0.00, 2.25) tamanho=(0.87, 1.25, 0.52) trigger=False
+Hitbox Leitor_Cartao_Seguranca centro local=(-0.27, 0.00, 1.78) tamanho=(0.58, 1.25, 0.90) trigger=False
+Hitbox Terminal_1_ENERGIA AUXILIAR centro local=(0.00, 0.00, 0.00) tamanho=(0.86, 1.25, 0.51) trigger=False
+Hitbox Terminal_2_SISTEMA DE SEGURANÇA centro local=(0.00, 0.00, 0.00) tamanho=(0.86, 1.25, 0.51) trigger=False
+Hitbox Terminal_3_CONTROLE DA SAÍDA centro local=(0.00, 0.00, 0.00) tamanho=(0.86, 1.25, 0.51) trigger=False
+Trigger final ativo: Center: (20.00, 1.30, 73.30), Extents: (3.25, 1.30, 0.40) referência ao gerente=True
+Cena: Assets/Scenes/Level01_Nave_Expanded.unity; um gerente, um jogador e um EventSystem reutilizados.
+Sparrow original: Assets/Quirky Series Ultimate/FREE/Prefabs/Sparrow.prefab; controller AC_Sparrow e clipe Base Layer.Fly.
+Bateria preservada em (-18.71, 0.81, 31.54); hitboxes seguem os modelos movidos manualmente.
+Cartão: 3 candidatos sobre mesas existentes; sorteio somente em execução.
+Posições, rotações e escalas de 1438 renderizadores existentes preservadas.

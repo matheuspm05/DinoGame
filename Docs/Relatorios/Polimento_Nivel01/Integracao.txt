@@ -1,0 +1,298 @@
+COLLIDER|WallAstra_Straight_019|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.13, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_022|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.13, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_025|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.13, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_028|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.13, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_031|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_034|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_037|geometria local=Center: (0.00, -0.01, 0.01), Extents: (1.50, 1.91, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_040|geometria local=Center: (0.00, 0.00, 0.28), Extents: (1.50, 1.90, 0.03)|sólidos=1
+COLLIDER|WallAstra_Straight_043|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.25, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_046|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.25, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_049|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.25, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_052|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.25, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_055|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.25, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_058|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.25, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_061|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.25, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_064|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.25, 1.90, 0.11)|sólidos=1
+COLLIDER|Door_Frame_Square_875|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.70, 1.65, 0.12)|sólidos=3
+COLLIDER|Door_Left_01_876|geometria local=Center: (0.00, 0.00, 0.00), Extents: (0.38, 1.40, 0.09)|sólidos=1
+COLLIDER|Column_Hollow_891|geometria local=Center: (-1.46, 0.00, 0.00), Extents: (0.34, 1.40, 0.34)|sólidos=1
+COLLIDER|Column_Astra_893|geometria local=Center: (0.00, 0.00, 0.00), Extents: (0.09, 0.88, 0.35)|sólidos=1
+COLLIDER|Office_Table Metal Variant_894|geometria local=Center: (0.00, 0.00, 2.82), Extents: (0.86, 0.43, 0.43)|sólidos=5
+COLLIDER|Office_PC 2_895|geometria local=Center: (0.00, 0.00, 2.85), Extents: (0.18, 0.32, 0.33)|sólidos=1
+COLLIDER|Office_Stool_896|geometria local=Center: (0.00, 0.00, 3.40), Extents: (0.13, 0.35, 0.13)|sólidos=1
+COLLIDER|Door_Arch_01_898|geometria local=Center: (-1.90, 0.00, 0.00), Extents: (0.30, 0.37, 0.10)|sólidos=1
+COLLIDER|WallAstra_Straight_072|geometria local=Center: (0.00, 0.00, 0.00), Extents: (0.25, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_075|geometria local=Center: (0.00, 0.00, 0.00), Extents: (0.25, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_078|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_081|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_084|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_087|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.15, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_090|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.15, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_175|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_178|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_400|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.00, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_403|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.00, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_482|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.00, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_485|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.00, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_488|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.00, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_491|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.00, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_688|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.00, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_691|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.00, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_694|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.00, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_697|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.00, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_786|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.00, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_789|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.00, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_862|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.00, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_865|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.00, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_868|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.00, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_871|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.00, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_118|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.40, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_121|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.40, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_124|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.40, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_127|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.40, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_130|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.40, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_133|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.40, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_136|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.40, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_139|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.40, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_142|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.40, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_145|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.40, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_148|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.08, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_151|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.08, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_154|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.08, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_157|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.08, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_160|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_163|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_166|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_169|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|sólidos=1
+COLLIDER|Door_Frame_A_877|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.90, 1.65, 0.12)|sólidos=3
+COLLIDER|Door_Left_01_878|geometria local=Center: (0.00, 0.00, 0.00), Extents: (0.38, 1.40, 0.09)|sólidos=1
+COLLIDER|Column_Pipes_901|geometria local=Center: (0.00, 0.00, 0.00), Extents: (0.29, 1.65, 0.29)|sólidos=1
+COLLIDER|Column_Pipes_902|geometria local=Center: (0.00, 0.00, 0.00), Extents: (0.29, 1.65, 0.29)|sólidos=1
+COLLIDER|Storage_Electric_Box_01_904|geometria local=Center: (0.00, 0.00, 0.00), Extents: (0.79, 0.78, 0.40)|sólidos=1
+COLLIDER|Storage_Amp_Rack_01_905|geometria local=Center: (-0.02, 0.00, 0.00), Extents: (1.44, 0.34, 0.38)|sólidos=3
+COLLIDER|Office_Server Rack_906|geometria local=Center: (0.00, 0.00, 0.00), Extents: (0.32, 1.15, 0.27)|sólidos=8
+COLLIDER|Prop_Vent_Big_907|geometria local=Center: (0.00, 0.00, 0.00), Extents: (0.20, 0.01, 0.10)|sólidos=1
+COLLIDER|Prop_Computer_909|geometria local=Center: (0.02, -1.06, -0.29), Extents: (0.20, 0.42, 0.15)|sólidos=1
+COLLIDER|WallBand_Straight_214|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_217|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_220|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_223|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_226|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_229|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_232|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_235|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_238|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_241|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_244|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.05, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_247|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.05, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_250|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.05, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_253|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.05, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_256|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.05, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_259|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.05, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_262|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.38, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_265|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.38, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_268|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.38, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_271|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.08, 1.90, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_274|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.08, 1.90, 0.11)|sólidos=1
+COLLIDER|Door_Frame_Square_879|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.70, 1.65, 0.12)|sólidos=3
+COLLIDER|Door_Left_01_880|geometria local=Center: (0.00, 0.00, 0.00), Extents: (0.38, 1.40, 0.09)|sólidos=1
+COLLIDER|Storage_Storage_Rack_01_911|geometria local=Center: (-1.36, 0.00, 1.64), Extents: (0.44, 1.25, 2.21)|sólidos=3
+COLLIDER|Storage_Storage_Rack_02_912|geometria local=Center: (-1.26, 0.00, 0.26), Extents: (0.24, 0.73, 1.55)|sólidos=2
+COLLIDER|Storage_EUR-Pallet_913|geometria local=Center: (0.47, 0.29, -0.82), Extents: (1.14, 0.50, 1.37)|sólidos=2
+COLLIDER|Storage_Crate_01_914|geometria local=Center: (-0.12, 0.26, -0.57), Extents: (1.44, 0.82, 1.17)|sólidos=3
+COLLIDER|Storage_Crate_02_915|geometria local=Center: (1.16, 0.00, 0.21), Extents: (2.60, 0.69, 1.66)|sólidos=3
+COLLIDER|Storage_Container_01_Blue_916|geometria local=Center: (0.86, 0.00, 0.62), Extents: (0.49, 0.49, 1.25)|sólidos=1
+COLLIDER|Prop_Crate3_917|geometria local=Center: (0.68, 0.00, 0.95), Extents: (0.65, 0.65, 0.65)|sólidos=1
+COLLIDER|Prop_Crate4_918|geometria local=Center: (5.83, 0.00, -2.82), Extents: (0.75, 0.75, 0.75)|sólidos=1
+COLLIDER|Storage_Barrel_01_919|geometria local=Center: (-0.86, 0.00, 0.00), Extents: (0.43, 0.53, 0.43)|sólidos=1
+COLLIDER|Storage_Barrel_02_920|geometria local=Center: (-1.63, 0.00, -0.81), Extents: (0.43, 0.37, 0.42)|sólidos=1
+COLLIDER|Prop_Barrel_Large_921|geometria local=Center: (3.47, 0.00, -0.73), Extents: (5.09, 0.75, 0.53)|sólidos=2
+COLLIDER|Storage_Cabinet_01_922|geometria local=Center: (0.00, 0.00, -0.49), Extents: (0.42, 0.59, 0.40)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_319|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.38, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_322|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.38, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_325|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.38, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_328|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.38, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_331|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.38, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_334|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.38, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_337|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.43, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_340|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.43, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_343|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.43, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_346|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.43, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_349|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.43, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_352|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.43, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_355|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.43, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_358|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_361|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_364|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_367|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_370|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_373|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_376|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.05, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_379|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.05, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_382|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.05, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_385|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.05, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_388|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.05, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_391|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.05, 1.90, 0.11)|sólidos=1
+COLLIDER|Door_Frame_SquareTall_881|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.90, 1.65, 0.12)|sólidos=3
+COLLIDER|Door_Left_01_882|geometria local=Center: (0.00, 0.00, 0.00), Extents: (0.38, 1.40, 0.09)|sólidos=1
+COLLIDER|Office_Table Metal Variant_924|geometria local=Center: (0.00, 0.00, 0.00), Extents: (0.91, 0.45, 0.46)|sólidos=5
+COLLIDER|Office_PC 2_925|geometria local=Center: (0.00, 0.00, 0.00), Extents: (0.18, 0.32, 0.32)|sólidos=1
+COLLIDER|Office_Office Chair_926|geometria local=Center: (0.00, 0.00, 0.58), Extents: (0.37, 0.55, 0.38)|sólidos=1
+COLLIDER|Office_Tray_927|geometria local=Center: (0.00, 0.00, 0.00), Extents: (0.12, 0.04, 0.20)|sólidos=1
+COLLIDER|Office_Table Metal Variant_928|geometria local=Center: (0.00, 0.00, 0.00), Extents: (0.91, 0.45, 0.46)|sólidos=5
+COLLIDER|Office_PC 2_929|geometria local=Center: (0.19, -0.86, 0.00), Extents: (0.18, 0.32, 0.33)|sólidos=1
+COLLIDER|Office_Office Chair_930|geometria local=Center: (0.00, 0.00, -4.21), Extents: (0.36, 0.55, 0.36)|sólidos=1
+COLLIDER|Office_Tray_931|geometria local=Center: (0.00, 0.00, 0.00), Extents: (0.12, 0.04, 0.20)|sólidos=1
+COLLIDER|Office_Drawer Table Long Blue Plastic Variant_932|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.40, 0.45, 0.43)|sólidos=5
+COLLIDER|Office_Mechanical arm 1_933|geometria local=Center: (0.00, 0.00, 0.26), Extents: (0.65, 0.48, 0.54)|sólidos=19
+COLLIDER|Office_Mechanical arm 2_934|geometria local=Center: (0.00, 0.00, 0.25), Extents: (0.65, 0.48, 0.57)|sólidos=19
+COLLIDER|Office_Drawer 2_935|geometria local=Center: (0.00, 0.00, -1.12), Extents: (0.39, 0.53, 0.50)|sólidos=5
+COLLIDER|Office_Stool_936|geometria local=Center: (0.44, 0.00, 0.83), Extents: (0.12, 0.33, 0.12)|sólidos=1
+COLLIDER|Office_Server Rack_937|geometria local=Center: (1.65, 0.00, -0.86), Extents: (1.97, 1.20, 0.32)|sólidos=40
+COLLIDER|Office_Shelf without Crates_938|geometria local=Center: (-3.03, 0.00, 0.00), Extents: (0.18, 0.41, 0.50)|sólidos=1
+COLLIDER|Office_Table Metal Variant_939|geometria local=Center: (1.86, 0.00, 2.60), Extents: (0.91, 0.45, 0.46)|sólidos=5
+COLLIDER|Office_PC 2_940|geometria local=Center: (1.14, 0.00, 2.64), Extents: (0.18, 0.32, 0.32)|sólidos=1
+COLLIDER|Office_Tray_941|geometria local=Center: (1.60, -0.02, 2.77), Extents: (0.11, 0.03, 0.17)|sólidos=1
+COLLIDER|Office_Stool_942|geometria local=Center: (1.73, 0.00, -1.41), Extents: (0.12, 0.33, 0.12)|sólidos=1
+COLLIDER|Office_Server Rack_943|geometria local=Center: (0.00, 0.00, 0.00), Extents: (0.34, 1.20, 0.28)|sólidos=8
+COLLIDER|Office_Tv 32 Inch_944|geometria local=Center: (7.37, -0.39, 2.16), Extents: (2.08, 0.83, 1.18)|sólidos=2
+COLLIDER|WallWindow_Straight_945|geometria local=Center: (0.01, 0.00, 1.37), Extents: (2.00, 1.40, 0.07)|sólidos=1
+COLLIDER|WallAstra_Straight_Flat_Window_946|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.90, 1.40, 0.10)|sólidos=1
+COLLIDER|Column_Round_947|geometria local=Center: (0.00, 0.00, 0.54), Extents: (0.33, 1.63, 0.32)|sólidos=1
+COLLIDER|Column_Round_948|geometria local=Center: (0.00, 0.00, 0.00), Extents: (0.32, 1.63, 0.32)|sólidos=1
+COLLIDER|WallAstra_Straight_431|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.25, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_434|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.25, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_437|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.25, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_440|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.25, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_443|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_446|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_449|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_452|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_455|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.15, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_458|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.05, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_461|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.05, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_464|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.05, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_467|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_470|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_473|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_476|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|sólidos=1
+COLLIDER|Door_Frame_Square_883|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.90, 1.65, 0.12)|sólidos=3
+COLLIDER|Office_Table Metal Variant_949|geometria local=Center: (0.00, 0.00, 1.23), Extents: (0.91, 0.45, 0.46)|sólidos=5
+COLLIDER|Prop_Computer_950|geometria local=Center: (2.24, -0.90, -1.61), Extents: (0.28, 0.60, 0.21)|sólidos=1
+COLLIDER|Office_Office Chair_951|geometria local=Center: (0.00, 0.00, -2.43), Extents: (0.36, 0.55, 0.36)|sólidos=1
+COLLIDER|Office_Server Rack_952|geometria local=Center: (0.52, 0.00, 1.73), Extents: (0.34, 1.20, 0.28)|sólidos=8
+COLLIDER|Storage_Locker_953|geometria local=Center: (-0.50, 0.00, -1.42), Extents: (0.24, 1.00, 0.29)|sólidos=1
+COLLIDER|Office_Table Metal Variant_954|geometria local=Center: (0.24, 0.00, 1.39), Extents: (0.91, 0.45, 0.46)|sólidos=5
+COLLIDER|Office_PC 2_955|geometria local=Center: (-5.89, -0.95, 1.21), Extents: (0.18, 0.32, 0.32)|sólidos=1
+COLLIDER|Office_Office Chair_956|geometria local=Center: (-0.39, 0.00, -2.45), Extents: (0.36, 0.55, 0.36)|sólidos=1
+COLLIDER|Office_Tv 32 Inch_957|geometria local=Center: (-0.10, -1.20, 0.31), Extents: (0.90, 0.46, 0.26)|sólidos=2
+COLLIDER|Office_Tv 32 Inch_958|geometria local=Center: (-0.32, -1.24, 0.00), Extents: (0.89, 0.46, 0.21)|sólidos=2
+COLLIDER|WallBand_Straight_579|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.44, 3.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_582|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.44, 3.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_585|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.44, 3.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_597|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.44, 3.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_600|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.44, 3.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_603|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.44, 3.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_606|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_609|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_612|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_615|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_618|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_621|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_624|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_627|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_630|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_633|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_636|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_639|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_642|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_645|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_648|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_651|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_654|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_657|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_660|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_663|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_666|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_669|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_672|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_675|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|sólidos=1
+COLLIDER|Door_Frame_A_885|geometria local=Center: (0.00, 0.00, 0.00), Extents: (2.20, 1.65, 0.12)|sólidos=3
+COLLIDER|Door_Left_01_886|geometria local=Center: (0.00, 0.00, 0.07), Extents: (0.38, 1.40, 0.24)|sólidos=1
+COLLIDER|Platform_3Plates_961|geometria local=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.00, 2.00)|sólidos=1
+COLLIDER|Storage_Container_02_Blue_962|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.35, 0.57, 0.73)|sólidos=1
+COLLIDER|Platform_DarkPlates_963|geometria local=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.00, 2.00)|sólidos=1
+COLLIDER|Prop_Crate4_964|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.35, 1.35, 1.35)|sólidos=1
+COLLIDER|Platform_Metal_965|geometria local=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.00, 2.00)|sólidos=1
+COLLIDER|Storage_Container_02_Blue_966|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.35, 0.57, 0.73)|sólidos=1
+COLLIDER|Platform_Metal2_967|geometria local=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.00, 2.00)|sólidos=1
+COLLIDER|Prop_Crate4_968|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.35, 1.35, 1.35)|sólidos=1
+COLLIDER|Platform_Squares_969|geometria local=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.00, 2.00)|sólidos=1
+COLLIDER|Storage_Container_02_Blue_970|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.35, 0.57, 0.73)|sólidos=1
+COLLIDER|Column_MetalSupport_971|geometria local=Center: (0.00, 0.00, 0.00), Extents: (0.16, 0.01, 0.65)|sólidos=1
+COLLIDER|Column_MetalSupport_972|geometria local=Center: (0.00, 0.00, 0.00), Extents: (0.16, 0.01, 0.65)|sólidos=1
+COLLIDER|Column_MetalSupport_973|geometria local=Center: (0.00, 0.00, 0.00), Extents: (0.16, 0.01, 0.65)|sólidos=1
+COLLIDER|Column_MetalSupport_974|geometria local=Center: (0.00, 0.00, 0.00), Extents: (0.16, 0.01, 0.65)|sólidos=1
+COLLIDER|Prop_Chest_977|geometria local=Center: (0.00, 0.03, -0.01), Extents: (0.88, 0.58, 0.80)|sólidos=1
+COLLIDER|Storage_Barrel_04_978|geometria local=Center: (0.00, 0.00, 0.00), Extents: (0.50, 0.63, 0.50)|sólidos=1
+COLLIDER|Prop_Vent_Wide_982|geometria local=Center: (0.00, 0.00, 0.00), Extents: (0.22, 0.01, 0.13)|sólidos=1
+COLLIDER|WallBand_Straight_725|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.25, 2.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_728|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.25, 2.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_731|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.25, 2.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_734|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.25, 2.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_737|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.25, 2.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_740|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.25, 2.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_743|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.25, 2.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_746|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.25, 2.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_749|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.08, 2.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_752|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.08, 2.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_755|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.38, 2.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_758|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.38, 2.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_761|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.38, 2.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_764|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.33, 2.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_767|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.33, 2.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_770|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.33, 2.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_773|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.33, 2.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_776|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.33, 2.00, 0.11)|sólidos=1
+COLLIDER|WallBand_Straight_779|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.33, 2.00, 0.11)|sólidos=1
+COLLIDER|Door_Frame_A_887|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.90, 1.65, 0.12)|sólidos=3
+COLLIDER|Door_Left_01_888|geometria local=Center: (0.00, 0.00, 0.00), Extents: (0.38, 1.40, 0.09)|sólidos=1
+COLLIDER|Column_Simple_983|geometria local=Center: (0.00, 0.00, 0.00), Extents: (0.20, 2.00, 0.39)|sólidos=1
+COLLIDER|Column_Pipes_984|geometria local=Center: (0.00, 0.00, 0.00), Extents: (0.31, 1.80, 0.31)|sólidos=1
+COLLIDER|Column_Hollow_985|geometria local=Center: (0.00, 0.00, 0.00), Extents: (0.41, 1.70, 0.41)|sólidos=1
+COLLIDER|Storage_Electric_Box_02_986|geometria local=Center: (0.00, 0.00, 1.60), Extents: (0.66, 0.96, 0.50)|sólidos=1
+COLLIDER|Fan_01_987|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.00, 0.10, 1.00)|sólidos=2
+COLLIDER|Prop_Fan_Small_988|geometria local=Center: (0.00, -0.02, 0.00), Extents: (0.67, 0.18, 0.67)|sólidos=1
+COLLIDER|Door_Simple_993|geometria local=Center: (0.00, 0.00, 0.00), Extents: (0.77, 1.49, 0.10)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_811|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_814|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_817|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_820|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_823|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_826|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_829|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_832|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_835|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.25, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_838|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.25, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_841|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.25, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_844|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.25, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_847|geometria local=Center: (0.00, 0.00, 0.00), Extents: (0.83, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_850|geometria local=Center: (0.00, 0.00, 0.00), Extents: (0.83, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_853|geometria local=Center: (0.00, 0.00, 0.00), Extents: (0.83, 1.90, 0.11)|sólidos=1
+COLLIDER|WallAstra_Straight_Divided_856|geometria local=Center: (0.00, 0.00, 0.00), Extents: (0.83, 1.90, 0.11)|sólidos=1
+COLLIDER|Door_Frame_Square_889|geometria local=Center: (0.00, 0.00, 0.00), Extents: (1.90, 1.65, 0.12)|sólidos=3
+COLLIDER|Door_Left_01_890|geometria local=Center: (0.00, 0.00, 0.00), Extents: (0.38, 1.40, 0.09)|sólidos=1
+COLLIDER|Storage_Cabinet_02_994|geometria local=Center: (0.33, 0.00, -1.39), Extents: (0.48, 0.66, 0.45)|sólidos=1
+COLLIDER|Storage_Cabinet_03_995|geometria local=Center: (0.81, 0.00, 0.19), Extents: (0.33, 1.00, 1.73)|sólidos=24
+COLLIDER|Storage_Cabinet_04_996|geometria local=Center: (-0.39, 0.11, 1.39), Extents: (0.73, 0.37, 0.58)|sólidos=2
+COLLIDER|Office_Table Metal Variant_997|geometria local=Center: (0.00, 0.00, 0.00), Extents: (0.91, 0.45, 0.46)|sólidos=5
+COLLIDER|Office_Stool_1000|geometria local=Center: (0.00, 0.00, 0.82), Extents: (0.12, 0.33, 0.12)|sólidos=1
+Modelos avulsos revistos: 38; 0 colisores simples adicionais. Cabos baixos e miudezas não bloqueiam a passagem.
+Revisão: 572 objetos arquitetônicos/sólidos; 290 compostos/alinhados; 0 caixas auxiliares novas. Quatro folhas móveis preservadas.
+Sparrow espera em (1.12, 0.12, 6.35); alvo Center: (1.12, 0.12, 6.35), Extents: (0.20, 0.13, 0.20); Idle_A/B/C no chão, Fly após adoção; controller original reutilizado.
+Alerta externo: error_006 (aviso eletrônico de interface), repetido por 4s; não é uma fala/anúncio importado.
+SOURCE|Audio_Ambiente_Energia|Assets/Audio/Ambient/Kenney_engineCircular_000.ogg|volume=0,035
+Cena: Assets/Scenes/Level01_Nave_Expanded.unity; jogador, HUD, menus e condições dos puzzles preservados.
+Ausentes nesta inspeção: passos reais, cantos de pássaro e pacote adicional de anúncios. Campos de passos/cantos preparados sem sons substitutos.
+Transformações preservadas: 1434 renderizadores existentes, exceto o pet que agora espera no corredor.

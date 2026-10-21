@@ -1,0 +1,1660 @@
+Auditoria do polimento 2026-10-21T01:23:38 Unity 6000.0.81f1
+OK: Zero scripts ausentes
+OK: Um jogador
+OK: Um EventSystem
+OK: Um AudioListener
+OK: Um HUD
+OK: Porta ligada à apresentação Porta_Inicial
+OK: Colisão na folha móvel Porta_Inicial
+OK: Dois emissores curtos pausáveis Porta_Inicial
+PORTA|Porta_Inicial|Assets/Audio/SFX/Doors/Kenney_doorOpen_000.ogg|1D|volume=0,42
+OK: Porta ligada à apresentação Porta_05_Laboratorio
+OK: Colisão na folha móvel Porta_05_Laboratorio
+OK: Dois emissores curtos pausáveis Porta_05_Laboratorio
+PORTA|Porta_05_Laboratorio|Assets/Audio/SFX/Doors/Kenney_doorOpen_001.ogg|1D|volume=0,42
+OK: Porta ligada à apresentação Porta_07_Hangar
+OK: Colisão na folha móvel Porta_07_Hangar
+OK: Dois emissores curtos pausáveis Porta_07_Hangar
+PORTA|Porta_07_Hangar|Assets/Audio/SFX/Doors/Kenney_doorOpen_002.ogg|1D|volume=0,42
+OK: Porta ligada à apresentação Porta_Saida_Externa
+OK: Colisão na folha móvel Porta_Saida_Externa
+OK: Dois emissores curtos pausáveis Porta_Saida_Externa
+PORTA|Porta_Saida_Externa|Assets/Audio/SFX/Doors/Kenney_doorOpen_000.ogg|1D|volume=0,42
+OK: Alerta externo limitado a 4s
+ALARME|Assets/Audio/SFX/Alarms/Kenney_error_006.ogg; aviso eletrônico Kenney; sem anúncio de voz importado.
+OK: Partículas de energia vinculadas à instalação real
+ATIVACAO|Assets/Audio/SFX/Interactions/Kenney_confirmation_001.ogg
+OK: VFX_EnergyActivation sem loop/colisores, limite de partículas
+OK: Material URP VFX_EnergyActivation
+OK: VFX_DoorSteam sem loop/colisores, limite de partículas
+OK: Material URP VFX_DoorSteam
+OK: Controller original Sparrow preservado
+CLIPES SPARROW|Attack, Bounce, Clicked, Death, Eat, Eyes_Annoyed, Eyes_Blink, Eyes_Cry, Eyes_Dead, Eyes_Excited, Eyes_Happy, Eyes_LookDown, Eyes_LookIn, Eyes_LookOut, Eyes_LookUp, Eyes_Rabid, Eyes_Sad, Eyes_Shrink, Eyes_Sleep, Eyes_Spin, Eyes_Squint, Eyes_Trauma, Fear, Fly, Hit, Idle_A, Idle_B, Idle_C, Jump, Roll, Run, Sit, Spin, Sweat_L, Sweat_R, Swim, Teardrop_L, Teardrop_R, Walk
+OK: Clipes reais disponíveis para repouso e voo
+OK: Alvo pequeno de adoção no raycast
+OK: Sparrow sem colisão física
+OK: Sparrow no chão após a porta inicial
+OK: Três idles sorteados; Fly preservado na locomoção
+OK: Passos preparados sem modificar controlador
+OK: Cantos opcionais preparados na própria ave
+LIMITACAO|Passos atribuídos=0; cantos atribuídos=0. Nenhum áudio adequado para estas categorias encontrado nos 173 clipes importados.
+OK: Cartão com apoio real 0
+CARTAO|(14.00, 0.91, 16.12)
+OK: Cartão com apoio real 1
+CARTAO|(26.00, 0.91, 16.12)
+OK: Cartão com apoio real 2
+CARTAO|(26.06, 0.91, 23.28)
+OK: GUID de áudio preservado: af26c0b366c0f1a419a41417afa69436
+OK: GUID de áudio preservado: 8ddb4ff83dc86624c87cac9a0e307aa6
+OK: GUID de áudio preservado: 0bbbc038bf82ad14589807d0ee30d218
+OK: GUID de áudio preservado: 73f3be3902364ca4b9ac2ec6d8129ff6
+OK: GUID de áudio preservado: 1e89f7ce0f8dcee45bde19aea6a0b5a5
+OK: GUID de áudio preservado: dec72984c7555b047b245bc34d0b2da5
+OK: GUID de áudio preservado: bc6e165fdd558f3488524797fd4a6465
+OK: GUID de áudio preservado: 2c59d607b04f8f54db57c6fc03af0c7f
+OK: GUID de áudio preservado: cce247af4c1db434cb7b41a29e6560a9
+OK: GUID de áudio preservado: d4c76731543e2ce4fb06060b665b2b15
+OK: GUID de áudio preservado: 97e3d4c9b2938d943b7cbbbc56082c03
+OK: GUID de áudio preservado: 0ea41e3f598324f4f863870afac5b61b
+OK: GUID de áudio preservado: fc4a8c34fffb70548bc462b4fd85e9b0
+OK: GUID de áudio preservado: 9679ec93d68567c4e9af1fd3730261bb
+OK: GUID de áudio preservado: c406c98682ee60648af85daccb39906b
+OK: GUID de áudio preservado: 80e185e605cacd1468c054d67e52cb11
+OK: GUID de áudio preservado: b01cdd9ff7e518f44a087d6c64be8eb4
+OK: GUID de áudio preservado: 4602d02fd3991ff48b8cdd2d1a0c2724
+OK: GUID de áudio preservado: dd8c379666be42346823754ea2f01e4c
+OK: GUID de áudio preservado: a9fb4c9ecc4565a49bec089cc7da2120
+OK: GUID de áudio preservado: 390c3c22ce3f2324d9fc77c339304183
+OK: GUID de áudio preservado: 2a55b5f281f8b444199c8139140642cb
+OK: GUID de áudio preservado: a6046c77401f62943b20a7ef6fee7261
+OK: GUID de áudio preservado: f9a73c57bfe4d554a932ecc0ef506245
+OK: GUID de áudio preservado: 6dcffe210634720499ccc5df99281c5e
+OK: GUID de áudio preservado: ecf642c2657c59a468ecd559747d573a
+OK: GUID de áudio preservado: 00a480a57535f414aa87f0e15f07393c
+OK: GUID de áudio preservado: 71e0365c3feafdf46ab8c2f16ce6678c
+OK: GUID de áudio preservado: e35a3bd9fc8c04f4ba5050c79f9044df
+OK: GUID de áudio preservado: 489ef88988e0a114dbc3b102d470c179
+OK: GUID de áudio preservado: 5bbd1149733487044a32b97dcc852f8d
+OK: GUID de áudio preservado: b26c9821a661501488e58937776ee271
+OK: GUID de áudio preservado: 52699e49ec617c840a8b561a28471311
+OK: GUID de áudio preservado: bfdc8fd774f468d4d81a5fac35d4a5f0
+OK: GUID de áudio preservado: cd76a5feb269ad146bb3ad8dc6e465ca
+OK: GUID de áudio preservado: a7d06f65f88ec724aadc1bcc04b1b09f
+OK: GUID de áudio preservado: 18a8f8cd7560b734aa617566e66d1df2
+OK: GUID de áudio preservado: 95a74082a54cf8748a6f8ba7a579c2c9
+OK: GUID de áudio preservado: 9091773904a6bb7409f034f8340c793c
+OK: GUID de áudio preservado: 7c17500d8c7134547b2c51e02faeff17
+OK: GUID de áudio preservado: 3a3fea79ab5d88d48ab476d98ccb29a9
+OK: GUID de áudio preservado: 9049259d585ef6045811af9ddaeafa34
+OK: GUID de áudio preservado: 99e79e5f993083f41880c95d05876bb7
+OK: GUID de áudio preservado: d6fe0c998ea1faa41ba10953e8020692
+OK: GUID de áudio preservado: b1b1bcc15a61d3d45b9bc6527f70cea1
+OK: GUID de áudio preservado: 694715344813a5242ac6fd987f794987
+OK: GUID de áudio preservado: 0de3603d47d94b84f9de0fb194d556b8
+OK: GUID de áudio preservado: 5d346e631b18e0e4594d2fcc11fc88ea
+OK: GUID de áudio preservado: dfee44e9fca5ad3438ad0f47ee647e13
+OK: GUID de áudio preservado: df850c20235f5384980abf399601aece
+OK: GUID de áudio preservado: 443295de674d945448436840ec0a1423
+OK: GUID de áudio preservado: 5e9645cff9103b54c9529abaeef9b484
+OK: GUID de áudio preservado: bfd7338934529d34e8ce195bbb3ab80b
+OK: GUID de áudio preservado: b1c07a901fac6fd42940192f0a46be13
+OK: GUID de áudio preservado: 73d0ae939fbd2b84abd8d3ac3c574f2f
+OK: GUID de áudio preservado: 54b1fdca3320a5846b4a7154fc8c2c29
+OK: GUID de áudio preservado: be33b6438792c52468d7983c5761ad2f
+OK: GUID de áudio preservado: 43352fbb0cb69d24ab79ad3e9160b04a
+OK: GUID de áudio preservado: 243b608ee450cb546876dce04a594e09
+OK: GUID de áudio preservado: b2fdd3d864ad7e542a46ffe9fe833c47
+OK: GUID de áudio preservado: 74c03265f3016f541894c1a3a3f40e6b
+OK: GUID de áudio preservado: 347e124ea40673c4b8f1cb05fdab8c5c
+OK: GUID de áudio preservado: f9daf194731325c479997dd9304c3611
+OK: GUID de áudio preservado: 82a7c24ee9bd1a841b4fd43287e38e25
+OK: GUID de áudio preservado: 195dee65fbdc89d41b57a235e410f508
+OK: GUID de áudio preservado: 7fadd1163788ce3499cd4619da3c0f98
+OK: GUID de áudio preservado: 6db06e9693096514ca6c198115a958d8
+OK: GUID de áudio preservado: 975783d13f7b5d74d90b20db63819268
+OK: GUID de áudio preservado: 7ea12645c8e68ba4faf9d69044eda21a
+OK: GUID de áudio preservado: 23d259378e31f38438933f5529cb0c81
+OK: GUID de áudio preservado: a5543eb1ac088584a9508fb571a3ebff
+OK: GUID de áudio preservado: 2788fa3095b79ae4f9e945eea32900f0
+OK: GUID de áudio preservado: 96e04166130dfd74c9102634a6821777
+OK: GUID de áudio preservado: 876429dc7cb7f954a9a18890f8dd0e3f
+OK: GUID de áudio preservado: 8e9c5c26dabd854498279e3f276ab0e4
+OK: GUID de áudio preservado: 5367407e9483b074199427ab4fe03cbc
+OK: GUID de áudio preservado: b490f07d9fdec7b4baf076756e962411
+OK: GUID de áudio preservado: abbb7504db3fa6a43ae2b56fc3e7bc04
+OK: GUID de áudio preservado: 32bd9aa2a4aff6a4aaed0fb8cacebf28
+OK: GUID de áudio preservado: 6aed20c86c4307d448a6b2fc4c77ccb1
+OK: GUID de áudio preservado: 9ffcbadc9dca96549bda7fa5d0e9c7dd
+OK: GUID de áudio preservado: 9fef521fb5065084ca0801d8b65db002
+OK: GUID de áudio preservado: 17908bedd9aab8743ad5e5744027b64e
+OK: GUID de áudio preservado: 579be3972ee58584ca5ddf0e9684caf1
+OK: GUID de áudio preservado: da3940f716c63f644bb28c89fbf84177
+OK: GUID de áudio preservado: 2adac9497927c03489e1d0b2612fddae
+OK: GUID de áudio preservado: b223b848e93249442b304fd3fa447686
+OK: GUID de áudio preservado: be95a6ad3d41ef346ae0815a3df62947
+OK: GUID de áudio preservado: 41cc82e0537cb6f4c94538a678caf147
+OK: GUID de áudio preservado: 1a77ce399817e8a4288826f38a796ca7
+OK: GUID de áudio preservado: 4df290e932a6a6646883cb785ac2a321
+OK: GUID de áudio preservado: 22d5d7e7caaa9194a9559dcd62b4a9d7
+OK: GUID de áudio preservado: d88cbd6e6a57dbd40a8158b9dcc5cb20
+OK: GUID de áudio preservado: 849b66f4f7d1e314781c6d3336fe9d00
+OK: GUID de áudio preservado: 222e25ebb8300d84ab243060ffa76939
+OK: GUID de áudio preservado: b50610edf27fcc24b97d603313bd7390
+OK: GUID de áudio preservado: edcca729f73874d438759d4c711abf70
+OK: GUID de áudio preservado: 5bc17fdde5008e54a8edd9e8421342fc
+OK: GUID de áudio preservado: 2364b0661ba588f428de7ebb6131b236
+OK: GUID de áudio preservado: e3c938aa6fd971f4ea6f47bf77a12236
+OK: GUID de áudio preservado: de81e13142c02af489252ae332a57152
+OK: GUID de áudio preservado: c83b5be82eb52484aaf050095c74287a
+OK: GUID de áudio preservado: 85f940f22c0b90b4bad61abb6f396d99
+OK: GUID de áudio preservado: ce88a8813288ed249892e66d3aa177a5
+OK: GUID de áudio preservado: a78440a6ce1275b4489a99853d18a7f4
+OK: GUID de áudio preservado: 30f240929078d9542bfb4700d45e4615
+OK: GUID de áudio preservado: bb1bf355097a3a34c83afe882131b080
+OK: GUID de áudio preservado: 1e547821f2f83734892758f84621a69b
+OK: GUID de áudio preservado: e3821bb1ab5f6f1409b35ae50a48fa29
+OK: GUID de áudio preservado: dc6520b3ef394e946b4ea5d00ccb7372
+OK: GUID de áudio preservado: 915f6287e3bf48745ac4597eac048383
+OK: GUID de áudio preservado: 53aa5f1d53a7db248a96d321eb667948
+OK: GUID de áudio preservado: 3de946126c68d9444895eec0ac5087bf
+OK: GUID de áudio preservado: 17f3a95dbbf5d534ab77fc1f74f00511
+OK: GUID de áudio preservado: fc4a25f4e3db44449ae3125551cd8ed7
+OK: GUID de áudio preservado: 909fafc502d0b08459bd09c420c9c83e
+OK: GUID de áudio preservado: 0761e7867a5ec8646ba18845f0322022
+OK: GUID de áudio preservado: 5f4e22fdb3b013247b9e5d768425cd69
+OK: GUID de áudio preservado: 9f5e08b29d961434d81e07ab8935816e
+OK: GUID de áudio preservado: 10a71fbf68bf60c4092ade3d9945323c
+OK: GUID de áudio preservado: 70debe3a7981d2740a00fcfce8e9a4c1
+OK: GUID de áudio preservado: d4bc13a5244a06143bc8767fba0c71ed
+OK: GUID de áudio preservado: b53017fb72b6907429305e3deccbdcde
+OK: GUID de áudio preservado: 829a7fe6f2b72864981466a540eae630
+OK: GUID de áudio preservado: 9366952310448a54a92620bb4c853fc3
+OK: GUID de áudio preservado: b34c4ae7011121d4f8b7e5c5a8b0e43a
+OK: GUID de áudio preservado: 2b31138bf7d026940918874e728f443b
+OK: GUID de áudio preservado: 9132716b0d86e0a47842cea6b1fadcdf
+OK: GUID de áudio preservado: 68c88b70f3dd623479c83a271cf407eb
+OK: GUID de áudio preservado: a386c0051e86edf45a057da5cada0ac7
+OK: GUID de áudio preservado: 0e845f8e347011d408b49a112e0c0cb3
+OK: GUID de áudio preservado: a81a3a8592d68084a9e106e5dc97b0c4
+OK: GUID de áudio preservado: aee29d8e18ccecd419069587fe46947b
+OK: GUID de áudio preservado: 2ae7c1d62f1190e43b90a9b301c66c77
+OK: GUID de áudio preservado: 218c0a1879cbdc44fa0fbc9bbf497086
+OK: GUID de áudio preservado: 238b4756e67d79d47bfc59ef62454bc1
+OK: GUID de áudio preservado: e6e7b344b8809a543833332b3cf7273b
+OK: GUID de áudio preservado: 50f670d61eaeada4082ae3cec2ff19b0
+OK: GUID de áudio preservado: 56555e8a9e5ee1d48ab6fb941d0fee69
+OK: GUID de áudio preservado: 6fabc46477675874db74cf7663ca9cb9
+OK: GUID de áudio preservado: 8082e9e55bf4ebe4286c503e70163571
+OK: GUID de áudio preservado: 05f9ff4626f7c7d4cbfe7798da89e74a
+OK: GUID de áudio preservado: f820b129cc96ac048b458a7e90fc3101
+OK: GUID de áudio preservado: d793890164fa8ad4aa6667a44ff3be09
+OK: GUID de áudio preservado: 35df622d27ab72d4a8fba040712354af
+OK: GUID de áudio preservado: 0ae0d02562ec7dd42a5af095354db87a
+OK: GUID de áudio preservado: 967795e8e780f8a45b52ac1075cf8630
+OK: GUID de áudio preservado: 3ff8a5f8dfe2b13489f0c414875a3f4a
+OK: GUID de áudio preservado: b3ec497602bb50e49a71c8d51d10140e
+OK: GUID de áudio preservado: c80630732e1e554428203a483d991f24
+OK: GUID de áudio preservado: 8311817df0b58884e9c89422a2e1731d
+OK: GUID de áudio preservado: 1bc70915625f48243b4b7a354248e3c3
+OK: GUID de áudio preservado: 803992c4948368a44a9233b54e847990
+OK: GUID de áudio preservado: b462fe85537533f43bb0fe667a741e7b
+OK: GUID de áudio preservado: c76df2f5aaa3b3142bd5031328a6aa10
+OK: GUID de áudio preservado: b0e3315c877fcec42b86d7424d1e4ce4
+OK: GUID de áudio preservado: c59b01e07dd2f3e48a9b4019c294bcc3
+OK: GUID de áudio preservado: 91ce33899065198449c62b645fa7a0c9
+OK: GUID de áudio preservado: 5b345a3c28fd9804ea982adc356304c4
+OK: GUID de áudio preservado: d082efb40091e0b459327bc102da7481
+OK: GUID de áudio preservado: b30f6daaf626d2c46b7a07a3a65d879a
+OK: GUID de áudio preservado: 1039b3a7448c1264b9c4714126fec6cd
+OK: GUID de áudio preservado: 1fe44dc456e50a2478230ce9433750cf
+OK: GUID de áudio preservado: b02385a48756df34c94a0b8244bf49a9
+OK: GUID de áudio preservado: 7afe443b27fd42e4cac10c260dd4f27f
+OK: GUID de áudio preservado: b20a71aee9cd39b42883d3f8a60b90c1
+OK: GUID de áudio preservado: 7e9d955b3c1e85e4ea22b346b39c68ab
+OK: GUID de áudio preservado: 3c15a9db4430e7948b913e8e68b01bcd
+OK: GUID de áudio preservado: 6c41802e9810de84db48ef89dd897787
+OK: GUID de áudio preservado: f5ea3b3b5be1d214699e1045fa3fc9f8
+OK: GUID de áudio preservado: 098373e2eed11c04dad5c0a6c01ed0bc
+OK: GUID de áudio preservado: 54c56e0b9cc021e4ebf1e3f387cf162b
+OK: GUID de áudio preservado: 0e1a9353fe660a045b45849da8a83b10
+OK: Nenhum clipe duplicado ou excluído (173)
+Colisores sólidos habilitados=902
+Rigidbody estáticos adicionados=0; MeshCollider novos=0.
+COLISOES: sólidos habilitados antes=648; depois=902; novos BoxColliders=523
+OK: Nenhum MeshCollider novo
+OK: Nenhum Rigidbody estático adicionado
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/Floor_01_001/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/Roof_01_002/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/Floor_01_003/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/Roof_01_004/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/Floor_01_005/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/Roof_01_006/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/Floor_01_007/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/Roof_01_008/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/Floor_01_009/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/Roof_01_010/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/Floor_01_011/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/Roof_01_012/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/Floor_01_013/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/Roof_01_014/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/Floor_01_015/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/Roof_01_016/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/Floor_01_017/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/Roof_01_018/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/WallAstra_Straight_019/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/TopAstra_Straight_020/Ajuste/TopAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/BottomSimple_Straight_021/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/WallAstra_Straight_022/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/TopAstra_Straight_023/Ajuste/TopAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/BottomSimple_Straight_024/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/WallAstra_Straight_025/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/TopAstra_Straight_026/Ajuste/TopAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/BottomSimple_Straight_027/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/WallAstra_Straight_028/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/TopAstra_Straight_029/Ajuste/TopAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/BottomSimple_Straight_030/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/WallAstra_Straight_031/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/TopAstra_Straight_032/Ajuste/TopAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/BottomSimple_Straight_033/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/WallAstra_Straight_034/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/TopAstra_Straight_035/Ajuste/TopAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/BottomSimple_Straight_036/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/WallAstra_Straight_037/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/TopAstra_Straight_038/Ajuste/TopAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/BottomSimple_Straight_039/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/WallAstra_Straight_040/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/TopAstra_Straight_041/Ajuste/TopAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/BottomSimple_Straight_042/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/WallAstra_Straight_043/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/TopAstra_Straight_044/Ajuste/TopAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/BottomSimple_Straight_045/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/WallAstra_Straight_046/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/TopAstra_Straight_047/Ajuste/TopAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/BottomSimple_Straight_048/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/WallAstra_Straight_049/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/TopAstra_Straight_050/Ajuste/TopAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/BottomSimple_Straight_051/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/WallAstra_Straight_052/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/TopAstra_Straight_053/Ajuste/TopAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/BottomSimple_Straight_054/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/WallAstra_Straight_055/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/TopAstra_Straight_056/Ajuste/TopAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/BottomSimple_Straight_057/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/WallAstra_Straight_058/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/TopAstra_Straight_059/Ajuste/TopAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/BottomSimple_Straight_060/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/WallAstra_Straight_061/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/TopAstra_Straight_062/Ajuste/TopAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/BottomSimple_Straight_063/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/WallAstra_Straight_064/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/TopAstra_Straight_065/Ajuste/TopAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Arquitetura/BottomSimple_Straight_066/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Iluminacao/Prop_Light_Wide_067/Ajuste/Prop_Light_Wide
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Passagem_CORREDOR / DEPOSITO/Door_Frame_Square_875/Ajuste/Door_Frame_Square
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Passagem_CORREDOR / DEPOSITO/Door_Left_01_876/Ajuste/Door_Left_01/Door_Left_01
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Passagem_CORREDOR / DEPOSITO/Placa_CORREDOR / DEPOSITO
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Column_Hollow_891/Ajuste/Column_Hollow
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Prop_ItemHolder_892/Ajuste/Prop_ItemHolder
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Prop_ItemHolder_892/Ajuste/Prop_ItemHolder (1)
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Column_Astra_893/Ajuste/Column_Astra
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Office_Table Metal Variant_894/Ajuste/Table Metal Variant
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Office_PC 2_895/Ajuste/PC 2
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Office_Stool_896/Ajuste/Stool
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Prop_AccessPoint_897/Ajuste/Prop_AccessPoint
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Door_Arch_01_898/Ajuste/Door_Arch_01/Door_Arch_01
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Light_01_899/Ajuste/Light_01/Light_01
+OK: Modelo preservado: Level01_Nave_Expanded/01_Contencao/Prop_Cable_1_900/Ajuste/Prop_Cable_1
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Eixo_Contencao_Deposito/Arquitetura/Floor_01_068/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Eixo_Contencao_Deposito/Arquitetura/Roof_01_069/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Eixo_Contencao_Deposito/Arquitetura/Floor_01_070/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Eixo_Contencao_Deposito/Arquitetura/Roof_01_071/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Eixo_Contencao_Deposito/Arquitetura/WallAstra_Straight_072/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Eixo_Contencao_Deposito/Arquitetura/TopSimple_Straight_073/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Eixo_Contencao_Deposito/Arquitetura/BottomSimple_Straight_074/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Eixo_Contencao_Deposito/Arquitetura/WallAstra_Straight_075/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Eixo_Contencao_Deposito/Arquitetura/TopSimple_Straight_076/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Eixo_Contencao_Deposito/Arquitetura/BottomSimple_Straight_077/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Eixo_Contencao_Deposito/Arquitetura/WallAstra_Straight_078/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Eixo_Contencao_Deposito/Arquitetura/TopSimple_Straight_079/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Eixo_Contencao_Deposito/Arquitetura/BottomSimple_Straight_080/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Eixo_Contencao_Deposito/Arquitetura/WallAstra_Straight_081/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Eixo_Contencao_Deposito/Arquitetura/TopSimple_Straight_082/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Eixo_Contencao_Deposito/Arquitetura/BottomSimple_Straight_083/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Eixo_Contencao_Deposito/Arquitetura/WallAstra_Straight_084/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Eixo_Contencao_Deposito/Arquitetura/TopSimple_Straight_085/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Eixo_Contencao_Deposito/Arquitetura/BottomSimple_Straight_086/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Eixo_Contencao_Deposito/Arquitetura/WallAstra_Straight_087/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Eixo_Contencao_Deposito/Arquitetura/TopSimple_Straight_088/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Eixo_Contencao_Deposito/Arquitetura/BottomSimple_Straight_089/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Eixo_Contencao_Deposito/Arquitetura/WallAstra_Straight_090/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Eixo_Contencao_Deposito/Arquitetura/TopSimple_Straight_091/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Eixo_Contencao_Deposito/Arquitetura/BottomSimple_Straight_092/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Eixo_Contencao_Deposito/Iluminacao/Prop_Light_Wide_093/Ajuste/Prop_Light_Wide
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Eixo_Contencao_Deposito/Prop_Vent_Small_1003/Ajuste/Prop_Vent_Small
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Eixo_Contencao_Deposito/Surveillance_1004/Ajuste/Surveillance Camera
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Eixo_Contencao_Deposito/Surveillance_1004/Ajuste/Surveillance Camera/Base
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Eixo_Contencao_Deposito/Surveillance_1004/Ajuste/Surveillance Camera/Base/Camera
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Eixo_Contencao_Deposito/Prop_Cable_1_1005/Ajuste/Prop_Cable_1
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Eixo_Contencao_Deposito/Placa_ENERGIA  <     DEPOSITO  ^
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Energia/Arquitetura/Floor_01_173/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Energia/Arquitetura/Roof_01_174/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Energia/Arquitetura/WallAstra_Straight_175/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Energia/Arquitetura/TopSimple_Straight_176/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Energia/Arquitetura/BottomMetal_Straight_177/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Energia/Arquitetura/WallAstra_Straight_178/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Energia/Arquitetura/TopSimple_Straight_179/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Energia/Arquitetura/BottomMetal_Straight_180/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Energia/Iluminacao/Prop_Light_Wide_181/Ajuste/Prop_Light_Wide
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Laboratorio/Arquitetura/Floor_01_398/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Laboratorio/Arquitetura/Roof_01_399/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Laboratorio/Arquitetura/WallAstra_Straight_400/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Laboratorio/Arquitetura/TopSimple_Straight_401/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Laboratorio/Arquitetura/BottomSimple_Straight_402/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Laboratorio/Arquitetura/WallAstra_Straight_403/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Laboratorio/Arquitetura/TopSimple_Straight_404/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Laboratorio/Arquitetura/BottomSimple_Straight_405/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Laboratorio/Iluminacao/Prop_Light_Wide_406/Ajuste/Prop_Light_Wide
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Seguranca/Arquitetura/Floor_01_480/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Seguranca/Arquitetura/Roof_01_481/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Seguranca/Arquitetura/WallAstra_Straight_482/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Seguranca/Arquitetura/TopSimple_Straight_483/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Seguranca/Arquitetura/BottomSimple_Straight_484/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Seguranca/Arquitetura/WallAstra_Straight_485/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Seguranca/Arquitetura/TopSimple_Straight_486/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Seguranca/Arquitetura/BottomSimple_Straight_487/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Seguranca/Arquitetura/WallAstra_Straight_488/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Seguranca/Arquitetura/TopSimple_Straight_489/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Seguranca/Arquitetura/BottomSimple_Straight_490/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Seguranca/Arquitetura/WallAstra_Straight_491/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Seguranca/Arquitetura/TopSimple_Straight_492/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Seguranca/Arquitetura/BottomSimple_Straight_493/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Seguranca/Iluminacao/Prop_Light_Wide_494/Ajuste/Prop_Light_Wide
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Hangar/Arquitetura/Floor_01_684/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Hangar/Arquitetura/Roof_01_685/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Hangar/Arquitetura/Floor_01_686/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Hangar/Arquitetura/Roof_01_687/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Hangar/Arquitetura/WallAstra_Straight_688/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Hangar/Arquitetura/TopSimple_Straight_689/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Hangar/Arquitetura/BottomSimple_Straight_690/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Hangar/Arquitetura/WallAstra_Straight_691/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Hangar/Arquitetura/TopSimple_Straight_692/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Hangar/Arquitetura/BottomSimple_Straight_693/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Hangar/Arquitetura/WallAstra_Straight_694/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Hangar/Arquitetura/TopSimple_Straight_695/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Hangar/Arquitetura/BottomSimple_Straight_696/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Hangar/Arquitetura/WallAstra_Straight_697/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Hangar/Arquitetura/TopSimple_Straight_698/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Hangar/Arquitetura/BottomSimple_Straight_699/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Hangar/Iluminacao/Prop_Light_Wide_700/Ajuste/Prop_Light_Wide
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Maquinas/Arquitetura/Floor_01_784/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Maquinas/Arquitetura/Roof_01_785/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Maquinas/Arquitetura/WallAstra_Straight_786/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Maquinas/Arquitetura/TopSimple_Straight_787/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Maquinas/Arquitetura/BottomMetal_Straight_788/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Maquinas/Arquitetura/WallAstra_Straight_789/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Maquinas/Arquitetura/TopSimple_Straight_790/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Maquinas/Arquitetura/BottomMetal_Straight_791/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Maquinas/Iluminacao/Prop_Light_Wide_792/Ajuste/Prop_Light_Wide
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Manutencao/Arquitetura/Floor_01_860/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Manutencao/Arquitetura/Roof_01_861/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Manutencao/Arquitetura/WallAstra_Straight_862/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Manutencao/Arquitetura/TopSimple_Straight_863/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Manutencao/Arquitetura/BottomSimple_Straight_864/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Manutencao/Arquitetura/WallAstra_Straight_865/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Manutencao/Arquitetura/TopSimple_Straight_866/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Manutencao/Arquitetura/BottomSimple_Straight_867/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Manutencao/Arquitetura/WallAstra_Straight_868/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Manutencao/Arquitetura/TopSimple_Straight_869/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Manutencao/Arquitetura/BottomSimple_Straight_870/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Manutencao/Arquitetura/WallAstra_Straight_871/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Manutencao/Arquitetura/TopSimple_Straight_872/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Manutencao/Arquitetura/BottomSimple_Straight_873/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/02_Corredores/Acesso_Manutencao/Iluminacao/Prop_Light_Wide_874/Ajuste/Prop_Light_Wide
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/Floor_01_094/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/Roof_01_095/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/Floor_01_096/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/Roof_01_097/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/Floor_01_098/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/Roof_01_099/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/Floor_01_100/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/Roof_01_101/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/Floor_01_102/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/Roof_01_103/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/Floor_01_104/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/Roof_01_105/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/Floor_01_106/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/Roof_01_107/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/Floor_01_108/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/Roof_01_109/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/Floor_01_110/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/Roof_01_111/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/Floor_01_112/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/Roof_01_113/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/Floor_01_114/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/Roof_01_115/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/Floor_01_116/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/Roof_01_117/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/WallBand_Straight_118/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/TopCables_Straight_119/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/BottomMetal_Straight_120/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/WallBand_Straight_121/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/TopCables_Straight_122/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/BottomMetal_Straight_123/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/WallBand_Straight_124/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/TopCables_Straight_125/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/BottomMetal_Straight_126/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/WallBand_Straight_127/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/TopCables_Straight_128/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/BottomMetal_Straight_129/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/WallBand_Straight_130/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/TopCables_Straight_131/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/BottomMetal_Straight_132/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/WallBand_Straight_133/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/TopCables_Straight_134/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/BottomMetal_Straight_135/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/WallBand_Straight_136/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/TopCables_Straight_137/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/BottomMetal_Straight_138/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/WallBand_Straight_139/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/TopCables_Straight_140/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/BottomMetal_Straight_141/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/WallBand_Straight_142/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/TopCables_Straight_143/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/BottomMetal_Straight_144/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/WallBand_Straight_145/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/TopCables_Straight_146/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/BottomMetal_Straight_147/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/WallBand_Straight_148/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/TopCables_Straight_149/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/BottomMetal_Straight_150/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/WallBand_Straight_151/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/TopCables_Straight_152/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/BottomMetal_Straight_153/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/WallBand_Straight_154/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/TopCables_Straight_155/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/BottomMetal_Straight_156/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/WallBand_Straight_157/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/TopCables_Straight_158/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/BottomMetal_Straight_159/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/WallBand_Straight_160/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/TopCables_Straight_161/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/BottomMetal_Straight_162/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/WallBand_Straight_163/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/TopCables_Straight_164/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/BottomMetal_Straight_165/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/WallBand_Straight_166/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/TopCables_Straight_167/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/BottomMetal_Straight_168/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/WallBand_Straight_169/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/TopCables_Straight_170/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Arquitetura/BottomMetal_Straight_171/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Iluminacao/Prop_Light_Wide_172/Ajuste/Prop_Light_Wide
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Passagem_03  ENERGIA/Door_Frame_A_877/Ajuste/Door_Frame_A
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Passagem_03  ENERGIA/Door_Left_01_878/Ajuste/Door_Left_01/Door_Left_01
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Passagem_03  ENERGIA/Placa_03  ENERGIA
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Column_Pipes_901/Ajuste/Column_Pipes
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Column_Pipes_902/Ajuste/Column_Pipes
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Prop_Clamp_903/Ajuste/Prop_Clamp
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Storage_Electric_Box_01_904/Ajuste/Electric_Box_01
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Storage_Amp_Rack_01_905/Ajuste/Amp_Rack_01
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Storage_Amp_Rack_01_905/Ajuste/Amp_Rack_01 (2)
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Storage_Amp_Rack_01_905/Ajuste/Amp_Rack_01 (1)
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Office_Server Rack_906/Ajuste/Server Rack/Box418
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Office_Server Rack_906/Ajuste/Server Rack/Control Panel _Lo002
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Office_Server Rack_906/Ajuste/Server Rack/Panel 004
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Office_Server Rack_906/Ajuste/Server Rack/PC 010
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Office_Server Rack_906/Ajuste/Server Rack/PC 011
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Office_Server Rack_906/Ajuste/Server Rack/PC 012
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Office_Server Rack_906/Ajuste/Server Rack/PC 013
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Office_Server Rack_906/Ajuste/Server Rack/PC 014
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Prop_Vent_Big_907/Ajuste/Prop_Vent_Big
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Prop_Cable_3_908/Ajuste/Prop_Cable_3
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Prop_Computer_909/Ajuste/Prop_Computer
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Prop_Light_Small_910/Ajuste/Prop_Light_Small
+OK: Modelo preservado: Level01_Nave_Expanded/03_Energia/Placa_ENERGIA AUXILIAR / CIRCUITO OFFLINE
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/Floor_01_182/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/Roof_01_183/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/Floor_01_184/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/Roof_01_185/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/Floor_01_186/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/Roof_01_187/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/Floor_01_188/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/Roof_01_189/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/Floor_01_190/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/Roof_01_191/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/Floor_01_192/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/Roof_01_193/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/Floor_01_194/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/Roof_01_195/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/Floor_01_196/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/Roof_01_197/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/Floor_01_198/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/Roof_01_199/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/Floor_01_200/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/Roof_01_201/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/Floor_01_202/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/Roof_01_203/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/Floor_01_204/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/Roof_01_205/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/Floor_01_206/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/Roof_01_207/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/Floor_01_208/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/Roof_01_209/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/Floor_01_210/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/Roof_01_211/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/Floor_01_212/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/Roof_01_213/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/WallBand_Straight_214/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/TopSimple_Straight_215/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/BottomSimple_Straight_216/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/WallBand_Straight_217/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/TopSimple_Straight_218/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/BottomSimple_Straight_219/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/WallBand_Straight_220/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/TopSimple_Straight_221/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/BottomSimple_Straight_222/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/WallBand_Straight_223/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/TopSimple_Straight_224/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/BottomSimple_Straight_225/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/WallBand_Straight_226/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/TopSimple_Straight_227/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/BottomSimple_Straight_228/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/WallBand_Straight_229/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/TopSimple_Straight_230/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/BottomSimple_Straight_231/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/WallBand_Straight_232/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/TopSimple_Straight_233/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/BottomSimple_Straight_234/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/WallBand_Straight_235/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/TopSimple_Straight_236/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/BottomSimple_Straight_237/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/WallBand_Straight_238/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/TopSimple_Straight_239/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/BottomSimple_Straight_240/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/WallBand_Straight_241/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/TopSimple_Straight_242/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/BottomSimple_Straight_243/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/WallBand_Straight_244/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/TopSimple_Straight_245/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/BottomSimple_Straight_246/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/WallBand_Straight_247/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/TopSimple_Straight_248/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/BottomSimple_Straight_249/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/WallBand_Straight_250/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/TopSimple_Straight_251/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/BottomSimple_Straight_252/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/WallBand_Straight_253/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/TopSimple_Straight_254/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/BottomSimple_Straight_255/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/WallBand_Straight_256/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/TopSimple_Straight_257/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/BottomSimple_Straight_258/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/WallBand_Straight_259/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/TopSimple_Straight_260/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/BottomSimple_Straight_261/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/WallBand_Straight_262/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/TopSimple_Straight_263/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/BottomSimple_Straight_264/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/WallBand_Straight_265/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/TopSimple_Straight_266/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/BottomSimple_Straight_267/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/WallBand_Straight_268/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/TopSimple_Straight_269/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/BottomSimple_Straight_270/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/WallBand_Straight_271/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/TopSimple_Straight_272/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/BottomSimple_Straight_273/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/WallBand_Straight_274/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/TopSimple_Straight_275/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Arquitetura/BottomSimple_Straight_276/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Iluminacao/Prop_Light_Wide_277/Ajuste/Prop_Light_Wide
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Iluminacao/Prop_Light_Wide_278/Ajuste/Prop_Light_Wide
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Passagem_04  DEPOSITO/Door_Frame_Square_879/Ajuste/Door_Frame_Square
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Passagem_04  DEPOSITO/Door_Left_01_880/Ajuste/Door_Left_01/Door_Left_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Passagem_04  DEPOSITO/Placa_04  DEPOSITO
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Storage_Storage_Rack_01_911/Ajuste/Storage_Rack_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Storage_Storage_Rack_01_911/Ajuste/Storage_Rack_01 (1)
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Storage_Storage_Rack_01_911/Ajuste/Storage_Rack_01 (2)
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Storage_Storage_Rack_02_912/Ajuste/Storage_Rack_02
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Storage_Storage_Rack_02_912/Ajuste/Storage_Rack_02 (1)
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Storage_EUR-Pallet_913/Ajuste/EUR-Pallet
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Storage_EUR-Pallet_913/Ajuste/EUR-Pallet (1)
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Storage_Crate_01_914/Ajuste/Crate_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Storage_Crate_01_914/Ajuste/Crate_01 (1)
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Storage_Crate_01_914/Ajuste/Crate_01 (2)
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Storage_Crate_02_915/Ajuste/Crate_02
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Storage_Crate_02_915/Ajuste/Crate_02 (2)
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Storage_Crate_02_915/Ajuste/Crate_02 (1)
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Storage_Container_01_Blue_916/Ajuste/Container_01_Blue
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Prop_Crate3_917/Ajuste/Prop_Crate3
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Prop_Crate4_918/Ajuste/Prop_Crate4
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Storage_Barrel_01_919/Ajuste/Barrel_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Storage_Barrel_02_920/Ajuste/Barrel_02
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Prop_Barrel_Large_921/Ajuste/Prop_Barrel_Large
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Prop_Barrel_Large_921/Ajuste/Prop_Barrel_Large (1)
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Storage_Cabinet_01_922/Ajuste/Cabinet_01
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Prop_Light_Floor_923/Ajuste/Prop_Light_Floor
+OK: Modelo preservado: Level01_Nave_Expanded/04_Deposito/Placa_CARGA A ESQUERDA / LABORATORIO A DIREITA
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Floor_01_279/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Roof_01_280/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Floor_01_281/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Roof_01_282/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Floor_01_283/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Roof_01_284/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Floor_01_285/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Roof_01_286/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Floor_01_287/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Roof_01_288/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Floor_01_289/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Roof_01_290/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Floor_01_291/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Roof_01_292/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Floor_01_293/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Roof_01_294/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Floor_01_295/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Roof_01_296/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Floor_01_297/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Roof_01_298/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Floor_01_299/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Roof_01_300/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Floor_01_301/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Roof_01_302/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Floor_01_303/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Roof_01_304/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Floor_01_305/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Roof_01_306/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Floor_01_307/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Roof_01_308/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Floor_01_309/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Roof_01_310/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Floor_01_311/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Roof_01_312/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Floor_01_313/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Roof_01_314/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Floor_01_315/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Floor_01_315/Ajuste/Tv 32 Inch/TV 32 inch 1
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Roof_01_316/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Floor_01_317/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/Roof_01_318/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/WallAstra_Straight_Divided_319/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/TopPlastic_Straight_320/Ajuste/TopPlastic_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/BottomSimple_Straight_321/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/WallAstra_Straight_Divided_322/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/TopPlastic_Straight_323/Ajuste/TopPlastic_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/BottomSimple_Straight_324/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/WallAstra_Straight_Divided_325/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/TopPlastic_Straight_326/Ajuste/TopPlastic_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/BottomSimple_Straight_327/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/WallAstra_Straight_Divided_328/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/TopPlastic_Straight_329/Ajuste/TopPlastic_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/BottomSimple_Straight_330/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/WallAstra_Straight_Divided_331/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/TopPlastic_Straight_332/Ajuste/TopPlastic_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/BottomSimple_Straight_333/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/WallAstra_Straight_Divided_334/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/TopPlastic_Straight_335/Ajuste/TopPlastic_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/BottomSimple_Straight_336/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/WallAstra_Straight_Divided_337/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/TopPlastic_Straight_338/Ajuste/TopPlastic_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/BottomSimple_Straight_339/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/WallAstra_Straight_Divided_340/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/TopPlastic_Straight_341/Ajuste/TopPlastic_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/BottomSimple_Straight_342/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/WallAstra_Straight_Divided_343/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/TopPlastic_Straight_344/Ajuste/TopPlastic_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/BottomSimple_Straight_345/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/WallAstra_Straight_Divided_346/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/TopPlastic_Straight_347/Ajuste/TopPlastic_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/BottomSimple_Straight_348/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/WallAstra_Straight_Divided_349/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/TopPlastic_Straight_350/Ajuste/TopPlastic_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/BottomSimple_Straight_351/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/WallAstra_Straight_Divided_352/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/TopPlastic_Straight_353/Ajuste/TopPlastic_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/BottomSimple_Straight_354/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/WallAstra_Straight_Divided_355/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/TopPlastic_Straight_356/Ajuste/TopPlastic_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/BottomSimple_Straight_357/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/WallAstra_Straight_Divided_358/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/TopPlastic_Straight_359/Ajuste/TopPlastic_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/BottomSimple_Straight_360/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/WallAstra_Straight_Divided_361/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/TopPlastic_Straight_362/Ajuste/TopPlastic_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/BottomSimple_Straight_363/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/WallAstra_Straight_Divided_364/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/TopPlastic_Straight_365/Ajuste/TopPlastic_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/BottomSimple_Straight_366/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/WallAstra_Straight_Divided_367/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/TopPlastic_Straight_368/Ajuste/TopPlastic_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/BottomSimple_Straight_369/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/WallAstra_Straight_Divided_370/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/TopPlastic_Straight_371/Ajuste/TopPlastic_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/BottomSimple_Straight_372/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/WallAstra_Straight_Divided_373/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/TopPlastic_Straight_374/Ajuste/TopPlastic_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/BottomSimple_Straight_375/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/WallAstra_Straight_Divided_376/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/TopPlastic_Straight_377/Ajuste/TopPlastic_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/BottomSimple_Straight_378/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/WallAstra_Straight_Divided_379/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/TopPlastic_Straight_380/Ajuste/TopPlastic_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/BottomSimple_Straight_381/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/WallAstra_Straight_Divided_382/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/TopPlastic_Straight_383/Ajuste/TopPlastic_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/BottomSimple_Straight_384/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/WallAstra_Straight_Divided_385/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/TopPlastic_Straight_386/Ajuste/TopPlastic_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/BottomSimple_Straight_387/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/WallAstra_Straight_Divided_388/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/TopPlastic_Straight_389/Ajuste/TopPlastic_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/BottomSimple_Straight_390/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/WallAstra_Straight_Divided_391/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/TopPlastic_Straight_392/Ajuste/TopPlastic_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Arquitetura/BottomSimple_Straight_393/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Iluminacao/Prop_Light_Wide_394/Ajuste/Prop_Light_Wide
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Iluminacao/Prop_Light_Wide_395/Ajuste/Prop_Light_Wide
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Iluminacao/Prop_Light_Wide_396/Ajuste/Prop_Light_Wide
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Iluminacao/Prop_Light_Wide_397/Ajuste/Prop_Light_Wide
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Passagem_05  LABORATORIO/Door_Frame_SquareTall_881/Ajuste/Door_Frame_SquareTall
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Passagem_05  LABORATORIO/Door_Left_01_882/Ajuste/Door_Left_01/Door_Left_01
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Passagem_05  LABORATORIO/Placa_05  LABORATORIO
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Table Metal Variant_924/Ajuste/Table Metal Variant
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_PC 2_925/Ajuste/PC 2
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Office Chair_926/Ajuste/Office Chair
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Tray_927/Ajuste/Tray
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Table Metal Variant_928/Ajuste/Table Metal Variant
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_PC 2_929/Ajuste/PC 2
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Office Chair_930/Ajuste/Office Chair
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Tray_931/Ajuste/Tray
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Drawer Table Long Blue Plastic Variant_932/Ajuste/Drawer Table Long Blue Plastic Variant/Table 6
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Drawer Table Long Blue Plastic Variant_932/Ajuste/Drawer Table Long Blue Plastic Variant/Table 6 1
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Drawer Table Long Blue Plastic Variant_932/Ajuste/Drawer Table Long Blue Plastic Variant/Table 6 2
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Drawer Table Long Blue Plastic Variant_932/Ajuste/Drawer Table Long Blue Plastic Variant/Table 6 3
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Drawer Table Long Blue Plastic Variant_932/Ajuste/Drawer Table Long Blue Plastic Variant/Table 6 4
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Drawer Table Long Blue Plastic Variant_932/Ajuste/Drawer Table Long Blue Plastic Variant/Table 6 5
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 1_933/Ajuste/Mechanical arm 1/Base
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 1_933/Ajuste/Mechanical arm 1/Point005/Box355
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 1_933/Ajuste/Mechanical arm 1/Point005/Cylinder093
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 1_933/Ajuste/Mechanical arm 1/Point005/Cylinder094
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 1_933/Ajuste/Mechanical arm 1/Point005/Point001/Cylinder096
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 1_933/Ajuste/Mechanical arm 1/Point005/Point001/Object400
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 1_933/Ajuste/Mechanical arm 1/Point005/Point001/Object412
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 1_933/Ajuste/Mechanical arm 1/Point005/Point001/Point004/Box356
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 1_933/Ajuste/Mechanical arm 1/Point005/Point001/Point004/Cylinder095
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 1_933/Ajuste/Mechanical arm 1/Point005/Point001/Point004/Cylinder097
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 1_933/Ajuste/Mechanical arm 1/Point005/Point001/Point004/Point002/Box357
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 1_933/Ajuste/Mechanical arm 1/Point005/Point001/Point004/Point002/Cylinder098
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 1_933/Ajuste/Mechanical arm 1/Point005/Point001/Point004/Point002/Cylinder098/Box360
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 1_933/Ajuste/Mechanical arm 1/Point005/Point001/Point004/Point002/Point003/Cylinder100
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 1_933/Ajuste/Mechanical arm 1/Point005/Point001/Point004/Point002/Point003/Object388
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 1_933/Ajuste/Mechanical arm 1/Point005/Point001/Point004/Point002/Point003/Object394
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 1_933/Ajuste/Mechanical arm 1/Point005/Point001/Point004/Point002/Point003/Point006/Object387
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 1_933/Ajuste/Mechanical arm 1/Point005/Point001/Point004/Point002/Point003/Point006/Point008/Box361
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 1_933/Ajuste/Mechanical arm 1/Point005/Point001/Point004/Point002/Point003/Point006/Point008/Object415
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 2_934/Ajuste/Mechanical arm 2/Mechanical Arm 1/Base
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 2_934/Ajuste/Mechanical arm 2/Mechanical Arm 1/Point005/Box355
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 2_934/Ajuste/Mechanical arm 2/Mechanical Arm 1/Point005/Cylinder093
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 2_934/Ajuste/Mechanical arm 2/Mechanical Arm 1/Point005/Cylinder094
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 2_934/Ajuste/Mechanical arm 2/Mechanical Arm 1/Point005/Point001/Cylinder096
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 2_934/Ajuste/Mechanical arm 2/Mechanical Arm 1/Point005/Point001/Object400
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 2_934/Ajuste/Mechanical arm 2/Mechanical Arm 1/Point005/Point001/Object412
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 2_934/Ajuste/Mechanical arm 2/Mechanical Arm 1/Point005/Point001/Point004/Box356
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 2_934/Ajuste/Mechanical arm 2/Mechanical Arm 1/Point005/Point001/Point004/Cylinder095
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 2_934/Ajuste/Mechanical arm 2/Mechanical Arm 1/Point005/Point001/Point004/Cylinder097
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 2_934/Ajuste/Mechanical arm 2/Mechanical Arm 1/Point005/Point001/Point004/Point002/Box357
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 2_934/Ajuste/Mechanical arm 2/Mechanical Arm 1/Point005/Point001/Point004/Point002/Cylinder098
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 2_934/Ajuste/Mechanical arm 2/Mechanical Arm 1/Point005/Point001/Point004/Point002/Cylinder098/Box360
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 2_934/Ajuste/Mechanical arm 2/Mechanical Arm 1/Point005/Point001/Point004/Point002/Point003/Cylinder100
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 2_934/Ajuste/Mechanical arm 2/Mechanical Arm 1/Point005/Point001/Point004/Point002/Point003/Object388
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 2_934/Ajuste/Mechanical arm 2/Mechanical Arm 1/Point005/Point001/Point004/Point002/Point003/Object394
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 2_934/Ajuste/Mechanical arm 2/Mechanical Arm 1/Point005/Point001/Point004/Point002/Point003/Point006/Object387
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 2_934/Ajuste/Mechanical arm 2/Mechanical Arm 1/Point005/Point001/Point004/Point002/Point003/Point006/Point008/Box361
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 2_934/Ajuste/Mechanical arm 2/Mechanical Arm 1/Point005/Point001/Point004/Point002/Point003/Point006/Point008/Object415
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 2_934/Ajuste/Mechanical arm 2/TV 32 inch005/TV 32 inch004
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Mechanical arm 2_934/Ajuste/Mechanical arm 2/TV 32 inch005/TV 32 inch006
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Drawer 2_935/Ajuste/Drawer 2/Drawer 2
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Drawer 2_935/Ajuste/Drawer 2/Drawer 2 1
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Drawer 2_935/Ajuste/Drawer 2/Drawer 2 2
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Drawer 2_935/Ajuste/Drawer 2/Drawer 2 3
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Drawer 2_935/Ajuste/Drawer 2/Drawer 2 4
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Stool_936/Ajuste/Stool
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack/Box418
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack/Control Panel _Lo002
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack/Panel 004
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack/PC 010
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack/PC 011
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack/PC 012
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack/PC 013
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack/PC 014
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack (1)/Box418
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack (1)/Control Panel _Lo002
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack (1)/Panel 004
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack (1)/PC 010
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack (1)/PC 011
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack (1)/PC 012
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack (1)/PC 013
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack (1)/PC 014
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack (2)/Box418
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack (2)/Control Panel _Lo002
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack (2)/Panel 004
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack (2)/PC 010
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack (2)/PC 011
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack (2)/PC 012
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack (2)/PC 013
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack (2)/PC 014
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack (3)/Box418
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack (3)/Control Panel _Lo002
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack (3)/Panel 004
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack (3)/PC 010
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack (3)/PC 011
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack (3)/PC 012
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack (3)/PC 013
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack (3)/PC 014
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack (4)/Box418
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack (4)/Control Panel _Lo002
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack (4)/Panel 004
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack (4)/PC 010
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack (4)/PC 011
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack (4)/PC 012
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack (4)/PC 013
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_937/Ajuste/Server Rack (4)/PC 014
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Shelf without Crates_938/Ajuste/Shelf without Crates
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Table Metal Variant_939/Ajuste/Table Metal Variant
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_PC 2_940/Ajuste/PC 2
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Tray_941/Ajuste/Tray
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Stool_942/Ajuste/Stool
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_943/Ajuste/Server Rack/Box418
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_943/Ajuste/Server Rack/Control Panel _Lo002
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_943/Ajuste/Server Rack/Panel 004
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_943/Ajuste/Server Rack/PC 010
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_943/Ajuste/Server Rack/PC 011
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_943/Ajuste/Server Rack/PC 012
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_943/Ajuste/Server Rack/PC 013
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Server Rack_943/Ajuste/Server Rack/PC 014
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Tv 32 Inch_944/Ajuste/Tv 32 Inch/TV 32 inch 1
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Office_Tv 32 Inch_944/Ajuste/Tv 32 Inch/TV 32 inch 2
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/WallWindow_Straight_945/Ajuste/WallWindow_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/WallAstra_Straight_Flat_Window_946/Ajuste/WallAstra_Straight_Flat_Window
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Column_Round_947/Ajuste/Column_Round
+OK: Modelo preservado: Level01_Nave_Expanded/05_Laboratorio/Column_Round_948/Ajuste/Column_Round
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/Floor_01_407/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/Roof_01_408/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/Floor_01_409/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/Roof_01_410/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/Floor_01_411/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/Roof_01_412/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/Floor_01_413/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/Roof_01_414/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/Floor_01_415/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/Roof_01_416/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/Floor_01_417/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/Roof_01_418/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/Floor_01_419/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/Roof_01_420/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/Floor_01_421/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/Roof_01_422/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/Floor_01_423/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/Roof_01_424/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/Floor_01_425/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/Roof_01_426/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/Floor_01_427/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/Roof_01_428/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/Floor_01_429/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/Roof_01_430/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/WallAstra_Straight_431/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/TopAstra_Straight_432/Ajuste/TopAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/BottomSimple_Straight_433/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/WallAstra_Straight_434/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/TopAstra_Straight_435/Ajuste/TopAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/BottomSimple_Straight_436/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/WallAstra_Straight_437/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/TopAstra_Straight_438/Ajuste/TopAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/BottomSimple_Straight_439/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/WallAstra_Straight_440/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/TopAstra_Straight_441/Ajuste/TopAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/BottomSimple_Straight_442/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/WallAstra_Straight_443/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/TopAstra_Straight_444/Ajuste/TopAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/BottomSimple_Straight_445/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/WallAstra_Straight_446/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/TopAstra_Straight_447/Ajuste/TopAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/BottomSimple_Straight_448/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/WallAstra_Straight_449/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/TopAstra_Straight_450/Ajuste/TopAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/BottomSimple_Straight_451/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/WallAstra_Straight_452/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/TopAstra_Straight_453/Ajuste/TopAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/BottomSimple_Straight_454/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/WallAstra_Straight_455/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/TopAstra_Straight_456/Ajuste/TopAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/BottomSimple_Straight_457/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/WallAstra_Straight_458/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/TopAstra_Straight_459/Ajuste/TopAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/BottomSimple_Straight_460/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/WallAstra_Straight_461/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/TopAstra_Straight_462/Ajuste/TopAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/BottomSimple_Straight_463/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/WallAstra_Straight_464/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/TopAstra_Straight_465/Ajuste/TopAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/BottomSimple_Straight_466/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/WallAstra_Straight_467/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/TopAstra_Straight_468/Ajuste/TopAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/BottomSimple_Straight_469/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/WallAstra_Straight_470/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/TopAstra_Straight_471/Ajuste/TopAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/BottomSimple_Straight_472/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/WallAstra_Straight_473/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/TopAstra_Straight_474/Ajuste/TopAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/BottomSimple_Straight_475/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/WallAstra_Straight_476/Ajuste/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/TopAstra_Straight_477/Ajuste/TopAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Arquitetura/BottomSimple_Straight_478/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Iluminacao/Prop_Light_Wide_479/Ajuste/Prop_Light_Wide
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Passagem_06  SEGURANCA/Door_Frame_Square_883/Ajuste/Door_Frame_Square
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Passagem_06  SEGURANCA/Placa_06  SEGURANCA
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Office_Table Metal Variant_949/Ajuste/Table Metal Variant
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Prop_Computer_950/Ajuste/Prop_Computer
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Office_Office Chair_951/Ajuste/Office Chair
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Office_Server Rack_952/Ajuste/Server Rack/Box418
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Office_Server Rack_952/Ajuste/Server Rack/Control Panel _Lo002
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Office_Server Rack_952/Ajuste/Server Rack/Panel 004
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Office_Server Rack_952/Ajuste/Server Rack/PC 010
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Office_Server Rack_952/Ajuste/Server Rack/PC 011
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Office_Server Rack_952/Ajuste/Server Rack/PC 012
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Office_Server Rack_952/Ajuste/Server Rack/PC 013
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Office_Server Rack_952/Ajuste/Server Rack/PC 014
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Storage_Locker_953/Ajuste/Locker
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Office_Table Metal Variant_954/Ajuste/Table Metal Variant
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Office_PC 2_955/Ajuste/PC 2
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Office_Office Chair_956/Ajuste/Office Chair
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Office_Tv 32 Inch_957/Ajuste/Tv 32 Inch/TV 32 inch 1
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Office_Tv 32 Inch_957/Ajuste/Tv 32 Inch/TV 32 inch 2
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Office_Tv 32 Inch_958/Ajuste/Tv 32 Inch/TV 32 inch 1
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Office_Tv 32 Inch_958/Ajuste/Tv 32 Inch/TV 32 inch 2
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Prop_AccessPoint_959/Ajuste/Prop_AccessPoint
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Surveillance_960/Ajuste/Surveillance Camera
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Surveillance_960/Ajuste/Surveillance Camera/Base
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Surveillance_960/Ajuste/Surveillance Camera/Base/Camera
+OK: Modelo preservado: Level01_Nave_Expanded/06_Seguranca/Placa_TERMINAL HANGAR
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_495/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_496/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_497/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_498/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_499/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_500/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_501/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_502/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_503/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_504/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_505/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_506/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_507/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_508/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_509/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_510/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_511/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_512/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_513/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_514/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_515/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_516/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_517/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_518/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_519/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_520/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_521/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_522/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_523/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_524/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_525/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_526/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_527/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_528/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_529/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_530/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_531/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_532/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_533/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_534/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_535/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_536/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_537/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_538/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_539/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_540/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_541/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_542/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_543/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_544/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_545/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_546/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_547/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_548/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_549/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_550/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_551/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_552/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_553/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_554/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_555/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_556/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_557/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_558/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_559/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_560/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_561/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_562/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_563/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_564/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_565/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_566/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_567/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_568/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_569/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_570/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_571/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_572/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_573/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_574/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_575/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_576/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Floor_01_577/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/Roof_01_578/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/WallBand_Straight_579/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/TopCables_Straight_580/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/BottomSimple_Straight_581/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/WallBand_Straight_582/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/TopCables_Straight_583/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/BottomSimple_Straight_584/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/WallBand_Straight_585/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/TopCables_Straight_586/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/BottomSimple_Straight_587/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/WallBand_Straight_588/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/TopCables_Straight_589/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/BottomSimple_Straight_590/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/WallBand_Straight_591/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/TopCables_Straight_592/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/BottomSimple_Straight_593/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/WallBand_Straight_594/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/TopCables_Straight_595/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/BottomSimple_Straight_596/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/WallBand_Straight_597/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/TopCables_Straight_598/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/BottomSimple_Straight_599/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/WallBand_Straight_600/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/TopCables_Straight_601/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/BottomSimple_Straight_602/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/WallBand_Straight_603/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/TopCables_Straight_604/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/BottomSimple_Straight_605/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/WallBand_Straight_606/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/TopCables_Straight_607/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/BottomSimple_Straight_608/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/WallBand_Straight_609/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/TopCables_Straight_610/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/BottomSimple_Straight_611/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/WallBand_Straight_612/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/TopCables_Straight_613/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/BottomSimple_Straight_614/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/WallBand_Straight_615/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/TopCables_Straight_616/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/BottomSimple_Straight_617/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/WallBand_Straight_618/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/TopCables_Straight_619/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/BottomSimple_Straight_620/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/WallBand_Straight_621/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/TopCables_Straight_622/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/BottomSimple_Straight_623/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/WallBand_Straight_624/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/TopCables_Straight_625/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/BottomSimple_Straight_626/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/WallBand_Straight_627/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/TopCables_Straight_628/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/BottomSimple_Straight_629/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/WallBand_Straight_630/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/TopCables_Straight_631/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/BottomSimple_Straight_632/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/WallBand_Straight_633/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/TopCables_Straight_634/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/BottomSimple_Straight_635/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/WallBand_Straight_636/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/TopCables_Straight_637/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/BottomSimple_Straight_638/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/WallBand_Straight_639/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/TopCables_Straight_640/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/BottomSimple_Straight_641/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/WallBand_Straight_642/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/TopCables_Straight_643/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/BottomSimple_Straight_644/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/WallBand_Straight_645/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/TopCables_Straight_646/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/BottomSimple_Straight_647/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/WallBand_Straight_648/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/TopCables_Straight_649/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/BottomSimple_Straight_650/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/WallBand_Straight_651/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/TopCables_Straight_652/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/BottomSimple_Straight_653/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/WallBand_Straight_654/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/TopCables_Straight_655/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/BottomSimple_Straight_656/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/WallBand_Straight_657/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/TopCables_Straight_658/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/BottomSimple_Straight_659/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/WallBand_Straight_660/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/TopCables_Straight_661/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/BottomSimple_Straight_662/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/WallBand_Straight_663/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/TopCables_Straight_664/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/BottomSimple_Straight_665/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/WallBand_Straight_666/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/TopCables_Straight_667/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/BottomSimple_Straight_668/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/WallBand_Straight_669/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/TopCables_Straight_670/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/BottomSimple_Straight_671/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/WallBand_Straight_672/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/TopCables_Straight_673/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/BottomSimple_Straight_674/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/WallBand_Straight_675/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/TopCables_Straight_676/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Arquitetura/BottomSimple_Straight_677/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Iluminacao/Prop_Light_Wide_678/Ajuste/Prop_Light_Wide
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Iluminacao/Prop_Light_Wide_679/Ajuste/Prop_Light_Wide
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Iluminacao/Prop_Light_Wide_680/Ajuste/Prop_Light_Wide
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Iluminacao/Prop_Light_Wide_681/Ajuste/Prop_Light_Wide
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Iluminacao/Prop_Light_Wide_682/Ajuste/Prop_Light_Wide
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Iluminacao/Prop_Light_Wide_683/Ajuste/Prop_Light_Wide
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Passagem_07  HANGAR/Door_Frame_A_885/Ajuste/Door_Frame_A
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Passagem_07  HANGAR/Door_Left_01_886/Ajuste/Door_Left_01/Door_Left_01
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Passagem_07  HANGAR/Placa_07  HANGAR
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Platform_3Plates_961/Ajuste/Platform_3Plates
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Storage_Container_02_Blue_962/Ajuste/Container_02_Blue
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Platform_DarkPlates_963/Ajuste/Platform_DarkPlates
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Prop_Crate4_964/Ajuste/Prop_Crate4
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Platform_Metal_965/Ajuste/Platform_Metal
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Storage_Container_02_Blue_966/Ajuste/Container_02_Blue
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Platform_Metal2_967/Ajuste/Platform_Metal2
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Prop_Crate4_968/Ajuste/Prop_Crate4
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Platform_Squares_969/Ajuste/Platform_Squares
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Storage_Container_02_Blue_970/Ajuste/Container_02_Blue
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Column_MetalSupport_971/Ajuste/Column_MetalSupport
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Column_MetalSupport_972/Ajuste/Column_MetalSupport
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Column_MetalSupport_973/Ajuste/Column_MetalSupport
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Column_MetalSupport_974/Ajuste/Column_MetalSupport
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Prop_Rail_2_975/Ajuste/Prop_Rail_2
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Prop_Rail_3_976/Ajuste/Prop_Rail_3
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Prop_Chest_977/Ajuste/Prop_Chest/Prop_Chest
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Prop_Chest_977/Ajuste/Prop_Chest/Prop_Chest_Top
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Storage_Barrel_04_978/Ajuste/Barrel_04
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Prop_Light_Corner_980/Ajuste/Prop_Light_Corner
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Prop_Light_Corner_981/Ajuste/Prop_Light_Corner
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Prop_Vent_Wide_982/Ajuste/Prop_Vent_Wide
+OK: Modelo preservado: Level01_Nave_Expanded/07_Hangar/Placa_SAIDA EXTERNA / PORTAO SELADO
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/Floor_01_701/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/Roof_01_702/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/Floor_01_703/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/Roof_01_704/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/Floor_01_705/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/Roof_01_706/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/Floor_01_707/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/Roof_01_708/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/Floor_01_709/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/Roof_01_710/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/Floor_01_711/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/Roof_01_712/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/Floor_01_713/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/Roof_01_714/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/Floor_01_715/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/Roof_01_716/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/Floor_01_717/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/Roof_01_718/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/Floor_01_719/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/Roof_01_720/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/Floor_01_721/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/Roof_01_722/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/Floor_01_723/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/Roof_01_724/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/WallBand_Straight_725/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/TopCables_Straight_726/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/BottomMetal_Straight_727/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/WallBand_Straight_728/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/TopCables_Straight_729/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/BottomMetal_Straight_730/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/WallBand_Straight_731/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/TopCables_Straight_732/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/BottomMetal_Straight_733/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/WallBand_Straight_734/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/TopCables_Straight_735/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/BottomMetal_Straight_736/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/WallBand_Straight_737/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/TopCables_Straight_738/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/BottomMetal_Straight_739/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/WallBand_Straight_740/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/TopCables_Straight_741/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/BottomMetal_Straight_742/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/WallBand_Straight_743/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/TopCables_Straight_744/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/BottomMetal_Straight_745/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/WallBand_Straight_746/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/TopCables_Straight_747/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/BottomMetal_Straight_748/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/WallBand_Straight_749/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/TopCables_Straight_750/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/BottomMetal_Straight_751/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/WallBand_Straight_752/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/TopCables_Straight_753/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/BottomMetal_Straight_754/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/WallBand_Straight_755/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/TopCables_Straight_756/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/BottomMetal_Straight_757/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/WallBand_Straight_758/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/TopCables_Straight_759/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/BottomMetal_Straight_760/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/WallBand_Straight_761/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/TopCables_Straight_762/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/BottomMetal_Straight_763/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/WallBand_Straight_764/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/TopCables_Straight_765/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/BottomMetal_Straight_766/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/WallBand_Straight_767/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/TopCables_Straight_768/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/BottomMetal_Straight_769/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/WallBand_Straight_770/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/TopCables_Straight_771/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/BottomMetal_Straight_772/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/WallBand_Straight_773/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/TopCables_Straight_774/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/BottomMetal_Straight_775/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/WallBand_Straight_776/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/TopCables_Straight_777/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/BottomMetal_Straight_778/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/WallBand_Straight_779/Ajuste/WallBand_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/TopCables_Straight_780/Ajuste/TopCables_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Arquitetura/BottomMetal_Straight_781/Ajuste/BottomMetal_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Iluminacao/Prop_Light_Wide_782/Ajuste/Prop_Light_Wide
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Iluminacao/Prop_Light_Wide_783/Ajuste/Prop_Light_Wide
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Passagem_08  MAQUINAS / OPCIONAL/Door_Frame_A_887/Ajuste/Door_Frame_A
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Passagem_08  MAQUINAS / OPCIONAL/Door_Left_01_888/Ajuste/Door_Left_01/Door_Left_01
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Passagem_08  MAQUINAS / OPCIONAL/Placa_08  MAQUINAS / OPCIONAL
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Column_Simple_983/Ajuste/Column_Simple
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Column_Pipes_984/Ajuste/Column_Pipes
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Column_Hollow_985/Ajuste/Column_Hollow
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Storage_Electric_Box_02_986/Ajuste/Electric_Box_02
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Fan_01_987/Ajuste/Fan_01/Fan_01
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Fan_01_987/Ajuste/Fan_01/Fan_01/Fan_Wings_01
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Prop_Fan_Small_988/Ajuste/Prop_Fan_Small/Prop_Fan_Small
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Prop_Fan_Small_988/Ajuste/Prop_Fan_Small/Prop_Fan_Small_Propeller
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Prop_PipeHolder_989/Ajuste/Prop_PipeHolder
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Prop_Vent_Small_990/Ajuste/Prop_Vent_Small
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Prop_Cable_3_991/Ajuste/Prop_Cable_3
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Prop_Light_Small_992/Ajuste/Prop_Light_Small
+OK: Modelo preservado: Level01_Nave_Expanded/08_Maquinas/Door_Simple_993/Ajuste/Door_Simple
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/Floor_01_793/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/Roof_01_794/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/Floor_01_795/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/Roof_01_796/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/Floor_01_797/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/Roof_01_798/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/Floor_01_799/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/Roof_01_800/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/Floor_01_801/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/Roof_01_802/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/Floor_01_803/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/Roof_01_804/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/Floor_01_805/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/Roof_01_806/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/Floor_01_807/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/Roof_01_808/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/Floor_01_809/Ajuste/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/Roof_01_810/Ajuste/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/WallAstra_Straight_Divided_811/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/TopSimple_Straight_812/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/BottomSimple_Straight_813/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/WallAstra_Straight_Divided_814/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/TopSimple_Straight_815/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/BottomSimple_Straight_816/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/WallAstra_Straight_Divided_817/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/TopSimple_Straight_818/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/BottomSimple_Straight_819/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/WallAstra_Straight_Divided_820/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/TopSimple_Straight_821/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/BottomSimple_Straight_822/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/WallAstra_Straight_Divided_823/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/TopSimple_Straight_824/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/BottomSimple_Straight_825/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/WallAstra_Straight_Divided_826/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/TopSimple_Straight_827/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/BottomSimple_Straight_828/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/WallAstra_Straight_Divided_829/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/TopSimple_Straight_830/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/BottomSimple_Straight_831/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/WallAstra_Straight_Divided_832/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/TopSimple_Straight_833/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/BottomSimple_Straight_834/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/WallAstra_Straight_Divided_835/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/TopSimple_Straight_836/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/BottomSimple_Straight_837/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/WallAstra_Straight_Divided_838/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/TopSimple_Straight_839/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/BottomSimple_Straight_840/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/WallAstra_Straight_Divided_841/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/TopSimple_Straight_842/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/BottomSimple_Straight_843/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/WallAstra_Straight_Divided_844/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/TopSimple_Straight_845/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/BottomSimple_Straight_846/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/WallAstra_Straight_Divided_847/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/TopSimple_Straight_848/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/BottomSimple_Straight_849/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/WallAstra_Straight_Divided_850/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/TopSimple_Straight_851/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/BottomSimple_Straight_852/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/WallAstra_Straight_Divided_853/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/TopSimple_Straight_854/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/BottomSimple_Straight_855/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/WallAstra_Straight_Divided_856/Ajuste/WallAstra_Straight_Divided
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/TopSimple_Straight_857/Ajuste/TopSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Arquitetura/BottomSimple_Straight_858/Ajuste/BottomSimple_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Iluminacao/Prop_Light_Wide_859/Ajuste/Prop_Light_Wide
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Passagem_09  MANUTENCAO/Door_Frame_Square_889/Ajuste/Door_Frame_Square
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Passagem_09  MANUTENCAO/Door_Left_01_890/Ajuste/Door_Left_01/Door_Left_01
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Passagem_09  MANUTENCAO/Placa_09  MANUTENCAO
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Storage_Cabinet_02_994/Ajuste/Cabinet_02
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Storage_Cabinet_03_995/Ajuste/Mechanical Claw/Claw
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Storage_Cabinet_03_995/Ajuste/Mechanical Claw/Claw.001
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Storage_Cabinet_03_995/Ajuste/Mechanical Claw/Claw.002
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Storage_Cabinet_03_995/Ajuste/Mechanical Claw/Claw.003
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Storage_Cabinet_03_995/Ajuste/Mechanical Claw/Claw.004
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Storage_Cabinet_03_995/Ajuste/Mechanical Claw (2)/Claw
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Storage_Cabinet_03_995/Ajuste/Mechanical Claw (2)/Claw.001
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Storage_Cabinet_03_995/Ajuste/Mechanical Claw (2)/Claw.002
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Storage_Cabinet_03_995/Ajuste/Mechanical Claw (2)/Claw.003
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Storage_Cabinet_03_995/Ajuste/Mechanical Claw (2)/Claw.004
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Storage_Cabinet_03_995/Ajuste/Mechanical Claw (1)/Claw
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Storage_Cabinet_03_995/Ajuste/Mechanical Claw (1)/Claw.001
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Storage_Cabinet_03_995/Ajuste/Mechanical Claw (1)/Claw.002
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Storage_Cabinet_03_995/Ajuste/Mechanical Claw (1)/Claw.003
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Storage_Cabinet_03_995/Ajuste/Mechanical Claw (1)/Claw.004
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Storage_Cabinet_03_995/Ajuste/Mechanical Claw (3)/Claw
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Storage_Cabinet_03_995/Ajuste/Mechanical Claw (3)/Claw.001
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Storage_Cabinet_03_995/Ajuste/Mechanical Claw (3)/Claw.002
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Storage_Cabinet_03_995/Ajuste/Mechanical Claw (3)/Claw.003
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Storage_Cabinet_03_995/Ajuste/Mechanical Claw (3)/Claw.004
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Storage_Cabinet_03_995/Ajuste/Cabinet_03 (1)
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Storage_Cabinet_03_995/Ajuste/Cabinet_03 (3)
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Storage_Cabinet_03_995/Ajuste/Cabinet_03 (2)
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Storage_Cabinet_03_995/Ajuste/Cabinet_03 (4)
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Storage_Cabinet_04_996/Ajuste/Cabinet_04
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Storage_Cabinet_04_996/Ajuste/Cabinet_04 (1)
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Office_Table Metal Variant_997/Ajuste/Table Metal Variant
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Prop_Clamp_998/Ajuste/Prop_Clamp
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Prop_PipeHolder_999/Ajuste/Prop_PipeHolder
+OK: Modelo preservado: Level01_Nave_Expanded/09_Manutencao/Office_Stool_1000/Ajuste/Stool
+OK: Modelo preservado: Level01_Nave_Expanded/Gameplay_Level01/Itens_e_Paineis/Suporte_Bateria_Carga/Prop_ItemHolder
+OK: Modelo preservado: Level01_Nave_Expanded/Gameplay_Level01/Itens_e_Paineis/Bateria_Carga_Esquerda/Modelo_Energy_Cells/EnergyCell_1_1
+OK: Modelo preservado: Level01_Nave_Expanded/Gameplay_Level01/Itens_e_Paineis/Painel_Instalar_Bateria/Console_SciFi/Prop_AccessPoint
+OK: Modelo preservado: Level01_Nave_Expanded/Gameplay_Level01/Itens_e_Paineis/Painel_Instalar_Bateria/Indicador_de_Estado/Prop_Light_Small
+OK: Modelo preservado: Level01_Nave_Expanded/Gameplay_Level01/Itens_e_Paineis/Painel_Instalar_Bateria/Bateria_Instalada/Modelo_Energy_Cells/EnergyCell_1_1
+OK: Modelo preservado: Level01_Nave_Expanded/Gameplay_Level01/Itens_e_Paineis/Cartao_Seguranca_Laboratorio/Cartao_Arcadia/default
+OK: Modelo preservado: Level01_Nave_Expanded/Gameplay_Level01/Itens_e_Paineis/Leitor_Cartao_Seguranca/Console_SciFi/Prop_AccessPoint
+OK: Modelo preservado: Level01_Nave_Expanded/Gameplay_Level01/Itens_e_Paineis/Leitor_Cartao_Seguranca/Indicador_de_Estado/Prop_Light_Small
+OK: Modelo preservado: Level01_Nave_Expanded/Gameplay_Level01/Itens_e_Paineis/Terminal_1_ENERGIA AUXILIAR/Console_SciFi/Prop_AccessPoint
+OK: Modelo preservado: Level01_Nave_Expanded/Gameplay_Level01/Itens_e_Paineis/Terminal_1_ENERGIA AUXILIAR/Indicador_de_Estado/Prop_Light_Small
+OK: Modelo preservado: Level01_Nave_Expanded/Gameplay_Level01/Itens_e_Paineis/Terminal_2_SISTEMA DE SEGURANÇA/Console_SciFi/Prop_AccessPoint
+OK: Modelo preservado: Level01_Nave_Expanded/Gameplay_Level01/Itens_e_Paineis/Terminal_2_SISTEMA DE SEGURANÇA/Indicador_de_Estado/Prop_Light_Small
+OK: Modelo preservado: Level01_Nave_Expanded/Gameplay_Level01/Itens_e_Paineis/Terminal_3_CONTROLE DA SAÍDA/Console_SciFi/Prop_AccessPoint
+OK: Modelo preservado: Level01_Nave_Expanded/Gameplay_Level01/Itens_e_Paineis/Terminal_3_CONTROLE DA SAÍDA/Indicador_de_Estado/Prop_Light_Small
+OK: Modelo preservado: Level01_Nave_Expanded/Gameplay_Level01/Portas_de_Progressao/Porta_05_Laboratorio/Folha_Movel/Door_Simple
+OK: Modelo preservado: Level01_Nave_Expanded/Gameplay_Level01/Portas_de_Progressao/Porta_07_Hangar/Folha_Movel/Door_Simple
+OK: Modelo preservado: Level01_Nave_Expanded/Gameplay_Level01/Portas_de_Progressao/Fechamento_Saida_Esquerda/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/Gameplay_Level01/Portas_de_Progressao/Fechamento_Saida_Direita/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/Gameplay_Level01/Portas_de_Progressao/Porta_Saida_Externa/Folha_Externa_Existente/Ajuste/Door_DarkMetal
+OK: Modelo preservado: Level01_Nave_Expanded/Gameplay_Level01/Portas_de_Progressao/Deck_Conclusao_Piso/Floor_01/Floor_01
+OK: Modelo preservado: Level01_Nave_Expanded/Gameplay_Level01/Portas_de_Progressao/Deck_Conclusao_Teto/Roof_01/Roof_01
+OK: Modelo preservado: Level01_Nave_Expanded/Gameplay_Level01/Portas_de_Progressao/Deck_Conclusao_Lateral_E/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/Gameplay_Level01/Portas_de_Progressao/Deck_Conclusao_Lateral_D/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/Gameplay_Level01/Portas_de_Progressao/Deck_Conclusao_Fundo/WallAstra_Straight
+OK: Modelo preservado: Level01_Nave_Expanded/Gameplay_Level01/InitialRoomMechanics/Porta_Inicial/Folha_Movel/Door_Simple
+OK: Modelo preservado: Level01_Nave_Expanded/Gameplay_Level01/InitialRoomMechanics/Caixa_Inicial/Modelo/Prop_Crate3
+OK: Modelo preservado: Level01_Nave_Expanded/Gameplay_Level01/InitialRoomMechanics/Alvo_Impacto/Botao_SciFi/Prop_Light_Small
+OK: Modelo preservado: Level01_Nave_Expanded/Gameplay_Level01/ExitLightEffect/Superficie_Branca
+OK: Modelo preservado: Prop_Chest/Prop_Chest
+OK: Modelo preservado: Prop_Chest/Prop_Chest_Top
+OK: Modelo preservado: Prop_Cable_3
+OK: Modelo preservado: Prop_Cable_1
+OK: Modelo preservado: Prop_Cable_1 (1)
+OK: Modelo preservado: Prop_Vent_Big
+OK: Modelo preservado: Prop_Cable_1 (2)
+OK: Modelo preservado: Prop_Fan_Small/Prop_Fan_Small
+OK: Modelo preservado: Prop_Fan_Small/Prop_Fan_Small_Propeller
+OK: Modelo preservado: Prop_Fan_Small (1)/Prop_Fan_Small
+OK: Modelo preservado: Prop_Fan_Small (1)/Prop_Fan_Small_Propeller
+OK: Modelo preservado: Prop_Fan_Small (2)/Prop_Fan_Small
+OK: Modelo preservado: Prop_Fan_Small (2)/Prop_Fan_Small_Propeller
+OK: Modelo preservado: Prop_ItemHolder
+OK: Modelo preservado: Prop_PipeHolder
+OK: Modelo preservado: Prop_Vent_Small
+OK: Modelo preservado: Prop_Cable_3 (1)
+OK: Modelo preservado: Prop_Cable_3 (2)
+OK: Modelo preservado: Prop_Cable_1 (3)
+OK: Modelo preservado: Prop_Cable_3 (3)
+OK: Modelo preservado: Prop_Chest (1)/Prop_Chest
+OK: Modelo preservado: Prop_Chest (1)/Prop_Chest_Top
+OK: Modelo preservado: Prop_PipeHolder (1)
+OK: Modelo preservado: Prop_PipeHolder (2)
+OK: Modelo preservado: Prop_PipeHolder (3)
+OK: Modelo preservado: Prop_Computer
+OK: Modelo preservado: Amp_Rack_01
+OK: Modelo preservado: Prop_Fan_Small (3)/Prop_Fan_Small
+OK: Modelo preservado: Prop_Fan_Small (3)/Prop_Fan_Small_Propeller
+OK: Modelo preservado: Prop_Cable_1 (4)
+OK: Modelo preservado: Prop_Cable_1 (5)
+OK: Modelo preservado: Prop_Cable_3 (4)
+OK: Modelo preservado: Prop_Cable_3 (5)
+OK: Modelo preservado: Prop_Cable_3 (7)
+OK: Modelo preservado: Prop_Cable_3 (6)
+OK: Modelo preservado: Prop_Cable_3 (8)
+OK: Modelo preservado: Prop_Barrel_Large
+OK: Modelo preservado: Prop_Barrel_Large (1)
+OK: Modelo preservado: Table Dark Oak
+OK: Modelo preservado: Mechanical arm 2/Mechanical Arm 1/Base
+OK: Modelo preservado: Mechanical arm 2/Mechanical Arm 1/Point005/Box355
+OK: Modelo preservado: Mechanical arm 2/Mechanical Arm 1/Point005/Cylinder093
+OK: Modelo preservado: Mechanical arm 2/Mechanical Arm 1/Point005/Cylinder094
+OK: Modelo preservado: Mechanical arm 2/Mechanical Arm 1/Point005/Point001/Cylinder096
+OK: Modelo preservado: Mechanical arm 2/Mechanical Arm 1/Point005/Point001/Object400
+OK: Modelo preservado: Mechanical arm 2/Mechanical Arm 1/Point005/Point001/Object412
+OK: Modelo preservado: Mechanical arm 2/Mechanical Arm 1/Point005/Point001/Point004/Box356
+OK: Modelo preservado: Mechanical arm 2/Mechanical Arm 1/Point005/Point001/Point004/Cylinder095
+OK: Modelo preservado: Mechanical arm 2/Mechanical Arm 1/Point005/Point001/Point004/Cylinder097
+OK: Modelo preservado: Mechanical arm 2/Mechanical Arm 1/Point005/Point001/Point004/Point002/Box357
+OK: Modelo preservado: Mechanical arm 2/Mechanical Arm 1/Point005/Point001/Point004/Point002/Cylinder098
+OK: Modelo preservado: Mechanical arm 2/Mechanical Arm 1/Point005/Point001/Point004/Point002/Cylinder098/Box360
+OK: Modelo preservado: Mechanical arm 2/Mechanical Arm 1/Point005/Point001/Point004/Point002/Point003/Cylinder100
+OK: Modelo preservado: Mechanical arm 2/Mechanical Arm 1/Point005/Point001/Point004/Point002/Point003/Object388
+OK: Modelo preservado: Mechanical arm 2/Mechanical Arm 1/Point005/Point001/Point004/Point002/Point003/Object394
+OK: Modelo preservado: Mechanical arm 2/Mechanical Arm 1/Point005/Point001/Point004/Point002/Point003/Point006/Object387
+OK: Modelo preservado: Mechanical arm 2/Mechanical Arm 1/Point005/Point001/Point004/Point002/Point003/Point006/Point008/Box361
+OK: Modelo preservado: Mechanical arm 2/Mechanical Arm 1/Point005/Point001/Point004/Point002/Point003/Point006/Point008/Object415
+OK: Modelo preservado: Mechanical arm 2/TV 32 inch005/TV 32 inch004
+OK: Modelo preservado: Mechanical arm 2/TV 32 inch005/TV 32 inch006
+OK: Modelo preservado: PC 2
+OK: Modelo preservado: Claw/Claw
+OK: Modelo preservado: Claw/Claw.001
+OK: Modelo preservado: Claw/Claw.002
+OK: Modelo preservado: Claw/Claw.003
+OK: Modelo preservado: Claw/Claw.004
+OK: Modelo preservado: Mechanical Arm 1/Base
+OK: Modelo preservado: Mechanical Arm 1/Point005/Box355
+OK: Modelo preservado: Mechanical Arm 1/Point005/Cylinder093
+OK: Modelo preservado: Mechanical Arm 1/Point005/Cylinder094
+OK: Modelo preservado: Mechanical Arm 1/Point005/Point001/Cylinder096
+OK: Modelo preservado: Mechanical Arm 1/Point005/Point001/Object400
+OK: Modelo preservado: Mechanical Arm 1/Point005/Point001/Object412
+OK: Modelo preservado: Mechanical Arm 1/Point005/Point001/Point004/Box356
+OK: Modelo preservado: Mechanical Arm 1/Point005/Point001/Point004/Cylinder095
+OK: Modelo preservado: Mechanical Arm 1/Point005/Point001/Point004/Cylinder097
+OK: Modelo preservado: Mechanical Arm 1/Point005/Point001/Point004/Point002/Box357
+OK: Modelo preservado: Mechanical Arm 1/Point005/Point001/Point004/Point002/Cylinder098
+OK: Modelo preservado: Mechanical Arm 1/Point005/Point001/Point004/Point002/Cylinder098/Box360
+OK: Modelo preservado: Mechanical Arm 1/Point005/Point001/Point004/Point002/Point003/Cylinder100
+OK: Modelo preservado: Mechanical Arm 1/Point005/Point001/Point004/Point002/Point003/Object388
+OK: Modelo preservado: Mechanical Arm 1/Point005/Point001/Point004/Point002/Point003/Object394
+OK: Modelo preservado: Mechanical Arm 1/Point005/Point001/Point004/Point002/Point003/Point006/Object387
+OK: Modelo preservado: Mechanical Arm 1/Point005/Point001/Point004/Point002/Point003/Point006/Point008/Box361
+OK: Modelo preservado: Mechanical Arm 1/Point005/Point001/Point004/Point002/Point003/Point006/Point008/Object415
+OK: Modelo preservado: Radio
+OK: Modelo preservado: Alien_Oculichrysalis/Alien_Oculichrysalis
+OK: Modelo preservado: Alien_Oculichrysalis/Eyes
+OK: Modelo preservado: Mechanical arm 2 (1)/Mechanical Arm 1/Base
+OK: Modelo preservado: Mechanical arm 2 (1)/Mechanical Arm 1/Point005/Box355
+OK: Modelo preservado: Mechanical arm 2 (1)/Mechanical Arm 1/Point005/Cylinder093
+OK: Modelo preservado: Mechanical arm 2 (1)/Mechanical Arm 1/Point005/Cylinder094
+OK: Modelo preservado: Mechanical arm 2 (1)/Mechanical Arm 1/Point005/Point001/Cylinder096
+OK: Modelo preservado: Mechanical arm 2 (1)/Mechanical Arm 1/Point005/Point001/Object400
+OK: Modelo preservado: Mechanical arm 2 (1)/Mechanical Arm 1/Point005/Point001/Object412
+OK: Modelo preservado: Mechanical arm 2 (1)/Mechanical Arm 1/Point005/Point001/Point004/Box356
+OK: Modelo preservado: Mechanical arm 2 (1)/Mechanical Arm 1/Point005/Point001/Point004/Cylinder095
+OK: Modelo preservado: Mechanical arm 2 (1)/Mechanical Arm 1/Point005/Point001/Point004/Cylinder097
+OK: Modelo preservado: Mechanical arm 2 (1)/Mechanical Arm 1/Point005/Point001/Point004/Point002/Box357
+OK: Modelo preservado: Mechanical arm 2 (1)/Mechanical Arm 1/Point005/Point001/Point004/Point002/Cylinder098
+OK: Modelo preservado: Mechanical arm 2 (1)/Mechanical Arm 1/Point005/Point001/Point004/Point002/Cylinder098/Box360
+OK: Modelo preservado: Mechanical arm 2 (1)/Mechanical Arm 1/Point005/Point001/Point004/Point002/Point003/Cylinder100
+OK: Modelo preservado: Mechanical arm 2 (1)/Mechanical Arm 1/Point005/Point001/Point004/Point002/Point003/Object388
+OK: Modelo preservado: Mechanical arm 2 (1)/Mechanical Arm 1/Point005/Point001/Point004/Point002/Point003/Object394
+OK: Modelo preservado: Mechanical arm 2 (1)/Mechanical Arm 1/Point005/Point001/Point004/Point002/Point003/Point006/Object387
+OK: Modelo preservado: Mechanical arm 2 (1)/Mechanical Arm 1/Point005/Point001/Point004/Point002/Point003/Point006/Point008/Box361
+OK: Modelo preservado: Mechanical arm 2 (1)/Mechanical Arm 1/Point005/Point001/Point004/Point002/Point003/Point006/Point008/Object415
+OK: Modelo preservado: Mechanical arm 2 (1)/TV 32 inch005/TV 32 inch004
+OK: Modelo preservado: Mechanical arm 2 (1)/TV 32 inch005/TV 32 inch006
+OK: Modelo preservado: Mechanical arm 2 (2)/Mechanical Arm 1/Base
+OK: Modelo preservado: Mechanical arm 2 (2)/Mechanical Arm 1/Point005/Box355
+OK: Modelo preservado: Mechanical arm 2 (2)/Mechanical Arm 1/Point005/Cylinder093
+OK: Modelo preservado: Mechanical arm 2 (2)/Mechanical Arm 1/Point005/Cylinder094
+OK: Modelo preservado: Mechanical arm 2 (2)/Mechanical Arm 1/Point005/Point001/Cylinder096
+OK: Modelo preservado: Mechanical arm 2 (2)/Mechanical Arm 1/Point005/Point001/Object400
+OK: Modelo preservado: Mechanical arm 2 (2)/Mechanical Arm 1/Point005/Point001/Object412
+OK: Modelo preservado: Mechanical arm 2 (2)/Mechanical Arm 1/Point005/Point001/Point004/Box356
+OK: Modelo preservado: Mechanical arm 2 (2)/Mechanical Arm 1/Point005/Point001/Point004/Cylinder095
+OK: Modelo preservado: Mechanical arm 2 (2)/Mechanical Arm 1/Point005/Point001/Point004/Cylinder097
+OK: Modelo preservado: Mechanical arm 2 (2)/Mechanical Arm 1/Point005/Point001/Point004/Point002/Box357
+OK: Modelo preservado: Mechanical arm 2 (2)/Mechanical Arm 1/Point005/Point001/Point004/Point002/Cylinder098
+OK: Modelo preservado: Mechanical arm 2 (2)/Mechanical Arm 1/Point005/Point001/Point004/Point002/Cylinder098/Box360
+OK: Modelo preservado: Mechanical arm 2 (2)/Mechanical Arm 1/Point005/Point001/Point004/Point002/Point003/Cylinder100
+OK: Modelo preservado: Mechanical arm 2 (2)/Mechanical Arm 1/Point005/Point001/Point004/Point002/Point003/Object388
+OK: Modelo preservado: Mechanical arm 2 (2)/Mechanical Arm 1/Point005/Point001/Point004/Point002/Point003/Object394
+OK: Modelo preservado: Mechanical arm 2 (2)/Mechanical Arm 1/Point005/Point001/Point004/Point002/Point003/Point006/Object387
+OK: Modelo preservado: Mechanical arm 2 (2)/Mechanical Arm 1/Point005/Point001/Point004/Point002/Point003/Point006/Point008/Box361
+OK: Modelo preservado: Mechanical arm 2 (2)/Mechanical Arm 1/Point005/Point001/Point004/Point002/Point003/Point006/Point008/Object415
+OK: Modelo preservado: Mechanical arm 2 (2)/TV 32 inch005/TV 32 inch004
+OK: Modelo preservado: Mechanical arm 2 (2)/TV 32 inch005/TV 32 inch006
+OK: Modelo preservado: Mechanical arm 1/Base
+OK: Modelo preservado: Mechanical arm 1/Point005/Box355
+OK: Modelo preservado: Mechanical arm 1/Point005/Cylinder093
+OK: Modelo preservado: Mechanical arm 1/Point005/Cylinder094
+OK: Modelo preservado: Mechanical arm 1/Point005/Point001/Cylinder096
+OK: Modelo preservado: Mechanical arm 1/Point005/Point001/Object400
+OK: Modelo preservado: Mechanical arm 1/Point005/Point001/Object412
+OK: Modelo preservado: Mechanical arm 1/Point005/Point001/Point004/Box356
+OK: Modelo preservado: Mechanical arm 1/Point005/Point001/Point004/Cylinder095
+OK: Modelo preservado: Mechanical arm 1/Point005/Point001/Point004/Cylinder097
+OK: Modelo preservado: Mechanical arm 1/Point005/Point001/Point004/Point002/Box357
+OK: Modelo preservado: Mechanical arm 1/Point005/Point001/Point004/Point002/Cylinder098
+OK: Modelo preservado: Mechanical arm 1/Point005/Point001/Point004/Point002/Cylinder098/Box360
+OK: Modelo preservado: Mechanical arm 1/Point005/Point001/Point004/Point002/Point003/Cylinder100
+OK: Modelo preservado: Mechanical arm 1/Point005/Point001/Point004/Point002/Point003/Object388
+OK: Modelo preservado: Mechanical arm 1/Point005/Point001/Point004/Point002/Point003/Object394
+OK: Modelo preservado: Mechanical arm 1/Point005/Point001/Point004/Point002/Point003/Point006/Object387
+OK: Modelo preservado: Mechanical arm 1/Point005/Point001/Point004/Point002/Point003/Point006/Point008/Box361
+OK: Modelo preservado: Mechanical arm 1/Point005/Point001/Point004/Point002/Point003/Point006/Point008/Object415
+OK: Modelo preservado: Prop_Cable_3 (9)
+OK: Modelo preservado: Server Rack/Box418
+OK: Modelo preservado: Server Rack/Control Panel _Lo002
+OK: Modelo preservado: Server Rack/Panel 004
+OK: Modelo preservado: Server Rack/PC 010
+OK: Modelo preservado: Server Rack/PC 011
+OK: Modelo preservado: Server Rack/PC 012
+OK: Modelo preservado: Server Rack/PC 013
+OK: Modelo preservado: Server Rack/PC 014
+OK: Modelo preservado: Server Rack (1)/Box418
+OK: Modelo preservado: Server Rack (1)/Control Panel _Lo002
+OK: Modelo preservado: Server Rack (1)/Panel 004
+OK: Modelo preservado: Server Rack (1)/PC 010
+OK: Modelo preservado: Server Rack (1)/PC 011
+OK: Modelo preservado: Server Rack (1)/PC 012
+OK: Modelo preservado: Server Rack (1)/PC 013
+OK: Modelo preservado: Server Rack (1)/PC 014
+OK: Modelo preservado: Radio (1)
+OK: Modelo preservado: Radio (5)
+OK: Modelo preservado: Radio (2)
+OK: Modelo preservado: Radio (6)
+OK: Modelo preservado: Mechanical Claw/Claw
+OK: Modelo preservado: Mechanical Claw/Claw.001
+OK: Modelo preservado: Mechanical Claw/Claw.002
+OK: Modelo preservado: Mechanical Claw/Claw.003
+OK: Modelo preservado: Mechanical Claw/Claw.004
+OK: Modelo preservado: Mechanical Claw (5)/Claw
+OK: Modelo preservado: Mechanical Claw (5)/Claw.001
+OK: Modelo preservado: Mechanical Claw (5)/Claw.002
+OK: Modelo preservado: Mechanical Claw (5)/Claw.003
+OK: Modelo preservado: Mechanical Claw (5)/Claw.004
+OK: Modelo preservado: PC 2 (1)
+OK: Modelo preservado: PC 2 (4)
+OK: Modelo preservado: Mechanical Claw (2)/Claw
+OK: Modelo preservado: Mechanical Claw (2)/Claw.001
+OK: Modelo preservado: Mechanical Claw (2)/Claw.002
+OK: Modelo preservado: Mechanical Claw (2)/Claw.003
+OK: Modelo preservado: Mechanical Claw (2)/Claw.004
+OK: Modelo preservado: Cabinet_03 (2)
+OK: Modelo preservado: Cabinet_03 (3)
+OK: Modelo preservado: Radio (4)
+OK: Modelo preservado: Mechanical Claw (4)/Claw
+OK: Modelo preservado: Mechanical Claw (4)/Claw.001
+OK: Modelo preservado: Mechanical Claw (4)/Claw.002
+OK: Modelo preservado: Mechanical Claw (4)/Claw.003
+OK: Modelo preservado: Mechanical Claw (4)/Claw.004
+OK: Modelo preservado: Mechanical Claw (3)/Claw
+OK: Modelo preservado: Mechanical Claw (3)/Claw.001
+OK: Modelo preservado: Mechanical Claw (3)/Claw.002
+OK: Modelo preservado: Mechanical Claw (3)/Claw.003
+OK: Modelo preservado: Mechanical Claw (3)/Claw.004
+OK: Modelo preservado: PC 2 (3)
+OK: Modelo preservado: Mechanical Claw (1)/Claw
+OK: Modelo preservado: Mechanical Claw (1)/Claw.001
+OK: Modelo preservado: Mechanical Claw (1)/Claw.002
+OK: Modelo preservado: Mechanical Claw (1)/Claw.003
+OK: Modelo preservado: Mechanical Claw (1)/Claw.004
+OK: Modelo preservado: Cabinet_03 (1)
+OK: Modelo preservado: Radio (3)
+OK: Modelo preservado: PC 2 (2)
+OK: Modelo preservado: Shelf with Crates/Crates Shelf
+OK: Modelo preservado: Shelf with Crates/Crates Shelf/Object061
+OK: Modelo preservado: Shelf with Crates/Crates Shelf/Object062
+OK: Modelo preservado: Shelf with Crates/Crates Shelf/Object063
+OK: Modelo preservado: Shelf with Crates/Crates Shelf/Object064
+OK: Modelo preservado: Shelf with Crates/Crates Shelf/Object065
+OK: Modelo preservado: Shelf with Crates/Crates Shelf/Object066
+OK: Modelo preservado: Shelf with Crates (3)/Crates Shelf
+OK: Modelo preservado: Shelf with Crates (3)/Crates Shelf/Object061
+OK: Modelo preservado: Shelf with Crates (3)/Crates Shelf/Object062
+OK: Modelo preservado: Shelf with Crates (3)/Crates Shelf/Object063
+OK: Modelo preservado: Shelf with Crates (3)/Crates Shelf/Object064
+OK: Modelo preservado: Shelf with Crates (3)/Crates Shelf/Object065
+OK: Modelo preservado: Shelf with Crates (3)/Crates Shelf/Object066
+OK: Modelo preservado: Shelf with Crates (1)/Crates Shelf
+OK: Modelo preservado: Shelf with Crates (1)/Crates Shelf/Object061
+OK: Modelo preservado: Shelf with Crates (1)/Crates Shelf/Object062
+OK: Modelo preservado: Shelf with Crates (1)/Crates Shelf/Object063
+OK: Modelo preservado: Shelf with Crates (1)/Crates Shelf/Object064
+OK: Modelo preservado: Shelf with Crates (1)/Crates Shelf/Object065
+OK: Modelo preservado: Shelf with Crates (1)/Crates Shelf/Object066
+OK: Modelo preservado: Shelf with Crates (2)/Crates Shelf
+OK: Modelo preservado: Shelf with Crates (2)/Crates Shelf/Object061
+OK: Modelo preservado: Shelf with Crates (2)/Crates Shelf/Object062
+OK: Modelo preservado: Shelf with Crates (2)/Crates Shelf/Object063
+OK: Modelo preservado: Shelf with Crates (2)/Crates Shelf/Object064
+OK: Modelo preservado: Shelf with Crates (2)/Crates Shelf/Object065
+OK: Modelo preservado: Shelf with Crates (2)/Crates Shelf/Object066
+OK: Modelo preservado: Shelf without Crates
+DECORACAO: 1434 renderizadores com posição, rotação e escala preservadas.

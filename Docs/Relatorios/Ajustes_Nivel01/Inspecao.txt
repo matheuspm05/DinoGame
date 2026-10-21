@@ -1,0 +1,113 @@
+Cena=Assets/Scenes/Level01_Nave_Expanded.unity dirty=True playing=False
+ITEM Bateria_Carga_Esquerda kind=Battery pos=(-18.71, 0.81, 31.54) rot=(0.00, 0.00, 0.00) scale=(1.00, 1.00, 1.00)
+ R EnergyCell_1_1 Center: (-18.71, 1.11, 31.54), Extents: (0.12, 0.30, 0.12)
+ C Bateria_Carga_Esquerda BoxCollider enabled=True trigger=True Center: (-18.71, 1.11, 31.54), Extents: (0.14, 0.31, 0.14)
+ITEM Painel_Instalar_Bateria kind=EnergyPanel pos=(-12.00, 0.00, 12.00) rot=(0.00, 0.00, 0.00) scale=(1.00, 1.00, 1.00)
+ R Prop_AccessPoint Center: (-11.24, 0.62, 14.25), Extents: (0.43, 0.62, 0.26)
+ R Prop_Light_Small Center: (-11.26, 1.23, 14.28), Extents: (0.27, 0.06, 0.11)
+ R EnergyCell_1_1 Center: (-11.50, 1.16, 12.00), Extents: (0.12, 0.30, 0.12)
+ C Console_SciFi BoxCollider enabled=True trigger=False Center: (-12.00, 0.62, 12.00), Extents: (0.43, 0.62, 0.25)
+ C Bateria_Instalada BoxCollider enabled=False trigger=True Center: (-11.50, 0.86, 12.00), Extents: (0.00, 0.00, 0.00)
+ITEM Bateria_Instalada kind=Battery pos=(-11.50, 0.86, 12.00) rot=(0.00, 0.00, 0.00) scale=(1.00, 1.00, 1.00)
+ R EnergyCell_1_1 Center: (-11.50, 1.16, 12.00), Extents: (0.12, 0.30, 0.12)
+ C Bateria_Instalada BoxCollider enabled=False trigger=True Center: (-11.50, 0.86, 12.00), Extents: (0.00, 0.00, 0.00)
+ITEM Cartao_Seguranca_Laboratorio kind=Keycard pos=(14.03, 0.91, 16.16) rot=(270.00, 12.00, 0.00) scale=(1.00, 1.00, 1.00)
+ R default Center: (14.03, 0.91, 16.16), Extents: (0.14, 0.00, 0.11)
+ C Cartao_Seguranca_Laboratorio BoxCollider enabled=True trigger=True Center: (14.03, 0.91, 16.16), Extents: (0.16, 0.02, 0.12)
+ITEM Leitor_Cartao_Seguranca kind=CardReader pos=(22.50, 0.00, 44.10) rot=(0.00, 0.00, 0.00) scale=(1.00, 1.00, 1.00)
+ R Prop_AccessPoint Center: (22.23, 0.62, 45.88), Extents: (0.28, 0.62, 0.44)
+ R Prop_Light_Small Center: (22.25, 1.22, 45.87), Extents: (0.13, 0.06, 0.28)
+ C Console_SciFi BoxCollider enabled=True trigger=False Center: (22.50, 0.62, 44.10), Extents: (0.42, 0.62, 0.25)
+ITEM Terminal_1_ENERGIA AUXILIAR kind=HangarTerminal pos=(16.00, 0.00, 54.00) rot=(0.00, 90.00, 0.00) scale=(1.00, 1.00, 1.00)
+ R Prop_AccessPoint Center: (16.00, 0.62, 54.00), Extents: (0.25, 0.62, 0.42)
+ R Prop_Light_Small Center: (16.00, 1.32, 54.00), Extents: (0.11, 0.06, 0.27)
+ C Console_SciFi BoxCollider enabled=True trigger=False Center: (16.00, 0.62, 54.00), Extents: (0.25, 0.62, 0.42)
+ITEM Terminal_2_SISTEMA DE SEGURANÇA kind=HangarTerminal pos=(24.00, 0.00, 60.00) rot=(0.00, 270.00, 0.00) scale=(1.00, 1.00, 1.00)
+ R Prop_AccessPoint Center: (24.00, 0.62, 60.00), Extents: (0.25, 0.62, 0.42)
+ R Prop_Light_Small Center: (24.00, 1.32, 60.00), Extents: (0.11, 0.06, 0.27)
+ C Console_SciFi BoxCollider enabled=True trigger=False Center: (24.00, 0.62, 60.00), Extents: (0.25, 0.62, 0.42)
+ITEM Terminal_3_CONTROLE DA SAÍDA kind=HangarTerminal pos=(16.00, 0.00, 66.00) rot=(0.00, 90.00, 0.00) scale=(1.00, 1.00, 1.00)
+ R Prop_AccessPoint Center: (16.00, 0.62, 66.00), Extents: (0.25, 0.62, 0.42)
+ R Prop_Light_Small Center: (16.00, 1.32, 66.00), Extents: (0.11, 0.06, 0.27)
+ C Console_SciFi BoxCollider enabled=True trigger=False Center: (16.00, 0.62, 66.00), Extents: (0.25, 0.62, 0.43)
+LAYOUT 01_Contencao (0.00, 0.00, 0.00) rot=(0.00, 0.00, 0.00) scale=(1.00, 1.00, 1.00)
+LAYOUT Passagem_CORREDOR / DEPOSITO (0.00, 0.00, 0.00) rot=(0.00, 0.00, 0.00) scale=(1.00, 1.00, 1.00)
+LAYOUT Office_Table Metal Variant_894 (3.50, 0.43, 1.50) rot=(0.00, 0.00, 0.00) scale=(1.00, 1.00, 1.00)
+LAYOUT Passagem_03  ENERGIA (0.00, 0.00, 0.00) rot=(0.00, 0.00, 0.00) scale=(1.00, 1.00, 1.00)
+LAYOUT Passagem_04  DEPOSITO (0.00, 0.00, 0.00) rot=(0.00, 0.00, 0.00) scale=(1.00, 1.00, 1.00)
+LAYOUT 05_Laboratorio (20.00, 0.00, 21.00) rot=(0.00, 0.00, 0.00) scale=(1.00, 1.00, 1.00)
+LAYOUT Passagem_05  LABORATORIO (0.00, 0.00, 0.00) rot=(0.00, 0.00, 0.00) scale=(1.00, 1.00, 1.00)
+LAYOUT Office_Table Metal Variant_924 (14.00, 0.45, 16.40) rot=(0.00, 0.00, 0.00) scale=(1.00, 1.00, 1.00)
+LAYOUT Office_Table Metal Variant_928 (26.00, 0.45, 16.40) rot=(0.00, 0.00, 0.00) scale=(1.00, 1.00, 1.00)
+LAYOUT Office_Drawer Table Long Blue Plastic Variant_932 (26.20, 0.45, 25.80) rot=(0.00, 0.00, 0.00) scale=(1.00, 1.00, 1.00)
+LAYOUT Office_Table Metal Variant_939 (24.20, 0.45, 20.40) rot=(0.00, 0.00, 0.00) scale=(1.00, 1.00, 1.00)
+LAYOUT Passagem_06  SEGURANCA (0.00, 0.00, 0.00) rot=(0.00, 0.00, 0.00) scale=(1.00, 1.00, 1.00)
+LAYOUT Office_Table Metal Variant_949 (16.40, 0.45, 43.00) rot=(0.00, 0.00, 0.00) scale=(1.00, 1.00, 1.00)
+LAYOUT Office_Table Metal Variant_954 (23.50, 0.45, 43.00) rot=(0.00, 0.00, 0.00) scale=(1.00, 1.00, 1.00)
+LAYOUT Passagem_07  HANGAR (0.00, 0.00, 0.00) rot=(0.00, 0.00, 0.00) scale=(1.00, 1.00, 1.00)
+LAYOUT Passagem_08  MAQUINAS / OPCIONAL (0.00, 0.00, 0.00) rot=(0.00, 0.00, 0.00) scale=(1.00, 1.00, 1.00)
+LAYOUT Passagem_09  MANUTENCAO (0.00, 0.00, 0.00) rot=(0.00, 0.00, 0.00) scale=(1.00, 1.00, 1.00)
+LAYOUT Office_Table Metal Variant_997 (37.00, 0.45, 40.40) rot=(0.00, 0.00, 0.00) scale=(1.00, 1.00, 1.00)
+SPARROW Assets/Quirky Series Ultimate/FREE/Prefabs/Sparrow.prefab
+Animator Sparrow controller=Assets/Quirky Series Ultimate/FREE/Animations/AC_Sparrow.controller rootMotion=False
+State Base Layer.Attack clip=Attack
+State Base Layer.Bounce clip=Bounce
+State Base Layer.Clicked clip=Clicked
+State Base Layer.Death clip=Death
+State Base Layer.Eat clip=Eat
+State Base Layer.Fear clip=Fear
+State Base Layer.Fly clip=Fly
+State Base Layer.Hit clip=Hit
+State Base Layer.Idle_A clip=Idle_A
+State Base Layer.Idle_B clip=Idle_B
+State Base Layer.Idle_C clip=Idle_C
+State Base Layer.Jump clip=Jump
+State Base Layer.Roll clip=Roll
+State Base Layer.Run clip=Run
+State Base Layer.Sit clip=Sit
+State Base Layer.Spin clip=Spin
+State Base Layer.Swim clip=Swim
+State Base Layer.Walk clip=Walk
+State Shapekey.Eyes_Annoyed clip=Eyes_Annoyed
+State Shapekey.Eyes_Blink clip=Eyes_Blink
+State Shapekey.Eyes_Cry clip=Eyes_Cry
+State Shapekey.Eyes_Dead clip=Eyes_Dead
+State Shapekey.Eyes_Excited clip=Eyes_Excited
+State Shapekey.Eyes_Happy clip=Eyes_Happy
+State Shapekey.Eyes_LookDown clip=Eyes_LookDown
+State Shapekey.Eyes_LookIn clip=Eyes_LookIn
+State Shapekey.Eyes_LookOut clip=Eyes_LookOut
+State Shapekey.Eyes_LookUp clip=Eyes_LookUp
+State Shapekey.Eyes_Rabid clip=Eyes_Rabid
+State Shapekey.Eyes_Sad clip=Eyes_Sad
+State Shapekey.Eyes_Shrink clip=Eyes_Shrink
+State Shapekey.Eyes_Sleep clip=Eyes_Sleep
+State Shapekey.Eyes_Spin clip=Eyes_Spin
+State Shapekey.Eyes_Squint clip=Eyes_Squint
+State Shapekey.Eyes_Trauma clip=Eyes_Trauma
+State Shapekey.Sweat_L clip=Sweat_L
+State Shapekey.Sweat_R clip=Sweat_R
+State Shapekey.Teardrop_L clip=Teardrop_L
+State Shapekey.Teardrop_R clip=Teardrop_R
+Bird mesh Mesh_LOD0 bounds=Center: (0.00, 0.38, -0.04), Extents: (0.23, 0.38, 0.29) mat=M_Sparrow/Toon/SoftSurface
+Bird mesh Mesh_LOD1 bounds=Center: (0.00, 0.38, -0.04), Extents: (0.23, 0.38, 0.29) mat=M_Sparrow/Toon/SoftSurface
+Bird mesh Mesh_LOD2 bounds=Center: (0.00, 0.38, -0.04), Extents: (0.23, 0.38, 0.29) mat=M_Sparrow/Toon/SoftSurface
+Bird mesh Mesh_LOD3 bounds=Center: (0.00, 0.38, -0.04), Extents: (0.23, 0.38, 0.29) mat=M_Sparrow/Toon/SoftSurface
+Clip Clicked seconds=0,4166667 loop=True
+Clip Spin seconds=0,4166667 loop=True
+Clip Jump seconds=0,4166667 loop=True
+Clip Walk seconds=0,4166667 loop=True
+Clip Bounce seconds=0,4166667 loop=True
+Clip Swim seconds=0,4166667 loop=True
+Clip Sit seconds=0,4166667 loop=True
+Clip Attack seconds=0,4166667 loop=True
+Clip Death seconds=0,4166667 loop=False
+Clip Eat seconds=0,4166667 loop=True
+Clip Fear seconds=0,4166667 loop=True
+Clip Fly seconds=0,4166667 loop=True
+Clip Hit seconds=0,4166667 loop=True
+Clip Idle_A seconds=0,4166667 loop=True
+Clip Idle_B seconds=0,4166667 loop=True
+Clip Idle_C seconds=0,4166667 loop=True
+Clip Roll seconds=0,4166667 loop=True
+Clip Run seconds=0,4166667 loop=True

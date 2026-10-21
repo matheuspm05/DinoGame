@@ -4,6 +4,9 @@ Projeto acadêmico em Unity 6, URP e novo Input System.
 
 Para jogar no Editor, abra `Assets/Scenes/MainMenu.unity` e pressione **Play**. Novo Jogo inicia `Level01_Nave_Expanded`. A cena `Level01_Nave` mantém a referência original.
 
+- [Polimento atual: audio, VFX, adocao e colisoes](Docs/Guias/Polimento_Nivel01.md)
+- [Ajustes atuais: caixas, cartão aleatório e Sparrow](Docs/Guias/Ajustes_Nivel01.md)
+- [Gameplay do Nível 1: puzzles, itens e testes](Docs/Guias/Gameplay_Nivel01.md)
 - [Mapa da documentação](Docs/README.md)
 - [Para que serve cada script](Docs/Guias/Scripts.md)
 - [Como usar o nível expandido](Docs/Guias/Level01_Expanded_ComoUsar.md)

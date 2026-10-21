@@ -296,11 +296,11 @@ namespace ProjetoRetorno.UI.Editor
             controller.menuPage = menuPage; controller.controlsButton = controlsButton;
             Label("Titulo", panel, "CONTROLES", new Vector2(0, 335), new Vector2(900, 85), 54, White);
             Line("Divisor", panel, new Vector2(0, 270), new Vector2(850, 2));
-            string[] keys = { "W A S D", "MOUSE", "SHIFT ESQUERDO", "ESPAÇO", "CTRL (SEGURAR)", "ESC" };
-            string[] actions = { "Movimentação", "Olhar ao redor", "Correr", "Pular", "Agachar", "Pausar / Continuar no jogo" };
+            string[] keys = { "W A S D", "MOUSE", "SHIFT ESQUERDO", "ESPAÇO", "CTRL (SEGURAR)", "F", "MOUSE ESQUERDO", "ESC" };
+            string[] actions = { "Movimentação", "Olhar ao redor", "Correr", "Pular", "Agachar", "Interagir / Pegar caixa", "Arremessar caixa", "Pausar / Continuar no jogo" };
             for (int i = 0; i < keys.Length; i++)
             {
-                float y = 180 - i * 80;
+                float y = 180 - i * 56;
                 Label("Tecla_" + i, panel, keys[i], new Vector2(-265, y), new Vector2(340, 60), 25, Cyan);
                 Text action = Label("Acao_" + i, panel, actions[i], new Vector2(205, y), new Vector2(540, 60), 27, White);
                 action.alignment = TextAnchor.MiddleLeft;

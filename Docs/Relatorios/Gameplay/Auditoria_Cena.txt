@@ -1,0 +1,78 @@
+Auditoria estática — 2026-10-20T12:10:55
+Cena: Assets/Scenes/Level01_Nave_Expanded.unity
+Scripts ausentes: 0
+Gerentes: 1
+Jogadores: 1
+EventSystems: 1
+Bateria_Carga_Esquerda | Battery | posição (-14.00, 0.81, 28.00) | gerente=True
+  Collider BoxCollider trigger=True bounds=Center: (-14.00, 1.11, 28.00), Extents: (0.14, 0.31, 0.14)
+  Modelo: Assets/Energy/Type 1/EnergyCell_1/Prefabs/EnergyCell_1_1.prefab
+  Material: Assets/Materials/Gameplay/Level01/Bateria_URP.mat | shader Universal Render Pipeline/Lit | textura Assets/Energy/Type 1/EnergyCell_1/Textures/EnergyCell_1_1_Albedo.png
+Painel_Instalar_Bateria | EnergyPanel | posição (-12.00, 0.00, 12.00) | gerente=True
+  Collider BoxCollider trigger=False bounds=Center: (-12.00, 0.62, 12.00), Extents: (0.43, 0.62, 0.25)
+  Modelo: Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_AccessPoint.fbx
+  Material: Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_AccessPoint.fbx | shader Universal Render Pipeline/Lit | textura Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/Textures/T_Trim_01_BaseColor_Red.png
+  Material: Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_AccessPoint.fbx | shader Universal Render Pipeline/Lit | textura 
+  Material: Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_AccessPoint.fbx | shader Universal Render Pipeline/Lit | textura Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/Textures/T_Decals.png
+  Material: Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_AccessPoint.fbx | shader Universal Render Pipeline/Lit | textura 
+  Modelo: Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Light_Small.fbx
+  Material: Assets/Materials/Gameplay/Level01/Indicador_Interacao.mat | shader Universal Render Pipeline/Lit | textura 
+  Material: Assets/Materials/Gameplay/Level01/Indicador_Interacao.mat | shader Universal Render Pipeline/Lit | textura 
+  Modelo: Assets/Energy/Type 1/EnergyCell_1/Prefabs/EnergyCell_1_1.prefab
+  Material: Assets/Materials/Gameplay/Level01/Bateria_URP.mat | shader Universal Render Pipeline/Lit | textura Assets/Energy/Type 1/EnergyCell_1/Textures/EnergyCell_1_1_Albedo.png
+Cartao_Seguranca_Laboratorio | Keycard | posição (14.00, 0.91, 16.00) | gerente=True
+  Collider BoxCollider trigger=True bounds=Center: (14.00, 0.91, 16.00), Extents: (0.16, 0.02, 0.12)
+  Modelo: Assets/Cartao_ARCADIA_Unity/Cartao_Arcadia.obj
+  Material: Assets/Materials/Gameplay/Level01/Cartao_Frente_URP.mat | shader Universal Render Pipeline/Lit | textura Assets/Cartao_ARCADIA_Unity/Arcadia_Frente.png
+  Material: Assets/Materials/Gameplay/Level01/Cartao_Verso_URP.mat | shader Universal Render Pipeline/Lit | textura Assets/Cartao_ARCADIA_Unity/Arcadia_Verso.png
+  Material: Assets/Materials/Gameplay/Level01/Cartao_Borda_URP.mat | shader Universal Render Pipeline/Lit | textura 
+Leitor_Cartao_Seguranca | CardReader | posição (22.50, 0.00, 44.10) | gerente=True
+  Collider BoxCollider trigger=False bounds=Center: (22.50, 0.62, 44.10), Extents: (0.42, 0.62, 0.25)
+  Modelo: Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_AccessPoint.fbx
+  Material: Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_AccessPoint.fbx | shader Universal Render Pipeline/Lit | textura Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/Textures/T_Trim_01_BaseColor_Red.png
+  Material: Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_AccessPoint.fbx | shader Universal Render Pipeline/Lit | textura 
+  Material: Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_AccessPoint.fbx | shader Universal Render Pipeline/Lit | textura Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/Textures/T_Decals.png
+  Material: Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_AccessPoint.fbx | shader Universal Render Pipeline/Lit | textura 
+  Modelo: Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Light_Small.fbx
+  Material: Assets/Materials/Gameplay/Level01/Indicador_Interacao.mat | shader Universal Render Pipeline/Lit | textura 
+  Material: Assets/Materials/Gameplay/Level01/Indicador_Interacao.mat | shader Universal Render Pipeline/Lit | textura 
+Terminal_1_ENERGIA AUXILIAR | HangarTerminal | posição (16.00, 0.00, 54.00) | gerente=True
+  Collider BoxCollider trigger=False bounds=Center: (16.00, 0.62, 54.00), Extents: (0.25, 0.62, 0.42)
+  Modelo: Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_AccessPoint.fbx
+  Material: Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_AccessPoint.fbx | shader Universal Render Pipeline/Lit | textura Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/Textures/T_Trim_01_BaseColor_Red.png
+  Material: Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_AccessPoint.fbx | shader Universal Render Pipeline/Lit | textura 
+  Material: Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_AccessPoint.fbx | shader Universal Render Pipeline/Lit | textura Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/Textures/T_Decals.png
+  Material: Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_AccessPoint.fbx | shader Universal Render Pipeline/Lit | textura 
+  Modelo: Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Light_Small.fbx
+  Material: Assets/Materials/Gameplay/Level01/Indicador_Interacao.mat | shader Universal Render Pipeline/Lit | textura 
+  Material: Assets/Materials/Gameplay/Level01/Indicador_Interacao.mat | shader Universal Render Pipeline/Lit | textura 
+Terminal_2_SISTEMA DE SEGURANÇA | HangarTerminal | posição (24.00, 0.00, 60.00) | gerente=True
+  Collider BoxCollider trigger=False bounds=Center: (24.00, 0.62, 60.00), Extents: (0.25, 0.62, 0.42)
+  Modelo: Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_AccessPoint.fbx
+  Material: Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_AccessPoint.fbx | shader Universal Render Pipeline/Lit | textura Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/Textures/T_Trim_01_BaseColor_Red.png
+  Material: Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_AccessPoint.fbx | shader Universal Render Pipeline/Lit | textura 
+  Material: Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_AccessPoint.fbx | shader Universal Render Pipeline/Lit | textura Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/Textures/T_Decals.png
+  Material: Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_AccessPoint.fbx | shader Universal Render Pipeline/Lit | textura 
+  Modelo: Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Light_Small.fbx
+  Material: Assets/Materials/Gameplay/Level01/Indicador_Interacao.mat | shader Universal Render Pipeline/Lit | textura 
+  Material: Assets/Materials/Gameplay/Level01/Indicador_Interacao.mat | shader Universal Render Pipeline/Lit | textura 
+Terminal_3_CONTROLE DA SAÍDA | HangarTerminal | posição (16.00, 0.00, 66.00) | gerente=True
+  Collider BoxCollider trigger=False bounds=Center: (16.00, 0.62, 66.00), Extents: (0.25, 0.62, 0.43)
+  Modelo: Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_AccessPoint.fbx
+  Material: Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_AccessPoint.fbx | shader Universal Render Pipeline/Lit | textura Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/Textures/T_Trim_01_BaseColor_Red.png
+  Material: Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_AccessPoint.fbx | shader Universal Render Pipeline/Lit | textura 
+  Material: Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_AccessPoint.fbx | shader Universal Render Pipeline/Lit | textura Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/Textures/T_Decals.png
+  Material: Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_AccessPoint.fbx | shader Universal Render Pipeline/Lit | textura 
+  Modelo: Assets/ThirdParty/Modular SciFi MegaKit[Standard]/Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Light_Small.fbx
+  Material: Assets/Materials/Gameplay/Level01/Indicador_Interacao.mat | shader Universal Render Pipeline/Lit | textura 
+  Material: Assets/Materials/Gameplay/Level01/Indicador_Interacao.mat | shader Universal Render Pipeline/Lit | textura 
+Porta: Porta_05_Laboratorio | closed=(0.00, 1.65, 0.25) | deslocamento=(-3.85, 0.00, 0.00) | sólido=True
+Porta: Porta_07_Hangar | closed=(0.00, 1.65, 0.25) | deslocamento=(-4.45, 0.00, 0.00) | sólido=True
+Porta: Porta_Saida_Externa | closed=(0.00, 2.80, 0.00) | deslocamento=(-7.40, 0.00, 0.00) | sólido=True
+Folha dinâmica e sem interpenetração nas paredes (fechada/aberta): Porta_05_Laboratorio
+Folha dinâmica e sem interpenetração nas paredes (fechada/aberta): Porta_07_Hangar
+Folha dinâmica e sem interpenetração nas paredes (fechada/aberta): Porta_Saida_Externa
+Cartão: malha=Assets/Cartao_ARCADIA_Unity/Cartao_Arcadia.obj | submalhas=3 | UV=1242
+Contador HUD serializado: True
+OnClick da conclusão: ReturnToMainMenu
+Fontes originais de Energy e ARCADIA preservadas; adaptações em Assets/Materials/Gameplay/Level01.

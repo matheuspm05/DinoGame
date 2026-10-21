@@ -1,0 +1,58 @@
+Validação do gameplay — Unity 6000.0.81f1 — 2026-10-20T12:11:05
+OK: MainMenu inicial e tempo normal
+OK: Controles reais incluem F e Ctrl
+OK: Cena expandida com um gerente de gameplay
+OK: Um gerente, uma fonte de progresso
+OK: Jogador e câmera existentes preservados
+OK: Um único EventSystem
+OK: Interação por câmera limitada a 3m
+OK: Verso do cartão utiliza Arcadia_Verso.png
+OK: Novos modelos/prefabs usam materiais URP sem referências perdidas
+OK: Três terminais possuem índices diferentes
+OK: Controles reais incluem F e Ctrl
+OK: Estado inicial sem progresso
+OK: Itens restaurados no cenário
+OK: Três portas iniciam fechadas
+OK: HUD mostra objetivo inicial
+OK: Conclusão recusada antes dos terminais
+OK: Porta sólida impede cápsula humana: Porta_05_Laboratorio
+OK: Porta sólida impede cápsula humana: Porta_07_Hangar
+OK: Porta sólida impede cápsula humana: Porta_Saida_Externa
+OK: Todos os 141 módulos de teto têm colisão fina alinhada
+OK: Cápsula colide ao subir contra tetos nos nove setores
+OK: Painel rejeita instalação sem bateria
+OK: Leitor rejeita acesso sem cartão
+OK: Raycast ignora bateria fora de três metros
+OK: Raycast não coleta cartão através da porta/parede do laboratório
+OK: Bateria acessível na carga antes da energia
+OK: ESC pausa tempo, movimentação e câmera
+OK: F bloqueado e HUD oculto durante a pausa
+OK: ESC retoma jogador e tempo
+OK: F coleta a bateria e atualiza o objetivo
+OK: Instalação mostra a célula e desbloqueia laboratório
+OK: Folha do laboratório aberta e vão atravessado fisicamente
+OK: F coleta o cartão sobre a mesa e atualiza objetivo
+OK: Cartão libera hangar e HUD inicia contagem 0/3
+OK: Entrada do hangar atravessada sem collider invisível
+OK: Terminal 1 atualiza 1/3 e mantém saída bloqueada
+OK: Terminal não conta duas vezes
+OK: Terminal 3 funciona fora de ordem; 2/3 ainda impede saída/conclusão
+OK: Terceira ativação abre saída e mostra objetivo de fuga
+OK: Trigger conclui somente depois dos terminais, bloqueia controle e mostra interface
+OK: Botão da conclusão retorna ao MainMenu com tempo restaurado
+OK: Cena expandida com um gerente de gameplay
+OK: Estado inicial sem progresso
+OK: Itens restaurados no cenário
+OK: Três portas iniciam fechadas
+OK: HUD mostra objetivo inicial
+OK: Novo Jogo após conclusão reinicia todos os puzzles
+OK: Progresso antes do reinício confirmado
+OK: Cena expandida com um gerente de gameplay
+OK: Estado inicial sem progresso
+OK: Itens restaurados no cenário
+OK: Três portas iniciam fechadas
+OK: HUD mostra objetivo inicial
+OK: Reiniciar Nível redefine itens, terminais e três portas
+OK: Menu Principal pela pausa preservado
+Movimentos físicos da cápsula na rota: 731
+RESULTADO: APROVADO.

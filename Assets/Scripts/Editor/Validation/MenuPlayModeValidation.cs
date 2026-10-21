@@ -363,7 +363,7 @@ namespace ProjetoRetorno.UI.Editor
             {
                 string[] labels = panel.GetComponentsInChildren<Text>(true).Select(text => text.text).ToArray();
                 Check(labels.Contains("CTRL (SEGURAR)") && labels.Contains("Agachar"), "Painel de controles inclui Ctrl para agachar");
-                Check(!labels.Any(label => label.Contains("Interagir")), "Painel não anuncia interação ausente");
+                Check(labels.Any(label => label.Contains("Interagir")), "Painel anuncia a interação F implementada");
             }
         }
 

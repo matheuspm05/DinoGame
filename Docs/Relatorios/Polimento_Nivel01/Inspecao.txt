@@ -1,0 +1,1224 @@
+Inspeção nativa 2026-10-21T00:46:48 Unity 6000.0.81f1
+Cena: Assets/Scenes/Level01_Nave_Expanded.unity; renderers=1438
+AUDIO|Assets/kenney_interface-sounds/Audio/back_001.ogg|af26c0b366c0f1a419a41417afa69436|0,06387755s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/back_002.ogg|8ddb4ff83dc86624c87cac9a0e307aa6|0,06984127s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/back_003.ogg|0bbbc038bf82ad14589807d0ee30d218|0,09287982s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/back_004.ogg|73f3be3902364ca4b9ac2ec6d8129ff6|0,0729932s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/bong_001.ogg|1e89f7ce0f8dcee45bde19aea6a0b5a5|0,1228345s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/click_001.ogg|dec72984c7555b047b245bc34d0b2da5|0,1000227s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/click_002.ogg|bc6e165fdd558f3488524797fd4a6465|0,01002268s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/click_003.ogg|2c59d607b04f8f54db57c6fc03af0c7f|0,01002268s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/click_004.ogg|cce247af4c1db434cb7b41a29e6560a9|0,01002268s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/click_005.ogg|d4c76731543e2ce4fb06060b665b2b15|0,01002268s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/close_001.ogg|97e3d4c9b2938d943b7cbbbc56082c03|0,1477778s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/close_002.ogg|0ea41e3f598324f4f863870afac5b61b|0,3137868s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/close_003.ogg|fc4a8c34fffb70548bc462b4fd85e9b0|0,3137868s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/close_004.ogg|9679ec93d68567c4e9af1fd3730261bb|0,3228798s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/confirmation_001.ogg|c406c98682ee60648af85daccb39906b|0,2898413s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/confirmation_002.ogg|80e185e605cacd1468c054d67e52cb11|0,5390022s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/confirmation_003.ogg|b01cdd9ff7e518f44a087d6c64be8eb4|0,3220181s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/confirmation_004.ogg|4602d02fd3991ff48b8cdd2d1a0c2724|0,4904082s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/drop_001.ogg|dd8c379666be42346823754ea2f01e4c|0,1098186s|2 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/drop_002.ogg|a9fb4c9ecc4565a49bec089cc7da2120|0,1910884s|2 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/drop_003.ogg|390c3c22ce3f2324d9fc77c339304183|0,1910884s|2 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/drop_004.ogg|2a55b5f281f8b444199c8139140642cb|0,2866893s|2 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/error_001.ogg|a6046c77401f62943b20a7ef6fee7261|0,1645578s|2 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/error_002.ogg|f9a73c57bfe4d554a932ecc0ef506245|0,1645578s|2 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/error_003.ogg|6dcffe210634720499ccc5df99281c5e|0,5334694s|2 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/error_004.ogg|ecf642c2657c59a468ecd559747d573a|0,1026984s|2 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/error_005.ogg|00a480a57535f414aa87f0e15f07393c|0,5000454s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/error_006.ogg|71e0365c3feafdf46ab8c2f16ce6678c|0,5000454s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/error_007.ogg|e35a3bd9fc8c04f4ba5050c79f9044df|0,1919955s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/error_008.ogg|489ef88988e0a114dbc3b102d470c179|0,1393197s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/glass_001.ogg|5bbd1149733487044a32b97dcc852f8d|0,2784354s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/glass_002.ogg|b26c9821a661501488e58937776ee271|0,1253061s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/glass_003.ogg|52699e49ec617c840a8b561a28471311|0,1236735s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/glass_004.ogg|bfdc8fd774f468d4d81a5fac35d4a5f0|0,6922676s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/glass_005.ogg|cd76a5feb269ad146bb3ad8dc6e465ca|0,1107937s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/glass_006.ogg|a7d06f65f88ec724aadc1bcc04b1b09f|0,1107937s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/glitch_001.ogg|18a8f8cd7560b734aa617566e66d1df2|0,02002268s|2 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/glitch_002.ogg|95a74082a54cf8748a6f8ba7a579c2c9|0,03002268s|2 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/glitch_003.ogg|9091773904a6bb7409f034f8340c793c|0,01002268s|2 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/glitch_004.ogg|7c17500d8c7134547b2c51e02faeff17|0,02290249s|2 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/maximize_001.ogg|3a3fea79ab5d88d48ab476d98ccb29a9|0,25839s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/maximize_002.ogg|9049259d585ef6045811af9ddaeafa34|0,2582766s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/maximize_003.ogg|99e79e5f993083f41880c95d05876bb7|0,2118594s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/maximize_004.ogg|d6fe0c998ea1faa41ba10953e8020692|0,4179592s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/maximize_005.ogg|b1b1bcc15a61d3d45b9bc6527f70cea1|0,5263719s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/maximize_006.ogg|694715344813a5242ac6fd987f794987|0,3799546s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/maximize_007.ogg|0de3603d47d94b84f9de0fb194d556b8|0,1857596s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/maximize_008.ogg|5d346e631b18e0e4594d2fcc11fc88ea|0,2253515s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/maximize_009.ogg|dfee44e9fca5ad3438ad0f47ee647e13|0,2247846s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/minimize_001.ogg|df850c20235f5384980abf399601aece|0,25839s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/minimize_002.ogg|443295de674d945448436840ec0a1423|0,2582766s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/minimize_003.ogg|5e9645cff9103b54c9529abaeef9b484|0,2118594s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/minimize_004.ogg|bfd7338934529d34e8ce195bbb3ab80b|0,4179592s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/minimize_005.ogg|b1c07a901fac6fd42940192f0a46be13|0,5263719s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/minimize_006.ogg|73d0ae939fbd2b84abd8d3ac3c574f2f|0,3799546s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/minimize_007.ogg|54b1fdca3320a5846b4a7154fc8c2c29|0,1857596s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/minimize_008.ogg|be33b6438792c52468d7983c5761ad2f|0,2253515s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/minimize_009.ogg|43352fbb0cb69d24ab79ad3e9160b04a|0,2247846s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/open_001.ogg|243b608ee450cb546876dce04a594e09|0,1477778s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/open_002.ogg|b2fdd3d864ad7e542a46ffe9fe833c47|0,3137868s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/open_003.ogg|74c03265f3016f541894c1a3a3f40e6b|0,3137868s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/open_004.ogg|347e124ea40673c4b8f1cb05fdab8c5c|0,3228798s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/pluck_001.ogg|f9daf194731325c479997dd9304c3611|0,1024263s|2 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/pluck_002.ogg|82a7c24ee9bd1a841b4fd43287e38e25|0,1645578s|2 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/question_001.ogg|195dee65fbdc89d41b57a235e410f508|0,4906803s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/question_002.ogg|7fadd1163788ce3499cd4619da3c0f98|0,332517s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/question_003.ogg|6db06e9693096514ca6c198115a958d8|0,3324943s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/question_004.ogg|975783d13f7b5d74d90b20db63819268|0,3324717s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/scratch_001.ogg|7ea12645c8e68ba4faf9d69044eda21a|0,1393197s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/scratch_002.ogg|23d259378e31f38438933f5529cb0c81|0,1393197s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/scratch_003.ogg|a5543eb1ac088584a9508fb571a3ebff|0,123424s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/scratch_004.ogg|2788fa3095b79ae4f9e945eea32900f0|0,3250794s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/scratch_005.ogg|96e04166130dfd74c9102634a6821777|0,3250794s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/scroll_001.ogg|876429dc7cb7f954a9a18890f8dd0e3f|1,000023s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/scroll_002.ogg|8e9c5c26dabd854498279e3f276ab0e4|1,000023s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/scroll_003.ogg|5367407e9483b074199427ab4fe03cbc|1,000023s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/scroll_004.ogg|b490f07d9fdec7b4baf076756e962411|1,000023s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/scroll_005.ogg|abbb7504db3fa6a43ae2b56fc3e7bc04|1,000023s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/select_001.ogg|32bd9aa2a4aff6a4aaed0fb8cacebf28|0,04328798s|2 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/select_002.ogg|6aed20c86c4307d448a6b2fc4c77ccb1|0,04328798s|2 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/select_003.ogg|9ffcbadc9dca96549bda7fa5d0e9c7dd|0,3827664s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/select_004.ogg|9fef521fb5065084ca0801d8b65db002|0,3827664s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/select_005.ogg|17908bedd9aab8743ad5e5744027b64e|0,3827664s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/select_006.ogg|579be3972ee58584ca5ddf0e9684caf1|1,943923s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/select_007.ogg|da3940f716c63f644bb28c89fbf84177|0,04693878s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/select_008.ogg|2adac9497927c03489e1d0b2612fddae|0,04693878s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/switch_001.ogg|b223b848e93249442b304fd3fa447686|0,6176644s|2 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/switch_002.ogg|be95a6ad3d41ef346ae0815a3df62947|0,6109524s|2 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/switch_003.ogg|41cc82e0537cb6f4c94538a678caf147|0,5s|2 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/switch_004.ogg|1a77ce399817e8a4288826f38a796ca7|0,5s|2 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/switch_005.ogg|4df290e932a6a6646883cb785ac2a321|0,6119274s|2 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/switch_006.ogg|22d5d7e7caaa9194a9559dcd62b4a9d7|0,6105442s|2 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/switch_007.ogg|d88cbd6e6a57dbd40a8158b9dcc5cb20|0,6143537s|2 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/tick_001.ogg|849b66f4f7d1e314781c6d3336fe9d00|0,02321995s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/tick_002.ogg|222e25ebb8300d84ab243060ffa76939|0,02321995s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/tick_004.ogg|b50610edf27fcc24b97d603313bd7390|0,05480726s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/toggle_001.ogg|edcca729f73874d438759d4c711abf70|0,1393197s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/toggle_002.ogg|5bc17fdde5008e54a8edd9e8421342fc|0,1393197s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/toggle_003.ogg|2364b0661ba588f428de7ebb6131b236|0,1393197s|1 canais|44100Hz
+AUDIO|Assets/kenney_interface-sounds/Audio/toggle_004.ogg|e3c938aa6fd971f4ea6f47bf77a12236|0,0661678s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/computerNoise_000.ogg|de81e13142c02af489252ae332a57152|5s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/computerNoise_001.ogg|c83b5be82eb52484aaf050095c74287a|5s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/computerNoise_002.ogg|85f940f22c0b90b4bad61abb6f396d99|5s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/computerNoise_003.ogg|ce88a8813288ed249892e66d3aa177a5|5s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/doorClose_000.ogg|a78440a6ce1275b4489a99853d18a7f4|0,53161s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/doorClose_001.ogg|30f240929078d9542bfb4700d45e4615|0,5285941s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/doorClose_002.ogg|bb1bf355097a3a34c83afe882131b080|0,532585s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/doorOpen_000.ogg|1e547821f2f83734892758f84621a69b|0,53161s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/doorOpen_001.ogg|e3821bb1ab5f6f1409b35ae50a48fa29|0,5285941s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/doorOpen_002.ogg|dc6520b3ef394e946b4ea5d00ccb7372|0,532585s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/engineCircular_000.ogg|915f6287e3bf48745ac4597eac048383|5s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/engineCircular_001.ogg|53aa5f1d53a7db248a96d321eb667948|5s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/engineCircular_002.ogg|3de946126c68d9444895eec0ac5087bf|5s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/engineCircular_003.ogg|17f3a95dbbf5d534ab77fc1f74f00511|5s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/engineCircular_004.ogg|fc4a25f4e3db44449ae3125551cd8ed7|5s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/explosionCrunch_000.ogg|909fafc502d0b08459bd09c420c9c83e|0,7774603s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/explosionCrunch_001.ogg|0761e7867a5ec8646ba18845f0322022|1,35678s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/explosionCrunch_002.ogg|5f4e22fdb3b013247b9e5d768425cd69|1,25576s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/explosionCrunch_003.ogg|9f5e08b29d961434d81e07ab8935816e|1,553401s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/explosionCrunch_004.ogg|10a71fbf68bf60c4092ade3d9945323c|1,980136s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/forceField_000.ogg|70debe3a7981d2740a00fcfce8e9a4c1|0,9540136s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/forceField_001.ogg|d4bc13a5244a06143bc8767fba0c71ed|0,953424s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/forceField_002.ogg|b53017fb72b6907429305e3deccbdcde|0,9550794s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/forceField_003.ogg|829a7fe6f2b72864981466a540eae630|0,955941s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/forceField_004.ogg|9366952310448a54a92620bb4c853fc3|0,9544445s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/impactMetal_000.ogg|b34c4ae7011121d4f8b7e5c5a8b0e43a|0,6348979s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/impactMetal_001.ogg|2b31138bf7d026940918874e728f443b|0,6875737s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/impactMetal_002.ogg|9132716b0d86e0a47842cea6b1fadcdf|0,4711111s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/impactMetal_003.ogg|68c88b70f3dd623479c83a271cf407eb|0,7767801s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/impactMetal_004.ogg|a386c0051e86edf45a057da5cada0ac7|0,3895238s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/laserLarge_000.ogg|0e845f8e347011d408b49a112e0c0cb3|0,676644s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/laserLarge_001.ogg|a81a3a8592d68084a9e106e5dc97b0c4|0,7209978s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/laserLarge_002.ogg|aee29d8e18ccecd419069587fe46947b|0,7435828s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/laserLarge_003.ogg|2ae7c1d62f1190e43b90a9b301c66c77|0,7157823s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/laserLarge_004.ogg|218c0a1879cbdc44fa0fbc9bbf497086|0,6931973s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/laserRetro_000.ogg|238b4756e67d79d47bfc59ef62454bc1|0,2354195s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/laserRetro_001.ogg|e6e7b344b8809a543833332b3cf7273b|0,2355102s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/laserRetro_002.ogg|50f670d61eaeada4082ae3cec2ff19b0|0,2550567s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/laserRetro_003.ogg|56555e8a9e5ee1d48ab6fb941d0fee69|0,2547846s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/laserRetro_004.ogg|6fabc46477675874db74cf7663ca9cb9|0,2786395s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/laserSmall_000.ogg|8082e9e55bf4ebe4286c503e70163571|0,2392063s|2 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/laserSmall_001.ogg|05f9ff4626f7c7d4cbfe7798da89e74a|0,2473469s|2 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/laserSmall_002.ogg|f820b129cc96ac048b458a7e90fc3101|0,344263s|2 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/laserSmall_003.ogg|d793890164fa8ad4aa6667a44ff3be09|0,3003628s|2 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/laserSmall_004.ogg|35df622d27ab72d4a8fba040712354af|0,4143311s|2 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/lowFrequency_explosion_000.ogg|0ae0d02562ec7dd42a5af095354db87a|2,000045s|2 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/lowFrequency_explosion_001.ogg|967795e8e780f8a45b52ac1075cf8630|1,000045s|2 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/slime_000.ogg|3ff8a5f8dfe2b13489f0c414875a3f4a|0,5s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/slime_001.ogg|b3ec497602bb50e49a71c8d51d10140e|4,709841s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/spaceEngine_000.ogg|c80630732e1e554428203a483d991f24|5s|2 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/spaceEngine_001.ogg|8311817df0b58884e9c89422a2e1731d|5s|2 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/spaceEngine_002.ogg|1bc70915625f48243b4b7a354248e3c3|5,000045s|2 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/spaceEngine_003.ogg|803992c4948368a44a9233b54e847990|5,000045s|2 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/spaceEngineLarge_000.ogg|b462fe85537533f43bb0fe667a741e7b|5s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/spaceEngineLarge_001.ogg|c76df2f5aaa3b3142bd5031328a6aa10|5s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/spaceEngineLarge_002.ogg|b0e3315c877fcec42b86d7424d1e4ce4|5s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/spaceEngineLarge_003.ogg|c59b01e07dd2f3e48a9b4019c294bcc3|5s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/spaceEngineLarge_004.ogg|91ce33899065198449c62b645fa7a0c9|5s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/spaceEngineLow_000.ogg|5b345a3c28fd9804ea982adc356304c4|5s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/spaceEngineLow_001.ogg|d082efb40091e0b459327bc102da7481|5s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/spaceEngineLow_002.ogg|b30f6daaf626d2c46b7a07a3a65d879a|5s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/spaceEngineLow_003.ogg|1039b3a7448c1264b9c4714126fec6cd|5s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/spaceEngineLow_004.ogg|1fe44dc456e50a2478230ce9433750cf|5s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/spaceEngineSmall_000.ogg|b02385a48756df34c94a0b8244bf49a9|5s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/spaceEngineSmall_001.ogg|7afe443b27fd42e4cac10c260dd4f27f|5s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/spaceEngineSmall_002.ogg|b20a71aee9cd39b42883d3f8a60b90c1|5s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/spaceEngineSmall_003.ogg|7e9d955b3c1e85e4ea22b346b39c68ab|5s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/spaceEngineSmall_004.ogg|3c15a9db4430e7948b913e8e68b01bcd|5s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/thrusterFire_000.ogg|6c41802e9810de84db48ef89dd897787|5s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/thrusterFire_001.ogg|f5ea3b3b5be1d214699e1045fa3fc9f8|5s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/thrusterFire_002.ogg|098373e2eed11c04dad5c0a6c01ed0bc|5s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/thrusterFire_003.ogg|54c56e0b9cc021e4ebf1e3f387cf162b|5s|1 canais|44100Hz
+AUDIO|Assets/kenney_sci-fi-sounds/Audio/thrusterFire_004.ogg|0e1a9353fe660a045b45849da8a83b10|5s|1 canais|44100Hz
+ANIM|Attack|0,4166667|loop=True
+ANIM|Bounce|0,4166667|loop=True
+ANIM|Clicked|0,4166667|loop=True
+ANIM|Death|0,4166667|loop=False
+ANIM|Eat|0,4166667|loop=True
+ANIM|Fear|0,4166667|loop=True
+ANIM|Fly|0,4166667|loop=True
+ANIM|Hit|0,4166667|loop=True
+ANIM|Idle_A|0,4166667|loop=True
+ANIM|Idle_B|0,4166667|loop=True
+ANIM|Idle_C|0,4166667|loop=True
+ANIM|Jump|0,4166667|loop=True
+ANIM|Roll|0,4166667|loop=True
+ANIM|Run|0,4166667|loop=True
+ANIM|Sit|0,4166667|loop=True
+ANIM|Spin|0,4166667|loop=True
+ANIM|Swim|0,4166667|loop=True
+ANIM|Walk|0,4166667|loop=True
+ANIM|Eyes_Annoyed|0,4|loop=True
+ANIM|Eyes_Blink|1,5|loop=True
+ANIM|Eyes_Cry|0,3333333|loop=True
+ANIM|Eyes_Dead|0,4|loop=False
+ANIM|Eyes_Excited|0,4|loop=True
+ANIM|Eyes_Happy|0,4|loop=True
+ANIM|Eyes_LookDown|0,4|loop=True
+ANIM|Eyes_LookIn|0,4|loop=True
+ANIM|Eyes_LookOut|0,4|loop=True
+ANIM|Eyes_LookUp|0,4|loop=True
+ANIM|Eyes_Rabid|0,4|loop=True
+ANIM|Eyes_Sad|0,4|loop=True
+ANIM|Eyes_Shrink|0,4|loop=True
+ANIM|Eyes_Sleep|0,4|loop=True
+ANIM|Eyes_Spin|0,4|loop=True
+ANIM|Eyes_Squint|0,4|loop=True
+ANIM|Eyes_Trauma|0,4|loop=True
+ANIM|Sweat_L|0,6666667|loop=True
+ANIM|Sweat_R|0,6666667|loop=True
+ANIM|Teardrop_L|0,6666667|loop=True
+ANIM|Teardrop_R|0,6666667|loop=True
+SOLID|Arquitetura/Floor_01_001|pos=(-4.00, -0.12, -3.33)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 1.67)|colliders=BoxCollider:Floor_01_001
+SOLID|Arquitetura/Roof_01_002|pos=(-4.00, 3.92, -3.33)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 1.67)|colliders=BoxCollider:Roof_01_002
+SOLID|Arquitetura/Floor_01_003|pos=(-4.00, -0.12, 0.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 1.67)|colliders=BoxCollider:Floor_01_003
+SOLID|Arquitetura/Roof_01_004|pos=(-4.00, 3.92, 0.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 1.67)|colliders=BoxCollider:Roof_01_004
+SOLID|Arquitetura/Floor_01_005|pos=(-4.00, -0.12, 3.33)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 1.67)|colliders=BoxCollider:Floor_01_005
+SOLID|Arquitetura/Roof_01_006|pos=(-4.00, 3.92, 3.33)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 1.67)|colliders=BoxCollider:Roof_01_006
+SOLID|Arquitetura/Floor_01_007|pos=(0.00, -0.12, -3.33)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 1.67)|colliders=BoxCollider:Floor_01_007
+SOLID|Arquitetura/Roof_01_008|pos=(0.00, 3.92, -3.33)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 1.67)|colliders=BoxCollider:Roof_01_008
+SOLID|Arquitetura/Floor_01_009|pos=(0.00, -0.12, 0.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 1.67)|colliders=BoxCollider:Floor_01_009
+SOLID|Arquitetura/Roof_01_010|pos=(0.00, 3.92, 0.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 1.67)|colliders=BoxCollider:Roof_01_010
+SOLID|Arquitetura/Floor_01_011|pos=(0.00, -0.12, 3.33)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 1.67)|colliders=BoxCollider:Floor_01_011
+SOLID|Arquitetura/Roof_01_012|pos=(0.00, 3.92, 3.33)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 1.67)|colliders=BoxCollider:Roof_01_012
+SOLID|Arquitetura/Floor_01_013|pos=(4.00, -0.12, -3.33)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 1.67)|colliders=BoxCollider:Floor_01_013
+SOLID|Arquitetura/Roof_01_014|pos=(4.00, 3.92, -3.33)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 1.67)|colliders=BoxCollider:Roof_01_014
+SOLID|Arquitetura/Floor_01_015|pos=(4.00, -0.12, 0.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 1.67)|colliders=BoxCollider:Floor_01_015
+SOLID|Arquitetura/Roof_01_016|pos=(4.00, 3.92, 0.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 1.67)|colliders=BoxCollider:Roof_01_016
+SOLID|Arquitetura/Floor_01_017|pos=(4.00, -0.12, 3.33)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 1.67)|colliders=BoxCollider:Floor_01_017
+SOLID|Arquitetura/Roof_01_018|pos=(4.00, 3.92, 3.33)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 1.67)|colliders=BoxCollider:Roof_01_018
+SOLID|Arquitetura/WallAstra_Straight_019|pos=(-4.88, 1.90, 5.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.13, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_019
+SOLID|Arquitetura/TopAstra_Straight_020|pos=(-4.88, 3.64, 5.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.13, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_021|pos=(-4.88, 0.10, 5.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.13, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_022|pos=(-2.63, 1.90, 5.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.13, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_022
+SOLID|Arquitetura/TopAstra_Straight_023|pos=(-2.63, 3.64, 5.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.13, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_024|pos=(-2.63, 0.10, 5.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.13, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_025|pos=(2.63, 1.90, 5.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.13, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_025
+SOLID|Arquitetura/TopAstra_Straight_026|pos=(2.63, 3.64, 5.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.13, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_027|pos=(2.63, 0.10, 5.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.13, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_028|pos=(4.88, 1.90, 5.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.13, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_028
+SOLID|Arquitetura/TopAstra_Straight_029|pos=(4.88, 3.64, 5.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.13, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_030|pos=(4.88, 0.10, 5.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.13, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_031|pos=(-4.50, 1.90, -5.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_031
+SOLID|Arquitetura/TopAstra_Straight_032|pos=(-4.50, 3.64, -5.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_033|pos=(-4.50, 0.10, -5.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_034|pos=(-1.50, 1.90, -5.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_034
+SOLID|Arquitetura/TopAstra_Straight_035|pos=(-1.50, 3.64, -5.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_036|pos=(-1.50, 0.10, -5.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_037|pos=(1.50, 1.90, -5.00)|bounds=Center: (0.00, -0.01, 0.01), Extents: (1.50, 1.91, 0.11)|colliders=BoxCollider:WallAstra_Straight_037
+SOLID|Arquitetura/TopAstra_Straight_038|pos=(1.50, 3.64, -5.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_039|pos=(1.50, 0.10, -5.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_040|pos=(4.50, 1.90, -5.00)|bounds=Center: (0.00, 0.00, 0.28), Extents: (1.50, 1.90, 0.03)|colliders=BoxCollider:WallAstra_Straight_040
+SOLID|Arquitetura/TopAstra_Straight_041|pos=(4.50, 3.64, -5.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_042|pos=(4.50, 0.10, -5.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_043|pos=(6.00, 1.90, -3.75)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_043
+SOLID|Arquitetura/TopAstra_Straight_044|pos=(6.00, 3.64, -3.75)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_045|pos=(6.00, 0.10, -3.75)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_046|pos=(6.00, 1.90, -1.25)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_046
+SOLID|Arquitetura/TopAstra_Straight_047|pos=(6.00, 3.64, -1.25)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_048|pos=(6.00, 0.10, -1.25)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_049|pos=(6.00, 1.90, 1.25)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_049
+SOLID|Arquitetura/TopAstra_Straight_050|pos=(6.00, 3.64, 1.25)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_051|pos=(6.00, 0.10, 1.25)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_052|pos=(6.00, 1.90, 3.75)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_052
+SOLID|Arquitetura/TopAstra_Straight_053|pos=(6.00, 3.64, 3.75)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_054|pos=(6.00, 0.10, 3.75)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_055|pos=(-6.00, 1.90, -3.75)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_055
+SOLID|Arquitetura/TopAstra_Straight_056|pos=(-6.00, 3.64, -3.75)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_057|pos=(-6.00, 0.10, -3.75)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_058|pos=(-6.00, 1.90, -1.25)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_058
+SOLID|Arquitetura/TopAstra_Straight_059|pos=(-6.00, 3.64, -1.25)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_060|pos=(-6.00, 0.10, -1.25)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_061|pos=(-6.00, 1.90, 1.25)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_061
+SOLID|Arquitetura/TopAstra_Straight_062|pos=(-6.00, 3.64, 1.25)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_063|pos=(-6.00, 0.10, 1.25)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_064|pos=(-6.00, 1.90, 3.75)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_064
+SOLID|Arquitetura/TopAstra_Straight_065|pos=(-6.00, 3.64, 3.75)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_066|pos=(-6.00, 0.10, 3.75)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.10, 0.14)|colliders=
+SOLID|Iluminacao/Prop_Light_Wide_067|pos=(0.00, 3.67, 0.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.80, 0.08, 0.25)|colliders=
+SOLID|Passagem_CORREDOR / DEPOSITO/Door_Frame_Square_875|pos=(0.00, 1.65, 5.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.70, 1.65, 0.12)|colliders=
+SOLID|Passagem_CORREDOR / DEPOSITO/Door_Left_01_876|pos=(2.00, 1.40, 5.16)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.38, 1.40, 0.09)|colliders=BoxCollider:Door_Left_01_876
+SOLID|01_Contencao/Column_Hollow_891|pos=(-4.00, 1.40, -2.00)|bounds=Center: (-1.46, 0.00, 0.00), Extents: (0.34, 1.40, 0.34)|colliders=BoxCollider:Column_Hollow_891
+SOLID|01_Contencao/Prop_ItemHolder_892|pos=(-4.00, 0.36, 1.60)|bounds=Center: (5.91, 0.00, -4.83), Extents: (2.13, 0.36, 1.44)|colliders=BoxCollider:Prop_ItemHolder_892
+SOLID|01_Contencao/Column_Astra_893|pos=(4.50, 0.88, -2.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.09, 0.88, 0.35)|colliders=BoxCollider:Column_Astra_893
+SOLID|01_Contencao/Office_Table Metal Variant_894|pos=(3.50, 0.43, 1.50)|bounds=Center: (0.00, 0.00, 2.82), Extents: (0.86, 0.43, 0.43)|colliders=BoxCollider:Office_Table Metal Variant_894
+SOLID|01_Contencao/Office_PC 2_895|pos=(3.50, 1.17, 1.50)|bounds=Center: (0.00, 0.00, 2.85), Extents: (0.18, 0.32, 0.33)|colliders=BoxCollider:Office_PC 2_895
+SOLID|01_Contencao/Office_Stool_896|pos=(3.50, 0.35, -0.20)|bounds=Center: (0.00, 0.00, 3.40), Extents: (0.13, 0.35, 0.13)|colliders=BoxCollider:Office_Stool_896
+SOLID|01_Contencao/Prop_AccessPoint_897|pos=(-5.70, 1.60, 2.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.22, 0.08, 0.07)|colliders=
+SOLID|01_Contencao/Door_Arch_01_898|pos=(0.00, 1.50, -4.75)|bounds=Center: (-1.90, 0.00, 0.00), Extents: (0.30, 0.37, 0.10)|colliders=
+SOLID|01_Contencao/Light_01_899|pos=(-4.00, 2.80, -4.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.15, 0.02, 0.15)|colliders=
+SOLID|01_Contencao/Prop_Cable_1_900|pos=(-5.70, 2.60, -1.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.10, 0.01, 0.16)|colliders=
+SOLID|Arquitetura/Floor_01_068|pos=(0.00, -0.12, 7.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_068
+SOLID|Arquitetura/Roof_01_069|pos=(0.00, 3.92, 7.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_069
+SOLID|Arquitetura/Floor_01_070|pos=(0.00, -0.12, 11.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_070
+SOLID|Arquitetura/Roof_01_071|pos=(0.00, 3.92, 11.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_071
+SOLID|Arquitetura/WallAstra_Straight_072|pos=(-1.75, 1.90, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.25, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_072
+SOLID|Arquitetura/TopSimple_Straight_073|pos=(-1.75, 3.64, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.25, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_074|pos=(-1.75, 0.10, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.25, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_075|pos=(1.75, 1.90, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.25, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_075
+SOLID|Arquitetura/TopSimple_Straight_076|pos=(1.75, 3.64, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.25, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_077|pos=(1.75, 0.10, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.25, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_078|pos=(2.00, 1.90, 6.33)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_078
+SOLID|Arquitetura/TopSimple_Straight_079|pos=(2.00, 3.64, 6.33)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_080|pos=(2.00, 0.10, 6.33)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_081|pos=(2.00, 1.90, 9.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_081
+SOLID|Arquitetura/TopSimple_Straight_082|pos=(2.00, 3.64, 9.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_083|pos=(2.00, 0.10, 9.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_084|pos=(2.00, 1.90, 11.67)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_084
+SOLID|Arquitetura/TopSimple_Straight_085|pos=(2.00, 3.64, 11.67)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_086|pos=(2.00, 0.10, 11.67)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_087|pos=(-2.00, 1.90, 6.15)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.15, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_087
+SOLID|Arquitetura/TopSimple_Straight_088|pos=(-2.00, 3.64, 6.15)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.15, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_089|pos=(-2.00, 0.10, 6.15)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.15, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_090|pos=(-2.00, 1.90, 11.85)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.15, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_090
+SOLID|Arquitetura/TopSimple_Straight_091|pos=(-2.00, 3.64, 11.85)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.15, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_092|pos=(-2.00, 0.10, 11.85)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.15, 0.10, 0.14)|colliders=
+SOLID|Iluminacao/Prop_Light_Wide_093|pos=(0.00, 3.67, 9.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.80, 0.08, 0.25)|colliders=
+SOLID|Eixo_Contencao_Deposito/Prop_Vent_Small_1003|pos=(1.75, 2.70, 6.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.16, 0.02, 0.10)|colliders=
+SOLID|Eixo_Contencao_Deposito/Surveillance_1004|pos=(1.50, 3.10, 11.80)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.09, 0.28, 0.38)|colliders=
+SOLID|Eixo_Contencao_Deposito/Prop_Cable_1_1005|pos=(1.72, 3.40, 9.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.10, 0.01, 0.16)|colliders=
+SOLID|Arquitetura/Floor_01_173|pos=(-3.50, -0.12, 9.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.50, 0.00, 2.00)|colliders=BoxCollider:Floor_01_173
+SOLID|Arquitetura/Roof_01_174|pos=(-3.50, 3.92, 9.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.12, 2.00)|colliders=BoxCollider:Roof_01_174
+SOLID|Arquitetura/WallAstra_Straight_175|pos=(-3.50, 1.90, 11.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_175
+SOLID|Arquitetura/TopSimple_Straight_176|pos=(-3.50, 3.64, 11.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_177|pos=(-3.50, 0.10, 11.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_178|pos=(-3.50, 1.90, 7.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_178
+SOLID|Arquitetura/TopSimple_Straight_179|pos=(-3.50, 3.64, 7.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_180|pos=(-3.50, 0.10, 7.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.10, 0.14)|colliders=
+SOLID|Iluminacao/Prop_Light_Wide_181|pos=(-3.50, 3.67, 9.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.80, 0.08, 0.25)|colliders=
+SOLID|Arquitetura/Floor_01_398|pos=(9.00, -0.12, 21.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_398
+SOLID|Arquitetura/Roof_01_399|pos=(9.00, 3.92, 21.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_399
+SOLID|Arquitetura/WallAstra_Straight_400|pos=(9.00, 1.90, 23.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_400
+SOLID|Arquitetura/TopSimple_Straight_401|pos=(9.00, 3.64, 23.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_402|pos=(9.00, 0.10, 23.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_403|pos=(9.00, 1.90, 19.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_403
+SOLID|Arquitetura/TopSimple_Straight_404|pos=(9.00, 3.64, 19.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_405|pos=(9.00, 0.10, 19.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 0.10, 0.14)|colliders=
+SOLID|Iluminacao/Prop_Light_Wide_406|pos=(9.00, 3.67, 21.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.80, 0.08, 0.25)|colliders=
+SOLID|Arquitetura/Floor_01_480|pos=(20.00, -0.12, 31.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_480
+SOLID|Arquitetura/Roof_01_481|pos=(20.00, 3.92, 31.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_481
+SOLID|Arquitetura/WallAstra_Straight_482|pos=(22.00, 1.90, 30.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_482
+SOLID|Arquitetura/TopSimple_Straight_483|pos=(22.00, 3.64, 30.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_484|pos=(22.00, 0.10, 30.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_485|pos=(22.00, 1.90, 32.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_485
+SOLID|Arquitetura/TopSimple_Straight_486|pos=(22.00, 3.64, 32.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_487|pos=(22.00, 0.10, 32.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_488|pos=(18.00, 1.90, 30.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_488
+SOLID|Arquitetura/TopSimple_Straight_489|pos=(18.00, 3.64, 30.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_490|pos=(18.00, 0.10, 30.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_491|pos=(18.00, 1.90, 32.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_491
+SOLID|Arquitetura/TopSimple_Straight_492|pos=(18.00, 3.64, 32.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_493|pos=(18.00, 0.10, 32.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 0.10, 0.14)|colliders=
+SOLID|Iluminacao/Prop_Light_Wide_494|pos=(20.00, 3.67, 31.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.80, 0.08, 0.25)|colliders=
+SOLID|Arquitetura/Floor_01_684|pos=(18.75, -0.12, 47.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.25, 0.00, 2.00)|colliders=BoxCollider:Floor_01_684
+SOLID|Arquitetura/Roof_01_685|pos=(18.75, 3.92, 47.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.12, 2.00)|colliders=BoxCollider:Roof_01_685
+SOLID|Arquitetura/Floor_01_686|pos=(21.25, -0.12, 47.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.25, 0.00, 2.00)|colliders=BoxCollider:Floor_01_686
+SOLID|Arquitetura/Roof_01_687|pos=(21.25, 3.92, 47.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.12, 2.00)|colliders=BoxCollider:Roof_01_687
+SOLID|Arquitetura/WallAstra_Straight_688|pos=(22.50, 1.90, 46.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_688
+SOLID|Arquitetura/TopSimple_Straight_689|pos=(22.50, 3.64, 46.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_690|pos=(22.50, 0.10, 46.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_691|pos=(22.50, 1.90, 48.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_691
+SOLID|Arquitetura/TopSimple_Straight_692|pos=(22.50, 3.64, 48.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_693|pos=(22.50, 0.10, 48.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_694|pos=(17.50, 1.90, 46.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_694
+SOLID|Arquitetura/TopSimple_Straight_695|pos=(17.50, 3.64, 46.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_696|pos=(17.50, 0.10, 46.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_697|pos=(17.50, 1.90, 48.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_697
+SOLID|Arquitetura/TopSimple_Straight_698|pos=(17.50, 3.64, 48.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_699|pos=(17.50, 0.10, 48.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 0.10, 0.14)|colliders=
+SOLID|Iluminacao/Prop_Light_Wide_700|pos=(20.00, 3.67, 47.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.80, 0.08, 0.25)|colliders=
+SOLID|Arquitetura/Floor_01_784|pos=(-9.00, -0.12, 23.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_784
+SOLID|Arquitetura/Roof_01_785|pos=(-9.00, 3.92, 23.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_785
+SOLID|Arquitetura/WallAstra_Straight_786|pos=(-9.00, 1.90, 25.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_786
+SOLID|Arquitetura/TopSimple_Straight_787|pos=(-9.00, 3.64, 25.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_788|pos=(-9.00, 0.10, 25.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_789|pos=(-9.00, 1.90, 21.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_789
+SOLID|Arquitetura/TopSimple_Straight_790|pos=(-9.00, 3.64, 21.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_791|pos=(-9.00, 0.10, 21.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 0.10, 0.14)|colliders=
+SOLID|Iluminacao/Prop_Light_Wide_792|pos=(-9.00, 3.67, 23.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.80, 0.08, 0.25)|colliders=
+SOLID|Arquitetura/Floor_01_860|pos=(29.00, -0.12, 37.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_860
+SOLID|Arquitetura/Roof_01_861|pos=(29.00, 3.92, 37.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_861
+SOLID|Arquitetura/WallAstra_Straight_862|pos=(28.00, 1.90, 39.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_862
+SOLID|Arquitetura/TopSimple_Straight_863|pos=(28.00, 3.64, 39.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_864|pos=(28.00, 0.10, 39.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_865|pos=(30.00, 1.90, 39.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_865
+SOLID|Arquitetura/TopSimple_Straight_866|pos=(30.00, 3.64, 39.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_867|pos=(30.00, 0.10, 39.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_868|pos=(28.00, 1.90, 35.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_868
+SOLID|Arquitetura/TopSimple_Straight_869|pos=(28.00, 3.64, 35.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_870|pos=(28.00, 0.10, 35.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_871|pos=(30.00, 1.90, 35.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_871
+SOLID|Arquitetura/TopSimple_Straight_872|pos=(30.00, 3.64, 35.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_873|pos=(30.00, 0.10, 35.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 0.10, 0.13)|colliders=
+SOLID|Iluminacao/Prop_Light_Wide_874|pos=(29.00, 3.67, 37.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.80, 0.08, 0.25)|colliders=
+SOLID|Arquitetura/Floor_01_094|pos=(-17.25, -0.12, 5.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.75, 0.00, 2.00)|colliders=BoxCollider:Floor_01_094
+SOLID|Arquitetura/Roof_01_095|pos=(-17.25, 3.92, 5.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.75, 0.12, 2.00)|colliders=BoxCollider:Roof_01_095
+SOLID|Arquitetura/Floor_01_096|pos=(-17.25, -0.12, 9.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.75, 0.00, 2.00)|colliders=BoxCollider:Floor_01_096
+SOLID|Arquitetura/Roof_01_097|pos=(-17.25, 3.92, 9.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.75, 0.12, 2.00)|colliders=BoxCollider:Roof_01_097
+SOLID|Arquitetura/Floor_01_098|pos=(-17.25, -0.12, 13.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.75, 0.00, 2.00)|colliders=BoxCollider:Floor_01_098
+SOLID|Arquitetura/Roof_01_099|pos=(-17.25, 3.92, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.75, 0.12, 2.00)|colliders=BoxCollider:Roof_01_099
+SOLID|Arquitetura/Floor_01_100|pos=(-13.75, -0.12, 5.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.75, 0.00, 2.00)|colliders=BoxCollider:Floor_01_100
+SOLID|Arquitetura/Roof_01_101|pos=(-13.75, 3.92, 5.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.75, 0.12, 2.00)|colliders=BoxCollider:Roof_01_101
+SOLID|Arquitetura/Floor_01_102|pos=(-13.75, -0.12, 9.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.75, 0.00, 2.00)|colliders=BoxCollider:Floor_01_102
+SOLID|Arquitetura/Roof_01_103|pos=(-13.75, 3.92, 9.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.75, 0.12, 2.00)|colliders=BoxCollider:Roof_01_103
+SOLID|Arquitetura/Floor_01_104|pos=(-13.75, -0.12, 13.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.75, 0.00, 2.00)|colliders=BoxCollider:Floor_01_104
+SOLID|Arquitetura/Roof_01_105|pos=(-13.75, 3.92, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.75, 0.12, 2.00)|colliders=BoxCollider:Roof_01_105
+SOLID|Arquitetura/Floor_01_106|pos=(-10.25, -0.12, 5.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.75, 0.00, 2.00)|colliders=BoxCollider:Floor_01_106
+SOLID|Arquitetura/Roof_01_107|pos=(-10.25, 3.92, 5.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.75, 0.12, 2.00)|colliders=BoxCollider:Roof_01_107
+SOLID|Arquitetura/Floor_01_108|pos=(-10.25, -0.12, 9.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.75, 0.00, 2.00)|colliders=BoxCollider:Floor_01_108
+SOLID|Arquitetura/Roof_01_109|pos=(-10.25, 3.92, 9.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.75, 0.12, 2.00)|colliders=BoxCollider:Roof_01_109
+SOLID|Arquitetura/Floor_01_110|pos=(-10.25, -0.12, 13.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.75, 0.00, 2.00)|colliders=BoxCollider:Floor_01_110
+SOLID|Arquitetura/Roof_01_111|pos=(-10.25, 3.92, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.75, 0.12, 2.00)|colliders=BoxCollider:Roof_01_111
+SOLID|Arquitetura/Floor_01_112|pos=(-6.75, -0.12, 5.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.75, 0.00, 2.00)|colliders=BoxCollider:Floor_01_112
+SOLID|Arquitetura/Roof_01_113|pos=(-6.75, 3.92, 5.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.75, 0.12, 2.00)|colliders=BoxCollider:Roof_01_113
+SOLID|Arquitetura/Floor_01_114|pos=(-6.75, -0.12, 9.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.75, 0.00, 2.00)|colliders=BoxCollider:Floor_01_114
+SOLID|Arquitetura/Roof_01_115|pos=(-6.75, 3.92, 9.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.75, 0.12, 2.00)|colliders=BoxCollider:Roof_01_115
+SOLID|Arquitetura/Floor_01_116|pos=(-6.75, -0.12, 13.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.75, 0.00, 2.00)|colliders=BoxCollider:Floor_01_116
+SOLID|Arquitetura/Roof_01_117|pos=(-6.75, 3.92, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.75, 0.12, 2.00)|colliders=BoxCollider:Roof_01_117
+SOLID|Arquitetura/WallBand_Straight_118|pos=(-17.60, 1.90, 15.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.40, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_118
+SOLID|Arquitetura/TopCables_Straight_119|pos=(-17.60, 3.64, 15.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.40, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_120|pos=(-17.60, 0.10, 15.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.40, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_121|pos=(-14.80, 1.90, 15.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.40, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_121
+SOLID|Arquitetura/TopCables_Straight_122|pos=(-14.80, 3.64, 15.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.40, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_123|pos=(-14.80, 0.10, 15.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.40, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_124|pos=(-12.00, 1.90, 15.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.40, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_124
+SOLID|Arquitetura/TopCables_Straight_125|pos=(-12.00, 3.64, 15.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.40, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_126|pos=(-12.00, 0.10, 15.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.40, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_127|pos=(-9.20, 1.90, 15.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.40, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_127
+SOLID|Arquitetura/TopCables_Straight_128|pos=(-9.20, 3.64, 15.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.40, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_129|pos=(-9.20, 0.10, 15.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.40, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_130|pos=(-6.40, 1.90, 15.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.40, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_130
+SOLID|Arquitetura/TopCables_Straight_131|pos=(-6.40, 3.64, 15.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.40, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_132|pos=(-6.40, 0.10, 15.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.40, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_133|pos=(-17.60, 1.90, 3.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.40, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_133
+SOLID|Arquitetura/TopCables_Straight_134|pos=(-17.60, 3.64, 3.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.40, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_135|pos=(-17.60, 0.10, 3.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.40, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_136|pos=(-14.80, 1.90, 3.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.40, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_136
+SOLID|Arquitetura/TopCables_Straight_137|pos=(-14.80, 3.64, 3.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.40, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_138|pos=(-14.80, 0.10, 3.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.40, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_139|pos=(-12.00, 1.90, 3.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.40, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_139
+SOLID|Arquitetura/TopCables_Straight_140|pos=(-12.00, 3.64, 3.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.40, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_141|pos=(-12.00, 0.10, 3.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.40, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_142|pos=(-9.20, 1.90, 3.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.40, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_142
+SOLID|Arquitetura/TopCables_Straight_143|pos=(-9.20, 3.64, 3.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.40, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_144|pos=(-9.20, 0.10, 3.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.40, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_145|pos=(-6.40, 1.90, 3.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.40, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_145
+SOLID|Arquitetura/TopCables_Straight_146|pos=(-6.40, 3.64, 3.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.40, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_147|pos=(-6.40, 0.10, 3.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.40, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_148|pos=(-5.00, 1.90, 4.08)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.08, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_148
+SOLID|Arquitetura/TopCables_Straight_149|pos=(-5.00, 3.64, 4.08)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.08, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_150|pos=(-5.00, 0.10, 4.08)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.08, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_151|pos=(-5.00, 1.90, 6.23)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.08, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_151
+SOLID|Arquitetura/TopCables_Straight_152|pos=(-5.00, 3.64, 6.23)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.08, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_153|pos=(-5.00, 0.10, 6.23)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.08, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_154|pos=(-5.00, 1.90, 11.78)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.08, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_154
+SOLID|Arquitetura/TopCables_Straight_155|pos=(-5.00, 3.64, 11.78)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.08, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_156|pos=(-5.00, 0.10, 11.78)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.08, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_157|pos=(-5.00, 1.90, 13.93)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.08, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_157
+SOLID|Arquitetura/TopCables_Straight_158|pos=(-5.00, 3.64, 13.93)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.08, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_159|pos=(-5.00, 0.10, 13.93)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.08, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_160|pos=(-19.00, 1.90, 4.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_160
+SOLID|Arquitetura/TopCables_Straight_161|pos=(-19.00, 3.64, 4.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_162|pos=(-19.00, 0.10, 4.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_163|pos=(-19.00, 1.90, 7.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_163
+SOLID|Arquitetura/TopCables_Straight_164|pos=(-19.00, 3.64, 7.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_165|pos=(-19.00, 0.10, 7.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_166|pos=(-19.00, 1.90, 10.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_166
+SOLID|Arquitetura/TopCables_Straight_167|pos=(-19.00, 3.64, 10.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_168|pos=(-19.00, 0.10, 10.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_169|pos=(-19.00, 1.90, 13.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_169
+SOLID|Arquitetura/TopCables_Straight_170|pos=(-19.00, 3.64, 13.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_171|pos=(-19.00, 0.10, 13.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.10, 0.14)|colliders=
+SOLID|Iluminacao/Prop_Light_Wide_172|pos=(-12.00, 3.67, 9.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.80, 0.08, 0.25)|colliders=
+SOLID|Passagem_03  ENERGIA/Door_Frame_A_877|pos=(-5.00, 1.65, 9.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.90, 1.65, 0.12)|colliders=
+SOLID|Passagem_03  ENERGIA/Door_Left_01_878|pos=(-4.84, 1.40, 6.80)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.38, 1.40, 0.09)|colliders=BoxCollider:Door_Left_01_878
+SOLID|03_Energia/Column_Pipes_901|pos=(-16.80, 1.65, 5.80)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.29, 1.65, 0.29)|colliders=BoxCollider:Column_Pipes_901
+SOLID|03_Energia/Column_Pipes_902|pos=(-16.80, 1.65, 12.20)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.29, 1.65, 0.29)|colliders=BoxCollider:Column_Pipes_902
+SOLID|03_Energia/Prop_Clamp_903|pos=(-15.00, 0.32, 6.00)|bounds=Center: (1.14, 0.00, 0.00), Extents: (1.10, 0.32, 0.90)|colliders=BoxCollider:Prop_Clamp_903
+SOLID|03_Energia/Storage_Electric_Box_01_904|pos=(-12.30, 0.78, 4.20)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.79, 0.78, 0.40)|colliders=BoxCollider:Storage_Electric_Box_01_904
+SOLID|03_Energia/Storage_Amp_Rack_01_905|pos=(-9.80, 0.34, 4.20)|bounds=Center: (-0.02, 0.00, 0.00), Extents: (1.44, 0.34, 0.38)|colliders=BoxCollider:Storage_Amp_Rack_01_905
+SOLID|03_Energia/Office_Server Rack_906|pos=(-17.80, 1.15, 9.20)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.32, 1.15, 0.27)|colliders=BoxCollider:Office_Server Rack_906
+SOLID|03_Energia/Prop_Vent_Big_907|pos=(-18.65, 2.30, 10.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.20, 0.01, 0.10)|colliders=
+SOLID|03_Energia/Prop_Cable_3_908|pos=(-13.50, 3.00, 3.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.46, 0.01, 0.13)|colliders=
+SOLID|03_Energia/Prop_Computer_909|pos=(-13.00, 1.50, 14.60)|bounds=Center: (0.02, -1.06, -0.29), Extents: (0.20, 0.42, 0.15)|colliders=
+SOLID|03_Energia/Prop_Light_Small_910|pos=(-13.00, 2.50, 14.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.25, 0.03, 0.06)|colliders=
+SOLID|Arquitetura/Floor_01_182|pos=(-6.00, -0.12, 15.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_182
+SOLID|Arquitetura/Roof_01_183|pos=(-6.00, 3.92, 15.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_183
+SOLID|Arquitetura/Floor_01_184|pos=(-6.00, -0.12, 19.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_184
+SOLID|Arquitetura/Roof_01_185|pos=(-6.00, 3.92, 19.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_185
+SOLID|Arquitetura/Floor_01_186|pos=(-6.00, -0.12, 23.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_186
+SOLID|Arquitetura/Roof_01_187|pos=(-6.00, 3.92, 23.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_187
+SOLID|Arquitetura/Floor_01_188|pos=(-6.00, -0.12, 27.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_188
+SOLID|Arquitetura/Roof_01_189|pos=(-6.00, 3.92, 27.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_189
+SOLID|Arquitetura/Floor_01_190|pos=(-2.00, -0.12, 15.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_190
+SOLID|Arquitetura/Roof_01_191|pos=(-2.00, 3.92, 15.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_191
+SOLID|Arquitetura/Floor_01_192|pos=(-2.00, -0.12, 19.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_192
+SOLID|Arquitetura/Roof_01_193|pos=(-2.00, 3.92, 19.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_193
+SOLID|Arquitetura/Floor_01_194|pos=(-2.00, -0.12, 23.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_194
+SOLID|Arquitetura/Roof_01_195|pos=(-2.00, 3.92, 23.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_195
+SOLID|Arquitetura/Floor_01_196|pos=(-2.00, -0.12, 27.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_196
+SOLID|Arquitetura/Roof_01_197|pos=(-2.00, 3.92, 27.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_197
+SOLID|Arquitetura/Floor_01_198|pos=(2.00, -0.12, 15.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_198
+SOLID|Arquitetura/Roof_01_199|pos=(2.00, 3.92, 15.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_199
+SOLID|Arquitetura/Floor_01_200|pos=(2.00, -0.12, 19.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_200
+SOLID|Arquitetura/Roof_01_201|pos=(2.00, 3.92, 19.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_201
+SOLID|Arquitetura/Floor_01_202|pos=(2.00, -0.12, 23.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_202
+SOLID|Arquitetura/Roof_01_203|pos=(2.00, 3.92, 23.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_203
+SOLID|Arquitetura/Floor_01_204|pos=(2.00, -0.12, 27.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_204
+SOLID|Arquitetura/Roof_01_205|pos=(2.00, 3.92, 27.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_205
+SOLID|Arquitetura/Floor_01_206|pos=(6.00, -0.12, 15.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_206
+SOLID|Arquitetura/Roof_01_207|pos=(6.00, 3.92, 15.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_207
+SOLID|Arquitetura/Floor_01_208|pos=(6.00, -0.12, 19.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_208
+SOLID|Arquitetura/Roof_01_209|pos=(6.00, 3.92, 19.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_209
+SOLID|Arquitetura/Floor_01_210|pos=(6.00, -0.12, 23.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_210
+SOLID|Arquitetura/Roof_01_211|pos=(6.00, 3.92, 23.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_211
+SOLID|Arquitetura/Floor_01_212|pos=(6.00, -0.12, 27.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_212
+SOLID|Arquitetura/Roof_01_213|pos=(6.00, 3.92, 27.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_213
+SOLID|Arquitetura/WallBand_Straight_214|pos=(-6.67, 1.90, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_214
+SOLID|Arquitetura/TopSimple_Straight_215|pos=(-6.67, 3.64, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_216|pos=(-6.67, 0.10, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_217|pos=(-4.00, 1.90, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_217
+SOLID|Arquitetura/TopSimple_Straight_218|pos=(-4.00, 3.64, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_219|pos=(-4.00, 0.10, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_220|pos=(-1.33, 1.90, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_220
+SOLID|Arquitetura/TopSimple_Straight_221|pos=(-1.33, 3.64, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_222|pos=(-1.33, 0.10, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_223|pos=(1.33, 1.90, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_223
+SOLID|Arquitetura/TopSimple_Straight_224|pos=(1.33, 3.64, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_225|pos=(1.33, 0.10, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_226|pos=(4.00, 1.90, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_226
+SOLID|Arquitetura/TopSimple_Straight_227|pos=(4.00, 3.64, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_228|pos=(4.00, 0.10, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_229|pos=(6.67, 1.90, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_229
+SOLID|Arquitetura/TopSimple_Straight_230|pos=(6.67, 3.64, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_231|pos=(6.67, 0.10, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_232|pos=(-6.50, 1.90, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_232
+SOLID|Arquitetura/TopSimple_Straight_233|pos=(-6.50, 3.64, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_234|pos=(-6.50, 0.10, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_235|pos=(-3.50, 1.90, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_235
+SOLID|Arquitetura/TopSimple_Straight_236|pos=(-3.50, 3.64, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_237|pos=(-3.50, 0.10, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_238|pos=(3.50, 1.90, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_238
+SOLID|Arquitetura/TopSimple_Straight_239|pos=(3.50, 3.64, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_240|pos=(3.50, 0.10, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_241|pos=(6.50, 1.90, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_241
+SOLID|Arquitetura/TopSimple_Straight_242|pos=(6.50, 3.64, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_243|pos=(6.50, 0.10, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_244|pos=(8.00, 1.90, 14.05)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_244
+SOLID|Arquitetura/TopSimple_Straight_245|pos=(8.00, 3.64, 14.05)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_246|pos=(8.00, 0.10, 14.05)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_247|pos=(8.00, 1.90, 16.15)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_247
+SOLID|Arquitetura/TopSimple_Straight_248|pos=(8.00, 3.64, 16.15)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_249|pos=(8.00, 0.10, 16.15)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_250|pos=(8.00, 1.90, 18.25)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_250
+SOLID|Arquitetura/TopSimple_Straight_251|pos=(8.00, 3.64, 18.25)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_252|pos=(8.00, 0.10, 18.25)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_253|pos=(8.00, 1.90, 23.75)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_253
+SOLID|Arquitetura/TopSimple_Straight_254|pos=(8.00, 3.64, 23.75)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_255|pos=(8.00, 0.10, 23.75)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_256|pos=(8.00, 1.90, 25.85)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_256
+SOLID|Arquitetura/TopSimple_Straight_257|pos=(8.00, 3.64, 25.85)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_258|pos=(8.00, 0.10, 25.85)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_259|pos=(8.00, 1.90, 27.95)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_259
+SOLID|Arquitetura/TopSimple_Straight_260|pos=(8.00, 3.64, 27.95)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_261|pos=(8.00, 0.10, 27.95)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_262|pos=(-8.00, 1.90, 14.38)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_262
+SOLID|Arquitetura/TopSimple_Straight_263|pos=(-8.00, 3.64, 14.38)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_264|pos=(-8.00, 0.10, 14.38)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_265|pos=(-8.00, 1.90, 17.15)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_265
+SOLID|Arquitetura/TopSimple_Straight_266|pos=(-8.00, 3.64, 17.15)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_267|pos=(-8.00, 0.10, 17.15)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_268|pos=(-8.00, 1.90, 19.92)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_268
+SOLID|Arquitetura/TopSimple_Straight_269|pos=(-8.00, 3.64, 19.92)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_270|pos=(-8.00, 0.10, 19.92)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_271|pos=(-8.00, 1.90, 25.78)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.08, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_271
+SOLID|Arquitetura/TopSimple_Straight_272|pos=(-8.00, 3.64, 25.78)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.08, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_273|pos=(-8.00, 0.10, 25.78)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.08, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_274|pos=(-8.00, 1.90, 27.93)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.08, 1.90, 0.11)|colliders=BoxCollider:WallBand_Straight_274
+SOLID|Arquitetura/TopSimple_Straight_275|pos=(-8.00, 3.64, 27.93)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.08, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_276|pos=(-8.00, 0.10, 27.93)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.08, 0.10, 0.14)|colliders=
+SOLID|Iluminacao/Prop_Light_Wide_277|pos=(0.00, 3.67, 18.20)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.80, 0.08, 0.25)|colliders=
+SOLID|Iluminacao/Prop_Light_Wide_278|pos=(0.00, 3.67, 23.80)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.80, 0.08, 0.25)|colliders=
+SOLID|Passagem_04  DEPOSITO/Door_Frame_Square_879|pos=(0.00, 1.65, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.70, 1.65, 0.12)|colliders=
+SOLID|Passagem_04  DEPOSITO/Door_Left_01_880|pos=(2.00, 1.40, 13.16)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.38, 1.40, 0.09)|colliders=BoxCollider:Door_Left_01_880
+SOLID|04_Deposito/Storage_Storage_Rack_01_911|pos=(-6.00, 1.25, 16.00)|bounds=Center: (-1.36, 0.00, 1.64), Extents: (0.44, 1.25, 2.21)|colliders=BoxCollider:Storage_Storage_Rack_01_911
+SOLID|04_Deposito/Storage_Storage_Rack_02_912|pos=(-6.00, 0.73, 26.20)|bounds=Center: (-1.26, 0.00, 0.26), Extents: (0.24, 0.73, 1.55)|colliders=BoxCollider:Storage_Storage_Rack_02_912
+SOLID|04_Deposito/Storage_EUR-Pallet_913|pos=(5.60, 0.10, 15.30)|bounds=Center: (0.47, 0.29, -0.82), Extents: (1.14, 0.50, 1.37)|colliders=BoxCollider:Storage_EUR-Pallet_913
+SOLID|04_Deposito/Storage_Crate_01_914|pos=(5.50, 0.60, 15.30)|bounds=Center: (-0.12, 0.26, -0.57), Extents: (1.44, 0.82, 1.17)|colliders=BoxCollider:Storage_Crate_01_914
+SOLID|04_Deposito/Storage_Crate_02_915|pos=(3.40, 0.60, 15.30)|bounds=Center: (1.16, 0.00, 0.21), Extents: (2.60, 0.69, 1.66)|colliders=BoxCollider:Storage_Crate_02_915
+SOLID|04_Deposito/Storage_Container_01_Blue_916|pos=(5.80, 0.49, 26.00)|bounds=Center: (0.86, 0.00, 0.62), Extents: (0.49, 0.49, 1.25)|colliders=BoxCollider:Storage_Container_01_Blue_916
+SOLID|04_Deposito/Prop_Crate3_917|pos=(3.60, 0.65, 26.80)|bounds=Center: (0.68, 0.00, 0.95), Extents: (0.65, 0.65, 0.65)|colliders=BoxCollider:Prop_Crate3_917
+SOLID|04_Deposito/Prop_Crate4_918|pos=(0.90, 0.75, 27.00)|bounds=Center: (5.83, 0.00, -2.82), Extents: (0.75, 0.75, 0.75)|colliders=BoxCollider:Prop_Crate4_918
+SOLID|04_Deposito/Storage_Barrel_01_919|pos=(-3.40, 0.53, 14.50)|bounds=Center: (-0.86, 0.00, 0.00), Extents: (0.43, 0.53, 0.43)|colliders=BoxCollider:Storage_Barrel_01_919
+SOLID|04_Deposito/Storage_Barrel_02_920|pos=(-2.20, 0.37, 14.50)|bounds=Center: (-1.63, 0.00, -0.81), Extents: (0.43, 0.37, 0.42)|colliders=BoxCollider:Storage_Barrel_02_920
+SOLID|04_Deposito/Prop_Barrel_Large_921|pos=(-1.00, 0.75, 14.50)|bounds=Center: (3.47, 0.00, -0.73), Extents: (5.09, 0.75, 0.53)|colliders=BoxCollider:Prop_Barrel_Large_921
+SOLID|04_Deposito/Storage_Cabinet_01_922|pos=(-6.90, 0.59, 20.50)|bounds=Center: (0.00, 0.00, -0.49), Extents: (0.42, 0.59, 0.40)|colliders=BoxCollider:Storage_Cabinet_01_922
+SOLID|04_Deposito/Prop_Light_Floor_923|pos=(7.60, 0.20, 20.80)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.13, 0.02, 0.05)|colliders=
+SOLID|Arquitetura/Floor_01_279|pos=(12.00, -0.12, 15.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_279
+SOLID|Arquitetura/Roof_01_280|pos=(12.00, 3.92, 15.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_280
+SOLID|Arquitetura/Floor_01_281|pos=(12.00, -0.12, 19.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_281
+SOLID|Arquitetura/Roof_01_282|pos=(12.00, 3.92, 19.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_282
+SOLID|Arquitetura/Floor_01_283|pos=(12.00, -0.12, 23.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_283
+SOLID|Arquitetura/Roof_01_284|pos=(12.00, 3.92, 23.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_284
+SOLID|Arquitetura/Floor_01_285|pos=(12.00, -0.12, 27.00)|bounds=Center: (0.10, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_285
+SOLID|Arquitetura/Roof_01_286|pos=(12.00, 3.92, 27.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_286
+SOLID|Arquitetura/Floor_01_287|pos=(16.00, -0.12, 15.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.01, 0.00, 2.01)|colliders=BoxCollider:Floor_01_287
+SOLID|Arquitetura/Roof_01_288|pos=(16.00, 3.92, 15.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_288
+SOLID|Arquitetura/Floor_01_289|pos=(16.00, -0.12, 19.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_289
+SOLID|Arquitetura/Roof_01_290|pos=(16.00, 3.92, 19.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_290
+SOLID|Arquitetura/Floor_01_291|pos=(16.00, -0.12, 23.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_291
+SOLID|Arquitetura/Roof_01_292|pos=(16.00, 3.92, 23.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_292
+SOLID|Arquitetura/Floor_01_293|pos=(16.00, -0.12, 27.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_293
+SOLID|Arquitetura/Roof_01_294|pos=(16.00, 3.92, 27.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_294
+SOLID|Arquitetura/Floor_01_295|pos=(20.00, -0.12, 15.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_295
+SOLID|Arquitetura/Roof_01_296|pos=(20.00, 3.92, 15.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_296
+SOLID|Arquitetura/Floor_01_297|pos=(20.00, -0.12, 19.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_297
+SOLID|Arquitetura/Roof_01_298|pos=(20.00, 3.92, 19.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_298
+SOLID|Arquitetura/Floor_01_299|pos=(20.00, -0.12, 23.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_299
+SOLID|Arquitetura/Roof_01_300|pos=(20.00, 3.92, 23.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_300
+SOLID|Arquitetura/Floor_01_301|pos=(20.00, -0.12, 27.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_301
+SOLID|Arquitetura/Roof_01_302|pos=(20.00, 3.92, 27.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_302
+SOLID|Arquitetura/Floor_01_303|pos=(24.00, -0.12, 15.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_303
+SOLID|Arquitetura/Roof_01_304|pos=(24.00, 3.92, 15.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_304
+SOLID|Arquitetura/Floor_01_305|pos=(24.00, -0.12, 19.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_305
+SOLID|Arquitetura/Roof_01_306|pos=(24.00, 3.92, 19.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_306
+SOLID|Arquitetura/Floor_01_307|pos=(24.00, -0.12, 23.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_307
+SOLID|Arquitetura/Roof_01_308|pos=(24.00, 3.92, 23.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_308
+SOLID|Arquitetura/Floor_01_309|pos=(24.00, -0.12, 27.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_309
+SOLID|Arquitetura/Roof_01_310|pos=(24.00, 3.92, 27.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_310
+SOLID|Arquitetura/Floor_01_311|pos=(28.00, -0.12, 15.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_311
+SOLID|Arquitetura/Roof_01_312|pos=(28.00, 3.92, 15.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_312
+SOLID|Arquitetura/Floor_01_313|pos=(28.00, -0.12, 19.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_313
+SOLID|Arquitetura/Roof_01_314|pos=(28.00, 3.92, 19.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_314
+SOLID|Arquitetura/Floor_01_315|pos=(28.00, -0.12, 23.00)|bounds=Center: (-0.18, 0.98, 0.00), Extents: (2.18, 0.86, 2.00)|colliders=BoxCollider:Floor_01_315
+SOLID|Arquitetura/Roof_01_316|pos=(28.00, 3.92, 23.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_316
+SOLID|Arquitetura/Floor_01_317|pos=(28.00, -0.12, 27.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Floor_01_317
+SOLID|Arquitetura/Roof_01_318|pos=(28.00, 3.92, 27.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 2.00)|colliders=BoxCollider:Roof_01_318
+SOLID|Arquitetura/WallAstra_Straight_Divided_319|pos=(11.38, 1.90, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_319
+SOLID|Arquitetura/TopPlastic_Straight_320|pos=(11.38, 3.64, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_321|pos=(11.38, 0.10, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_322|pos=(14.15, 1.90, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_322
+SOLID|Arquitetura/TopPlastic_Straight_323|pos=(14.15, 3.64, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_324|pos=(14.15, 0.10, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_325|pos=(16.92, 1.90, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_325
+SOLID|Arquitetura/TopPlastic_Straight_326|pos=(16.92, 3.64, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_327|pos=(16.92, 0.10, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_328|pos=(23.08, 1.90, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_328
+SOLID|Arquitetura/TopPlastic_Straight_329|pos=(23.08, 3.64, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_330|pos=(23.08, 0.10, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_331|pos=(25.85, 1.90, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_331
+SOLID|Arquitetura/TopPlastic_Straight_332|pos=(25.85, 3.64, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_333|pos=(25.85, 0.10, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_334|pos=(28.62, 1.90, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_334
+SOLID|Arquitetura/TopPlastic_Straight_335|pos=(28.62, 3.64, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_336|pos=(28.62, 0.10, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_337|pos=(11.43, 1.90, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.43, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_337
+SOLID|Arquitetura/TopPlastic_Straight_338|pos=(11.43, 3.64, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.43, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_339|pos=(11.43, 0.10, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.43, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_340|pos=(14.29, 1.90, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.43, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_340
+SOLID|Arquitetura/TopPlastic_Straight_341|pos=(14.29, 3.64, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.43, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_342|pos=(14.29, 0.10, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.43, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_343|pos=(17.14, 1.90, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.43, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_343
+SOLID|Arquitetura/TopPlastic_Straight_344|pos=(17.14, 3.64, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.43, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_345|pos=(17.14, 0.10, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.43, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_346|pos=(20.00, 1.90, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.43, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_346
+SOLID|Arquitetura/TopPlastic_Straight_347|pos=(20.00, 3.64, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.43, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_348|pos=(20.00, 0.10, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.43, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_349|pos=(22.86, 1.90, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.43, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_349
+SOLID|Arquitetura/TopPlastic_Straight_350|pos=(22.86, 3.64, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.43, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_351|pos=(22.86, 0.10, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.43, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_352|pos=(25.71, 1.90, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.43, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_352
+SOLID|Arquitetura/TopPlastic_Straight_353|pos=(25.71, 3.64, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.43, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_354|pos=(25.71, 0.10, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.43, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_355|pos=(28.57, 1.90, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.43, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_355
+SOLID|Arquitetura/TopPlastic_Straight_356|pos=(28.57, 3.64, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.43, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_357|pos=(28.57, 0.10, 13.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.43, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_358|pos=(30.00, 1.90, 14.33)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_358
+SOLID|Arquitetura/TopPlastic_Straight_359|pos=(30.00, 3.64, 14.33)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_360|pos=(30.00, 0.10, 14.33)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_361|pos=(30.00, 1.90, 17.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_361
+SOLID|Arquitetura/TopPlastic_Straight_362|pos=(30.00, 3.64, 17.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_363|pos=(30.00, 0.10, 17.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_364|pos=(30.00, 1.90, 19.67)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_364
+SOLID|Arquitetura/TopPlastic_Straight_365|pos=(30.00, 3.64, 19.67)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_366|pos=(30.00, 0.10, 19.67)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_367|pos=(30.00, 1.90, 22.33)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_367
+SOLID|Arquitetura/TopPlastic_Straight_368|pos=(30.00, 3.64, 22.33)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_369|pos=(30.00, 0.10, 22.33)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_370|pos=(30.00, 1.90, 25.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_370
+SOLID|Arquitetura/TopPlastic_Straight_371|pos=(30.00, 3.64, 25.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_372|pos=(30.00, 0.10, 25.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_373|pos=(30.00, 1.90, 27.67)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_373
+SOLID|Arquitetura/TopPlastic_Straight_374|pos=(30.00, 3.64, 27.67)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_375|pos=(30.00, 0.10, 27.67)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_376|pos=(10.00, 1.90, 14.05)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_376
+SOLID|Arquitetura/TopPlastic_Straight_377|pos=(10.00, 3.64, 14.05)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_378|pos=(10.00, 0.10, 14.05)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_379|pos=(10.00, 1.90, 16.15)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_379
+SOLID|Arquitetura/TopPlastic_Straight_380|pos=(10.00, 3.64, 16.15)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_381|pos=(10.00, 0.10, 16.15)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_382|pos=(10.00, 1.90, 18.25)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_382
+SOLID|Arquitetura/TopPlastic_Straight_383|pos=(10.00, 3.64, 18.25)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_384|pos=(10.00, 0.10, 18.25)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_385|pos=(10.00, 1.90, 23.75)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_385
+SOLID|Arquitetura/TopPlastic_Straight_386|pos=(10.00, 3.64, 23.75)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_387|pos=(10.00, 0.10, 23.75)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_388|pos=(10.00, 1.90, 25.85)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_388
+SOLID|Arquitetura/TopPlastic_Straight_389|pos=(10.00, 3.64, 25.85)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_390|pos=(10.00, 0.10, 25.85)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_391|pos=(10.00, 1.90, 27.95)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_391
+SOLID|Arquitetura/TopPlastic_Straight_392|pos=(10.00, 3.64, 27.95)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_393|pos=(10.00, 0.10, 27.95)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 0.10, 0.14)|colliders=
+SOLID|Iluminacao/Prop_Light_Wide_394|pos=(15.20, 3.67, 18.20)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.80, 0.08, 0.25)|colliders=
+SOLID|Iluminacao/Prop_Light_Wide_395|pos=(15.20, 3.67, 23.80)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.80, 0.08, 0.25)|colliders=
+SOLID|Iluminacao/Prop_Light_Wide_396|pos=(24.80, 3.67, 18.20)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.80, 0.08, 0.25)|colliders=
+SOLID|Iluminacao/Prop_Light_Wide_397|pos=(24.80, 3.67, 23.80)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.80, 0.08, 0.25)|colliders=
+SOLID|Passagem_05  LABORATORIO/Door_Frame_SquareTall_881|pos=(10.00, 1.65, 21.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.90, 1.65, 0.12)|colliders=
+SOLID|Passagem_05  LABORATORIO/Door_Left_01_882|pos=(10.16, 1.40, 18.80)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.38, 1.40, 0.09)|colliders=BoxCollider:Door_Left_01_882
+SOLID|05_Laboratorio/Office_Table Metal Variant_924|pos=(14.00, 0.45, 16.40)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.91, 0.45, 0.46)|colliders=BoxCollider:Office_Table Metal Variant_924
+SOLID|05_Laboratorio/Office_PC 2_925|pos=(13.30, 1.22, 16.40)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.18, 0.32, 0.32)|colliders=BoxCollider:Office_PC 2_925
+SOLID|05_Laboratorio/Office_Office Chair_926|pos=(14.00, 0.55, 18.10)|bounds=Center: (0.00, 0.00, 0.58), Extents: (0.37, 0.55, 0.38)|colliders=BoxCollider:Office_Office Chair_926
+SOLID|05_Laboratorio/Office_Tray_927|pos=(14.80, 0.94, 16.40)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.12, 0.04, 0.20)|colliders=BoxCollider:Office_Tray_927
+SOLID|05_Laboratorio/Office_Table Metal Variant_928|pos=(26.00, 0.45, 16.40)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.91, 0.45, 0.46)|colliders=BoxCollider:Office_Table Metal Variant_928
+SOLID|05_Laboratorio/Office_PC 2_929|pos=(25.30, 1.22, 16.40)|bounds=Center: (0.19, -0.86, 0.00), Extents: (0.18, 0.32, 0.33)|colliders=BoxCollider:Office_PC 2_929
+SOLID|05_Laboratorio/Office_Office Chair_930|pos=(26.00, 0.55, 18.10)|bounds=Center: (0.00, 0.00, -4.21), Extents: (0.36, 0.55, 0.36)|colliders=BoxCollider:Office_Office Chair_930
+SOLID|05_Laboratorio/Office_Tray_931|pos=(26.80, 0.94, 16.40)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.12, 0.04, 0.20)|colliders=BoxCollider:Office_Tray_931
+SOLID|05_Laboratorio/Office_Drawer Table Long Blue Plastic Variant_932|pos=(26.20, 0.45, 25.80)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.40, 0.45, 0.43)|colliders=BoxCollider:Office_Drawer Table Long Blue Plastic Variant_932
+SOLID|05_Laboratorio/Office_Mechanical arm 1_933|pos=(25.50, 1.38, 25.80)|bounds=Center: (0.00, 0.00, 0.26), Extents: (0.65, 0.48, 0.54)|colliders=BoxCollider:Office_Mechanical arm 1_933
+SOLID|05_Laboratorio/Office_Mechanical arm 2_934|pos=(27.50, 1.38, 25.80)|bounds=Center: (0.00, 0.00, 0.25), Extents: (0.65, 0.48, 0.57)|colliders=BoxCollider:Office_Mechanical arm 2_934
+SOLID|05_Laboratorio/Office_Drawer 2_935|pos=(12.80, 0.53, 26.30)|bounds=Center: (0.00, 0.00, -1.12), Extents: (0.39, 0.53, 0.50)|colliders=BoxCollider:Office_Drawer 2_935
+SOLID|05_Laboratorio/Office_Stool_936|pos=(25.50, 0.33, 24.10)|bounds=Center: (0.44, 0.00, 0.83), Extents: (0.12, 0.33, 0.12)|colliders=BoxCollider:Office_Stool_936
+SOLID|05_Laboratorio/Office_Server Rack_937|pos=(11.50, 1.20, 14.50)|bounds=Center: (1.65, 0.00, -0.86), Extents: (1.97, 1.20, 0.32)|colliders=BoxCollider:Office_Server Rack_937
+SOLID|05_Laboratorio/Office_Shelf without Crates_938|pos=(13.50, 0.41, 27.40)|bounds=Center: (-3.03, 0.00, 0.00), Extents: (0.18, 0.41, 0.50)|colliders=BoxCollider:Office_Shelf without Crates_938
+SOLID|05_Laboratorio/Office_Table Metal Variant_939|pos=(24.20, 0.45, 20.40)|bounds=Center: (1.86, 0.00, 2.60), Extents: (0.91, 0.45, 0.46)|colliders=BoxCollider:Office_Table Metal Variant_939
+SOLID|05_Laboratorio/Office_PC 2_940|pos=(24.20, 1.22, 20.40)|bounds=Center: (1.14, 0.00, 2.64), Extents: (0.18, 0.32, 0.32)|colliders=BoxCollider:Office_PC 2_940
+SOLID|05_Laboratorio/Office_Tray_941|pos=(25.10, 0.93, 20.40)|bounds=Center: (1.60, -0.02, 2.77), Extents: (0.11, 0.03, 0.17)|colliders=BoxCollider:Office_Tray_941
+SOLID|05_Laboratorio/Office_Stool_942|pos=(24.20, 0.33, 18.90)|bounds=Center: (1.73, 0.00, -1.41), Extents: (0.12, 0.33, 0.12)|colliders=BoxCollider:Office_Stool_942
+SOLID|05_Laboratorio/Office_Server Rack_943|pos=(11.60, 1.20, 24.60)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.34, 1.20, 0.28)|colliders=BoxCollider:Office_Server Rack_943
+SOLID|05_Laboratorio/Office_Tv 32 Inch_944|pos=(20.00, 2.20, 13.30)|bounds=Center: (7.37, -0.39, 2.16), Extents: (2.08, 0.83, 1.18)|colliders=
+SOLID|05_Laboratorio/WallWindow_Straight_945|pos=(26.00, 1.40, 22.50)|bounds=Center: (0.01, 0.00, 1.37), Extents: (2.00, 1.40, 0.07)|colliders=BoxCollider:WallWindow_Straight_945
+SOLID|05_Laboratorio/WallAstra_Straight_Flat_Window_946|pos=(13.50, 1.40, 24.40)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.90, 1.40, 0.10)|colliders=BoxCollider:WallAstra_Straight_Flat_Window_946
+SOLID|05_Laboratorio/Column_Round_947|pos=(29.30, 1.63, 27.80)|bounds=Center: (0.00, 0.00, 0.54), Extents: (0.33, 1.63, 0.32)|colliders=BoxCollider:Column_Round_947
+SOLID|05_Laboratorio/Column_Round_948|pos=(10.70, 1.63, 14.20)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.32, 1.63, 0.32)|colliders=BoxCollider:Column_Round_948
+SOLID|Arquitetura/Floor_01_407|pos=(14.75, -0.12, 35.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.75, 0.00, 2.00)|colliders=BoxCollider:Floor_01_407
+SOLID|Arquitetura/Roof_01_408|pos=(14.75, 3.92, 35.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.75, 0.12, 2.00)|colliders=BoxCollider:Roof_01_408
+SOLID|Arquitetura/Floor_01_409|pos=(14.75, -0.12, 39.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.75, 0.00, 2.00)|colliders=BoxCollider:Floor_01_409
+SOLID|Arquitetura/Roof_01_410|pos=(14.75, 3.92, 39.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.75, 0.12, 2.00)|colliders=BoxCollider:Roof_01_410
+SOLID|Arquitetura/Floor_01_411|pos=(14.75, -0.12, 43.00)|bounds=Center: (0.00, 0.12, -0.03), Extents: (1.75, 0.00, 2.00)|colliders=BoxCollider:Floor_01_411
+SOLID|Arquitetura/Roof_01_412|pos=(14.75, 3.92, 43.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.75, 0.12, 2.00)|colliders=BoxCollider:Roof_01_412
+SOLID|Arquitetura/Floor_01_413|pos=(18.25, -0.12, 35.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.75, 0.00, 2.00)|colliders=BoxCollider:Floor_01_413
+SOLID|Arquitetura/Roof_01_414|pos=(18.25, 3.92, 35.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.75, 0.12, 2.00)|colliders=BoxCollider:Roof_01_414
+SOLID|Arquitetura/Floor_01_415|pos=(18.25, -0.12, 39.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.75, 0.00, 2.00)|colliders=BoxCollider:Floor_01_415
+SOLID|Arquitetura/Roof_01_416|pos=(18.25, 3.92, 39.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.75, 0.12, 2.00)|colliders=BoxCollider:Roof_01_416
+SOLID|Arquitetura/Floor_01_417|pos=(18.25, -0.12, 43.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.75, 0.00, 2.00)|colliders=BoxCollider:Floor_01_417
+SOLID|Arquitetura/Roof_01_418|pos=(18.25, 3.92, 43.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.75, 0.12, 2.00)|colliders=BoxCollider:Roof_01_418
+SOLID|Arquitetura/Floor_01_419|pos=(21.75, -0.12, 35.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.75, 0.00, 2.00)|colliders=BoxCollider:Floor_01_419
+SOLID|Arquitetura/Roof_01_420|pos=(21.75, 3.92, 35.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.75, 0.12, 2.00)|colliders=BoxCollider:Roof_01_420
+SOLID|Arquitetura/Floor_01_421|pos=(21.75, -0.12, 39.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.75, 0.00, 2.00)|colliders=BoxCollider:Floor_01_421
+SOLID|Arquitetura/Roof_01_422|pos=(21.75, 3.92, 39.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.75, 0.12, 2.00)|colliders=BoxCollider:Roof_01_422
+SOLID|Arquitetura/Floor_01_423|pos=(21.75, -0.12, 43.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.75, 0.00, 2.00)|colliders=BoxCollider:Floor_01_423
+SOLID|Arquitetura/Roof_01_424|pos=(21.75, 3.92, 43.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.75, 0.12, 2.00)|colliders=BoxCollider:Roof_01_424
+SOLID|Arquitetura/Floor_01_425|pos=(25.25, -0.12, 35.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.75, 0.00, 2.00)|colliders=BoxCollider:Floor_01_425
+SOLID|Arquitetura/Roof_01_426|pos=(25.25, 3.92, 35.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.75, 0.12, 2.00)|colliders=BoxCollider:Roof_01_426
+SOLID|Arquitetura/Floor_01_427|pos=(25.25, -0.12, 39.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.75, 0.00, 2.00)|colliders=BoxCollider:Floor_01_427
+SOLID|Arquitetura/Roof_01_428|pos=(25.25, 3.92, 39.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.75, 0.12, 2.00)|colliders=BoxCollider:Roof_01_428
+SOLID|Arquitetura/Floor_01_429|pos=(25.25, -0.12, 43.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.75, 0.00, 2.00)|colliders=BoxCollider:Floor_01_429
+SOLID|Arquitetura/Roof_01_430|pos=(25.25, 3.92, 43.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.75, 0.12, 2.00)|colliders=BoxCollider:Roof_01_430
+SOLID|Arquitetura/WallAstra_Straight_431|pos=(14.25, 1.90, 45.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_431
+SOLID|Arquitetura/TopAstra_Straight_432|pos=(14.25, 3.64, 45.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_433|pos=(14.25, 0.10, 45.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_434|pos=(16.75, 1.90, 45.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_434
+SOLID|Arquitetura/TopAstra_Straight_435|pos=(16.75, 3.64, 45.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_436|pos=(16.75, 0.10, 45.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_437|pos=(23.25, 1.90, 45.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_437
+SOLID|Arquitetura/TopAstra_Straight_438|pos=(23.25, 3.64, 45.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_439|pos=(23.25, 0.10, 45.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_440|pos=(25.75, 1.90, 45.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_440
+SOLID|Arquitetura/TopAstra_Straight_441|pos=(25.75, 3.64, 45.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_442|pos=(25.75, 0.10, 45.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_443|pos=(14.33, 1.90, 33.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_443
+SOLID|Arquitetura/TopAstra_Straight_444|pos=(14.33, 3.64, 33.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_445|pos=(14.33, 0.10, 33.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_446|pos=(16.98, 1.90, 33.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_446
+SOLID|Arquitetura/TopAstra_Straight_447|pos=(16.98, 3.64, 33.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_448|pos=(16.98, 0.10, 33.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_449|pos=(23.03, 1.90, 33.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_449
+SOLID|Arquitetura/TopAstra_Straight_450|pos=(23.03, 3.64, 33.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_451|pos=(23.03, 0.10, 33.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_452|pos=(25.68, 1.90, 33.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_452
+SOLID|Arquitetura/TopAstra_Straight_453|pos=(25.68, 3.64, 33.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_454|pos=(25.68, 0.10, 33.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_455|pos=(27.00, 1.90, 34.15)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.15, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_455
+SOLID|Arquitetura/TopAstra_Straight_456|pos=(27.00, 3.64, 34.15)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.15, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_457|pos=(27.00, 0.10, 34.15)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.15, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_458|pos=(27.00, 1.90, 39.75)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_458
+SOLID|Arquitetura/TopAstra_Straight_459|pos=(27.00, 3.64, 39.75)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_460|pos=(27.00, 0.10, 39.75)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_461|pos=(27.00, 1.90, 41.85)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_461
+SOLID|Arquitetura/TopAstra_Straight_462|pos=(27.00, 3.64, 41.85)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_463|pos=(27.00, 0.10, 41.85)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_464|pos=(27.00, 1.90, 43.95)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_464
+SOLID|Arquitetura/TopAstra_Straight_465|pos=(27.00, 3.64, 43.95)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_466|pos=(27.00, 0.10, 43.95)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.05, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_467|pos=(13.00, 1.90, 34.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_467
+SOLID|Arquitetura/TopAstra_Straight_468|pos=(13.00, 3.64, 34.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_469|pos=(13.00, 0.10, 34.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_470|pos=(13.00, 1.90, 37.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_470
+SOLID|Arquitetura/TopAstra_Straight_471|pos=(13.00, 3.64, 37.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_472|pos=(13.00, 0.10, 37.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_473|pos=(13.00, 1.90, 40.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_473
+SOLID|Arquitetura/TopAstra_Straight_474|pos=(13.00, 3.64, 40.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_475|pos=(13.00, 0.10, 40.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_476|pos=(13.00, 1.90, 43.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_476
+SOLID|Arquitetura/TopAstra_Straight_477|pos=(13.00, 3.64, 43.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_478|pos=(13.00, 0.10, 43.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.10, 0.14)|colliders=
+SOLID|Iluminacao/Prop_Light_Wide_479|pos=(20.00, 3.67, 39.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.80, 0.08, 0.25)|colliders=
+SOLID|Passagem_06  SEGURANCA/Door_Frame_Square_883|pos=(20.00, 1.65, 33.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.90, 1.65, 0.12)|colliders=
+SOLID|06_Seguranca/Office_Table Metal Variant_949|pos=(16.40, 0.45, 43.00)|bounds=Center: (0.00, 0.00, 1.23), Extents: (0.91, 0.45, 0.46)|colliders=BoxCollider:Office_Table Metal Variant_949
+SOLID|06_Seguranca/Prop_Computer_950|pos=(16.40, 1.50, 43.00)|bounds=Center: (2.24, -0.90, -1.61), Extents: (0.28, 0.60, 0.21)|colliders=BoxCollider:Prop_Computer_950
+SOLID|06_Seguranca/Office_Office Chair_951|pos=(16.40, 0.55, 41.30)|bounds=Center: (0.00, 0.00, -2.43), Extents: (0.36, 0.55, 0.36)|colliders=BoxCollider:Office_Office Chair_951
+SOLID|06_Seguranca/Office_Server Rack_952|pos=(25.70, 1.20, 42.80)|bounds=Center: (0.52, 0.00, 1.73), Extents: (0.34, 1.20, 0.28)|colliders=BoxCollider:Office_Server Rack_952
+SOLID|06_Seguranca/Storage_Locker_953|pos=(14.20, 1.00, 35.20)|bounds=Center: (-0.50, 0.00, -1.42), Extents: (0.24, 1.00, 0.29)|colliders=BoxCollider:Storage_Locker_953
+SOLID|06_Seguranca/Office_Table Metal Variant_954|pos=(23.50, 0.45, 43.00)|bounds=Center: (0.24, 0.00, 1.39), Extents: (0.91, 0.45, 0.46)|colliders=BoxCollider:Office_Table Metal Variant_954
+SOLID|06_Seguranca/Office_PC 2_955|pos=(23.50, 1.22, 43.00)|bounds=Center: (-5.89, -0.95, 1.21), Extents: (0.18, 0.32, 0.32)|colliders=BoxCollider:Office_PC 2_955
+SOLID|06_Seguranca/Office_Office Chair_956|pos=(23.50, 0.55, 41.30)|bounds=Center: (-0.39, 0.00, -2.45), Extents: (0.36, 0.55, 0.36)|colliders=BoxCollider:Office_Office Chair_956
+SOLID|06_Seguranca/Office_Tv 32 Inch_957|pos=(16.40, 2.60, 44.65)|bounds=Center: (-0.10, -1.20, 0.31), Extents: (0.90, 0.46, 0.26)|colliders=
+SOLID|06_Seguranca/Office_Tv 32 Inch_958|pos=(23.50, 2.60, 44.65)|bounds=Center: (-0.32, -1.24, 0.00), Extents: (0.89, 0.46, 0.21)|colliders=
+SOLID|06_Seguranca/Prop_AccessPoint_959|pos=(13.30, 1.60, 39.00)|bounds=Center: (-5.36, -0.62, 9.78), Extents: (0.29, 0.11, 0.10)|colliders=
+SOLID|06_Seguranca/Surveillance_960|pos=(25.80, 3.00, 34.50)|bounds=Center: (-1.00, 0.06, 0.00), Extents: (0.51, 0.36, 0.20)|colliders=
+SOLID|Arquitetura/Floor_01_495|pos=(8.86, -0.12, 50.83)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_495
+SOLID|Arquitetura/Roof_01_496|pos=(8.86, 6.12, 50.83)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_496
+SOLID|Arquitetura/Floor_01_497|pos=(8.86, -0.12, 54.50)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_497
+SOLID|Arquitetura/Roof_01_498|pos=(8.86, 6.12, 54.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_498
+SOLID|Arquitetura/Floor_01_499|pos=(8.86, -0.12, 58.17)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_499
+SOLID|Arquitetura/Roof_01_500|pos=(8.86, 6.12, 58.17)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_500
+SOLID|Arquitetura/Floor_01_501|pos=(8.86, -0.12, 61.83)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_501
+SOLID|Arquitetura/Roof_01_502|pos=(8.86, 6.12, 61.83)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_502
+SOLID|Arquitetura/Floor_01_503|pos=(8.86, -0.12, 65.50)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_503
+SOLID|Arquitetura/Roof_01_504|pos=(8.86, 6.12, 65.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_504
+SOLID|Arquitetura/Floor_01_505|pos=(8.86, -0.12, 69.17)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_505
+SOLID|Arquitetura/Roof_01_506|pos=(8.86, 6.12, 69.17)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_506
+SOLID|Arquitetura/Floor_01_507|pos=(12.57, -0.12, 50.83)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_507
+SOLID|Arquitetura/Roof_01_508|pos=(12.57, 6.12, 50.83)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_508
+SOLID|Arquitetura/Floor_01_509|pos=(12.57, -0.12, 54.50)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_509
+SOLID|Arquitetura/Roof_01_510|pos=(12.57, 6.12, 54.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_510
+SOLID|Arquitetura/Floor_01_511|pos=(12.57, -0.12, 58.17)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_511
+SOLID|Arquitetura/Roof_01_512|pos=(12.57, 6.12, 58.17)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_512
+SOLID|Arquitetura/Floor_01_513|pos=(12.57, -0.12, 61.83)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_513
+SOLID|Arquitetura/Roof_01_514|pos=(12.57, 6.12, 61.83)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_514
+SOLID|Arquitetura/Floor_01_515|pos=(12.57, -0.12, 65.50)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_515
+SOLID|Arquitetura/Roof_01_516|pos=(12.57, 6.12, 65.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_516
+SOLID|Arquitetura/Floor_01_517|pos=(12.57, -0.12, 69.17)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_517
+SOLID|Arquitetura/Roof_01_518|pos=(12.57, 6.12, 69.17)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_518
+SOLID|Arquitetura/Floor_01_519|pos=(16.29, -0.12, 50.83)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_519
+SOLID|Arquitetura/Roof_01_520|pos=(16.29, 6.12, 50.83)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_520
+SOLID|Arquitetura/Floor_01_521|pos=(16.29, -0.12, 54.50)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_521
+SOLID|Arquitetura/Roof_01_522|pos=(16.29, 6.12, 54.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_522
+SOLID|Arquitetura/Floor_01_523|pos=(16.29, -0.12, 58.17)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_523
+SOLID|Arquitetura/Roof_01_524|pos=(16.29, 6.12, 58.17)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_524
+SOLID|Arquitetura/Floor_01_525|pos=(16.29, -0.12, 61.83)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_525
+SOLID|Arquitetura/Roof_01_526|pos=(16.29, 6.12, 61.83)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_526
+SOLID|Arquitetura/Floor_01_527|pos=(16.29, -0.12, 65.50)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_527
+SOLID|Arquitetura/Roof_01_528|pos=(16.29, 6.12, 65.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_528
+SOLID|Arquitetura/Floor_01_529|pos=(16.29, -0.12, 69.17)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_529
+SOLID|Arquitetura/Roof_01_530|pos=(16.29, 6.12, 69.17)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_530
+SOLID|Arquitetura/Floor_01_531|pos=(20.00, -0.12, 50.83)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_531
+SOLID|Arquitetura/Roof_01_532|pos=(20.00, 6.12, 50.83)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_532
+SOLID|Arquitetura/Floor_01_533|pos=(20.00, -0.12, 54.50)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_533
+SOLID|Arquitetura/Roof_01_534|pos=(20.00, 6.12, 54.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_534
+SOLID|Arquitetura/Floor_01_535|pos=(20.00, -0.12, 58.17)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_535
+SOLID|Arquitetura/Roof_01_536|pos=(20.00, 6.12, 58.17)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_536
+SOLID|Arquitetura/Floor_01_537|pos=(20.00, -0.12, 61.83)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_537
+SOLID|Arquitetura/Roof_01_538|pos=(20.00, 6.12, 61.83)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_538
+SOLID|Arquitetura/Floor_01_539|pos=(20.00, -0.12, 65.50)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_539
+SOLID|Arquitetura/Roof_01_540|pos=(20.00, 6.12, 65.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_540
+SOLID|Arquitetura/Floor_01_541|pos=(20.00, -0.12, 69.17)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_541
+SOLID|Arquitetura/Roof_01_542|pos=(20.00, 6.12, 69.17)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_542
+SOLID|Arquitetura/Floor_01_543|pos=(23.71, -0.12, 50.83)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_543
+SOLID|Arquitetura/Roof_01_544|pos=(23.71, 6.12, 50.83)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_544
+SOLID|Arquitetura/Floor_01_545|pos=(23.71, -0.12, 54.50)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_545
+SOLID|Arquitetura/Roof_01_546|pos=(23.71, 6.12, 54.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_546
+SOLID|Arquitetura/Floor_01_547|pos=(23.71, -0.12, 58.17)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_547
+SOLID|Arquitetura/Roof_01_548|pos=(23.71, 6.12, 58.17)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_548
+SOLID|Arquitetura/Floor_01_549|pos=(23.71, -0.12, 61.83)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_549
+SOLID|Arquitetura/Roof_01_550|pos=(23.71, 6.12, 61.83)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_550
+SOLID|Arquitetura/Floor_01_551|pos=(23.71, -0.12, 65.50)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_551
+SOLID|Arquitetura/Roof_01_552|pos=(23.71, 6.12, 65.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_552
+SOLID|Arquitetura/Floor_01_553|pos=(23.71, -0.12, 69.17)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_553
+SOLID|Arquitetura/Roof_01_554|pos=(23.71, 6.12, 69.17)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_554
+SOLID|Arquitetura/Floor_01_555|pos=(27.43, -0.12, 50.83)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_555
+SOLID|Arquitetura/Roof_01_556|pos=(27.43, 6.12, 50.83)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_556
+SOLID|Arquitetura/Floor_01_557|pos=(27.43, -0.12, 54.50)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_557
+SOLID|Arquitetura/Roof_01_558|pos=(27.43, 6.12, 54.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_558
+SOLID|Arquitetura/Floor_01_559|pos=(27.43, -0.12, 58.17)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_559
+SOLID|Arquitetura/Roof_01_560|pos=(27.43, 6.12, 58.17)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_560
+SOLID|Arquitetura/Floor_01_561|pos=(27.43, -0.12, 61.83)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_561
+SOLID|Arquitetura/Roof_01_562|pos=(27.43, 6.12, 61.83)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_562
+SOLID|Arquitetura/Floor_01_563|pos=(27.43, -0.12, 65.50)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_563
+SOLID|Arquitetura/Roof_01_564|pos=(27.43, 6.12, 65.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_564
+SOLID|Arquitetura/Floor_01_565|pos=(27.43, -0.12, 69.17)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_565
+SOLID|Arquitetura/Roof_01_566|pos=(27.43, 6.12, 69.17)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_566
+SOLID|Arquitetura/Floor_01_567|pos=(31.14, -0.12, 50.83)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_567
+SOLID|Arquitetura/Roof_01_568|pos=(31.14, 6.12, 50.83)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_568
+SOLID|Arquitetura/Floor_01_569|pos=(31.14, -0.12, 54.50)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_569
+SOLID|Arquitetura/Roof_01_570|pos=(31.14, 6.12, 54.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_570
+SOLID|Arquitetura/Floor_01_571|pos=(31.14, -0.12, 58.17)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_571
+SOLID|Arquitetura/Roof_01_572|pos=(31.14, 6.12, 58.17)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_572
+SOLID|Arquitetura/Floor_01_573|pos=(31.14, -0.12, 61.83)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_573
+SOLID|Arquitetura/Roof_01_574|pos=(31.14, 6.12, 61.83)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_574
+SOLID|Arquitetura/Floor_01_575|pos=(31.14, -0.12, 65.50)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_575
+SOLID|Arquitetura/Roof_01_576|pos=(31.14, 6.12, 65.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_576
+SOLID|Arquitetura/Floor_01_577|pos=(31.14, -0.12, 69.17)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.86, 0.00, 1.83)|colliders=BoxCollider:Floor_01_577
+SOLID|Arquitetura/Roof_01_578|pos=(31.14, 6.12, 69.17)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.86, 0.12, 1.83)|colliders=BoxCollider:Roof_01_578
+SOLID|Arquitetura/WallBand_Straight_579|pos=(8.44, 3.00, 71.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.44, 3.00, 0.11)|colliders=BoxCollider:WallBand_Straight_579
+SOLID|Arquitetura/TopCables_Straight_580|pos=(8.44, 5.84, 71.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.44, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_581|pos=(8.44, 0.10, 71.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.44, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_582|pos=(11.33, 3.00, 71.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.44, 3.00, 0.11)|colliders=BoxCollider:WallBand_Straight_582
+SOLID|Arquitetura/TopCables_Straight_583|pos=(11.33, 5.84, 71.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.44, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_584|pos=(11.33, 0.10, 71.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.44, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_585|pos=(14.22, 3.00, 71.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.44, 3.00, 0.11)|colliders=BoxCollider:WallBand_Straight_585
+SOLID|Arquitetura/TopCables_Straight_586|pos=(14.22, 5.84, 71.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.44, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_587|pos=(14.22, 0.10, 71.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.44, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_588|pos=(17.11, 3.00, 71.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.44, 3.00, 0.11)|colliders=BoxCollider:WallBand_Straight_588
+SOLID|Arquitetura/TopCables_Straight_589|pos=(17.11, 5.84, 71.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.44, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_590|pos=(17.11, 0.10, 71.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.44, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_591|pos=(20.00, 3.00, 71.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.44, 3.00, 0.11)|colliders=BoxCollider:WallBand_Straight_591
+SOLID|Arquitetura/TopCables_Straight_592|pos=(20.00, 5.84, 71.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.44, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_593|pos=(20.00, 0.10, 71.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.44, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_594|pos=(22.89, 3.00, 71.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.44, 3.00, 0.11)|colliders=BoxCollider:WallBand_Straight_594
+SOLID|Arquitetura/TopCables_Straight_595|pos=(22.89, 5.84, 71.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.44, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_596|pos=(22.89, 0.10, 71.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.44, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_597|pos=(25.78, 3.00, 71.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.44, 3.00, 0.11)|colliders=BoxCollider:WallBand_Straight_597
+SOLID|Arquitetura/TopCables_Straight_598|pos=(25.78, 5.84, 71.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.44, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_599|pos=(25.78, 0.10, 71.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.44, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_600|pos=(28.67, 3.00, 71.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.44, 3.00, 0.11)|colliders=BoxCollider:WallBand_Straight_600
+SOLID|Arquitetura/TopCables_Straight_601|pos=(28.67, 5.84, 71.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.44, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_602|pos=(28.67, 0.10, 71.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.44, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_603|pos=(31.56, 3.00, 71.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.44, 3.00, 0.11)|colliders=BoxCollider:WallBand_Straight_603
+SOLID|Arquitetura/TopCables_Straight_604|pos=(31.56, 5.84, 71.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.44, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_605|pos=(31.56, 0.10, 71.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.44, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_606|pos=(8.38, 3.00, 49.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|colliders=BoxCollider:WallBand_Straight_606
+SOLID|Arquitetura/TopCables_Straight_607|pos=(8.38, 5.84, 49.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_608|pos=(8.38, 0.10, 49.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallBand_Straight_609|pos=(11.13, 3.00, 49.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|colliders=BoxCollider:WallBand_Straight_609
+SOLID|Arquitetura/TopCables_Straight_610|pos=(11.13, 5.84, 49.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_611|pos=(11.13, 0.10, 49.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallBand_Straight_612|pos=(13.88, 3.00, 49.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|colliders=BoxCollider:WallBand_Straight_612
+SOLID|Arquitetura/TopCables_Straight_613|pos=(13.88, 5.84, 49.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_614|pos=(13.88, 0.10, 49.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallBand_Straight_615|pos=(16.63, 3.00, 49.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|colliders=BoxCollider:WallBand_Straight_615
+SOLID|Arquitetura/TopCables_Straight_616|pos=(16.63, 5.84, 49.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_617|pos=(16.63, 0.10, 49.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallBand_Straight_618|pos=(23.38, 3.00, 49.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|colliders=BoxCollider:WallBand_Straight_618
+SOLID|Arquitetura/TopCables_Straight_619|pos=(23.38, 5.84, 49.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_620|pos=(23.38, 0.10, 49.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallBand_Straight_621|pos=(26.13, 3.00, 49.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|colliders=BoxCollider:WallBand_Straight_621
+SOLID|Arquitetura/TopCables_Straight_622|pos=(26.13, 5.84, 49.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_623|pos=(26.13, 0.10, 49.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallBand_Straight_624|pos=(28.88, 3.00, 49.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|colliders=BoxCollider:WallBand_Straight_624
+SOLID|Arquitetura/TopCables_Straight_625|pos=(28.88, 5.84, 49.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_626|pos=(28.88, 0.10, 49.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallBand_Straight_627|pos=(31.63, 3.00, 49.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|colliders=BoxCollider:WallBand_Straight_627
+SOLID|Arquitetura/TopCables_Straight_628|pos=(31.63, 5.84, 49.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_629|pos=(31.63, 0.10, 49.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallBand_Straight_630|pos=(33.00, 3.00, 50.38)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|colliders=BoxCollider:WallBand_Straight_630
+SOLID|Arquitetura/TopCables_Straight_631|pos=(33.00, 5.84, 50.38)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_632|pos=(33.00, 0.10, 50.38)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallBand_Straight_633|pos=(33.00, 3.00, 53.13)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|colliders=BoxCollider:WallBand_Straight_633
+SOLID|Arquitetura/TopCables_Straight_634|pos=(33.00, 5.84, 53.13)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_635|pos=(33.00, 0.10, 53.13)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallBand_Straight_636|pos=(33.00, 3.00, 55.88)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|colliders=BoxCollider:WallBand_Straight_636
+SOLID|Arquitetura/TopCables_Straight_637|pos=(33.00, 5.84, 55.88)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_638|pos=(33.00, 0.10, 55.88)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallBand_Straight_639|pos=(33.00, 3.00, 58.63)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|colliders=BoxCollider:WallBand_Straight_639
+SOLID|Arquitetura/TopCables_Straight_640|pos=(33.00, 5.84, 58.63)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_641|pos=(33.00, 0.10, 58.63)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallBand_Straight_642|pos=(33.00, 3.00, 61.38)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|colliders=BoxCollider:WallBand_Straight_642
+SOLID|Arquitetura/TopCables_Straight_643|pos=(33.00, 5.84, 61.38)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_644|pos=(33.00, 0.10, 61.38)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallBand_Straight_645|pos=(33.00, 3.00, 64.13)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|colliders=BoxCollider:WallBand_Straight_645
+SOLID|Arquitetura/TopCables_Straight_646|pos=(33.00, 5.84, 64.13)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_647|pos=(33.00, 0.10, 64.13)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallBand_Straight_648|pos=(33.00, 3.00, 66.88)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|colliders=BoxCollider:WallBand_Straight_648
+SOLID|Arquitetura/TopCables_Straight_649|pos=(33.00, 5.84, 66.88)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_650|pos=(33.00, 0.10, 66.88)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallBand_Straight_651|pos=(33.00, 3.00, 69.63)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|colliders=BoxCollider:WallBand_Straight_651
+SOLID|Arquitetura/TopCables_Straight_652|pos=(33.00, 5.84, 69.63)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_653|pos=(33.00, 0.10, 69.63)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallBand_Straight_654|pos=(7.00, 3.00, 50.38)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|colliders=BoxCollider:WallBand_Straight_654
+SOLID|Arquitetura/TopCables_Straight_655|pos=(7.00, 5.84, 50.38)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_656|pos=(7.00, 0.10, 50.38)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_657|pos=(7.00, 3.00, 53.13)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|colliders=BoxCollider:WallBand_Straight_657
+SOLID|Arquitetura/TopCables_Straight_658|pos=(7.00, 5.84, 53.13)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_659|pos=(7.00, 0.10, 53.13)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_660|pos=(7.00, 3.00, 55.88)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|colliders=BoxCollider:WallBand_Straight_660
+SOLID|Arquitetura/TopCables_Straight_661|pos=(7.00, 5.84, 55.88)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_662|pos=(7.00, 0.10, 55.88)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_663|pos=(7.00, 3.00, 58.63)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|colliders=BoxCollider:WallBand_Straight_663
+SOLID|Arquitetura/TopCables_Straight_664|pos=(7.00, 5.84, 58.63)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_665|pos=(7.00, 0.10, 58.63)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_666|pos=(7.00, 3.00, 61.38)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|colliders=BoxCollider:WallBand_Straight_666
+SOLID|Arquitetura/TopCables_Straight_667|pos=(7.00, 5.84, 61.38)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_668|pos=(7.00, 0.10, 61.38)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_669|pos=(7.00, 3.00, 64.13)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|colliders=BoxCollider:WallBand_Straight_669
+SOLID|Arquitetura/TopCables_Straight_670|pos=(7.00, 5.84, 64.13)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_671|pos=(7.00, 0.10, 64.13)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_672|pos=(7.00, 3.00, 66.88)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|colliders=BoxCollider:WallBand_Straight_672
+SOLID|Arquitetura/TopCables_Straight_673|pos=(7.00, 5.84, 66.88)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_674|pos=(7.00, 0.10, 66.88)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_675|pos=(7.00, 3.00, 69.63)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 3.00, 0.11)|colliders=BoxCollider:WallBand_Straight_675
+SOLID|Arquitetura/TopCables_Straight_676|pos=(7.00, 5.84, 69.63)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_677|pos=(7.00, 0.10, 69.63)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.10, 0.14)|colliders=
+SOLID|Iluminacao/Prop_Light_Wide_678|pos=(13.76, 5.87, 52.30)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.80, 0.08, 0.25)|colliders=
+SOLID|Iluminacao/Prop_Light_Wide_679|pos=(13.76, 5.87, 60.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.80, 0.08, 0.25)|colliders=
+SOLID|Iluminacao/Prop_Light_Wide_680|pos=(13.76, 5.87, 67.70)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.80, 0.08, 0.25)|colliders=
+SOLID|Iluminacao/Prop_Light_Wide_681|pos=(26.24, 5.87, 52.30)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.80, 0.08, 0.25)|colliders=
+SOLID|Iluminacao/Prop_Light_Wide_682|pos=(26.24, 5.87, 60.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.80, 0.08, 0.25)|colliders=
+SOLID|Iluminacao/Prop_Light_Wide_683|pos=(26.24, 5.87, 67.70)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.80, 0.08, 0.25)|colliders=
+SOLID|Passagem_07  HANGAR/Door_Frame_A_885|pos=(20.00, 1.65, 49.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.20, 1.65, 0.12)|colliders=
+SOLID|Passagem_07  HANGAR/Door_Left_01_886|pos=(22.50, 1.40, 49.16)|bounds=Center: (0.00, 0.00, 0.07), Extents: (0.38, 1.40, 0.24)|colliders=BoxCollider:Door_Left_01_886
+SOLID|07_Hangar/Platform_3Plates_961|pos=(12.00, 0.07, 53.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Platform_3Plates_961
+SOLID|07_Hangar/Storage_Container_02_Blue_962|pos=(12.00, 0.71, 53.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.35, 0.57, 0.73)|colliders=BoxCollider:Storage_Container_02_Blue_962
+SOLID|07_Hangar/Platform_DarkPlates_963|pos=(12.00, 0.07, 60.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Platform_DarkPlates_963
+SOLID|07_Hangar/Prop_Crate4_964|pos=(12.00, 1.49, 60.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.35, 1.35, 1.35)|colliders=BoxCollider:Prop_Crate4_964
+SOLID|07_Hangar/Platform_Metal_965|pos=(12.00, 0.07, 67.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Platform_Metal_965
+SOLID|07_Hangar/Storage_Container_02_Blue_966|pos=(12.00, 0.71, 67.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.35, 0.57, 0.73)|colliders=BoxCollider:Storage_Container_02_Blue_966
+SOLID|07_Hangar/Platform_Metal2_967|pos=(28.00, 0.07, 53.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Platform_Metal2_967
+SOLID|07_Hangar/Prop_Crate4_968|pos=(28.00, 1.49, 53.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.35, 1.35, 1.35)|colliders=BoxCollider:Prop_Crate4_968
+SOLID|07_Hangar/Platform_Squares_969|pos=(28.00, 0.07, 67.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.00, 2.00)|colliders=BoxCollider:Platform_Squares_969
+SOLID|07_Hangar/Storage_Container_02_Blue_970|pos=(28.00, 0.71, 67.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.35, 0.57, 0.73)|colliders=BoxCollider:Storage_Container_02_Blue_970
+SOLID|07_Hangar/Column_MetalSupport_971|pos=(8.20, 0.01, 53.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.16, 0.01, 0.65)|colliders=BoxCollider:Column_MetalSupport_971
+SOLID|07_Hangar/Column_MetalSupport_972|pos=(31.80, 0.01, 53.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.16, 0.01, 0.65)|colliders=BoxCollider:Column_MetalSupport_972
+SOLID|07_Hangar/Column_MetalSupport_973|pos=(8.20, 0.01, 67.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.16, 0.01, 0.65)|colliders=BoxCollider:Column_MetalSupport_973
+SOLID|07_Hangar/Column_MetalSupport_974|pos=(31.80, 0.01, 67.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.16, 0.01, 0.65)|colliders=BoxCollider:Column_MetalSupport_974
+SOLID|07_Hangar/Prop_Rail_2_975|pos=(12.00, 0.55, 55.30)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.24, 0.55, 0.04)|colliders=BoxCollider:Prop_Rail_2_975
+SOLID|07_Hangar/Prop_Rail_3_976|pos=(28.00, 0.44, 64.70)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.44, 0.03)|colliders=BoxCollider:Prop_Rail_3_976
+SOLID|07_Hangar/Prop_Chest_977|pos=(30.50, 0.56, 60.00)|bounds=Center: (0.00, 0.03, -0.01), Extents: (0.88, 0.58, 0.80)|colliders=BoxCollider:Prop_Chest_977
+SOLID|07_Hangar/Storage_Barrel_04_978|pos=(14.80, 0.63, 68.60)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.50, 0.63, 0.50)|colliders=BoxCollider:Storage_Barrel_04_978
+SOLID|07_Hangar/Prop_Light_Corner_980|pos=(16.00, 4.00, 70.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.15, 0.01, 0.15)|colliders=
+SOLID|07_Hangar/Prop_Light_Corner_981|pos=(24.00, 4.00, 70.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.15, 0.01, 0.15)|colliders=
+SOLID|07_Hangar/Prop_Vent_Wide_982|pos=(7.30, 4.00, 60.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.22, 0.01, 0.13)|colliders=
+SOLID|Arquitetura/Floor_01_701|pos=(-18.33, -0.12, 19.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.67, 0.00, 2.00)|colliders=BoxCollider:Floor_01_701
+SOLID|Arquitetura/Roof_01_702|pos=(-18.33, 4.12, 19.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.67, 0.12, 2.00)|colliders=BoxCollider:Roof_01_702
+SOLID|Arquitetura/Floor_01_703|pos=(-18.33, -0.12, 23.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.67, 0.00, 2.00)|colliders=BoxCollider:Floor_01_703
+SOLID|Arquitetura/Roof_01_704|pos=(-18.33, 4.12, 23.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.67, 0.12, 2.00)|colliders=BoxCollider:Roof_01_704
+SOLID|Arquitetura/Floor_01_705|pos=(-18.33, -0.12, 27.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.67, 0.00, 2.00)|colliders=BoxCollider:Floor_01_705
+SOLID|Arquitetura/Roof_01_706|pos=(-18.33, 4.12, 27.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.67, 0.12, 2.00)|colliders=BoxCollider:Roof_01_706
+SOLID|Arquitetura/Floor_01_707|pos=(-18.33, -0.12, 31.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.67, 0.00, 2.00)|colliders=BoxCollider:Floor_01_707
+SOLID|Arquitetura/Roof_01_708|pos=(-18.33, 4.12, 31.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.67, 0.12, 2.00)|colliders=BoxCollider:Roof_01_708
+SOLID|Arquitetura/Floor_01_709|pos=(-15.00, -0.12, 19.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.67, 0.00, 2.00)|colliders=BoxCollider:Floor_01_709
+SOLID|Arquitetura/Roof_01_710|pos=(-15.00, 4.12, 19.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.67, 0.12, 2.00)|colliders=BoxCollider:Roof_01_710
+SOLID|Arquitetura/Floor_01_711|pos=(-15.00, -0.12, 23.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.67, 0.00, 2.00)|colliders=BoxCollider:Floor_01_711
+SOLID|Arquitetura/Roof_01_712|pos=(-15.00, 4.12, 23.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.67, 0.12, 2.00)|colliders=BoxCollider:Roof_01_712
+SOLID|Arquitetura/Floor_01_713|pos=(-15.00, -0.12, 27.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.67, 0.00, 2.00)|colliders=BoxCollider:Floor_01_713
+SOLID|Arquitetura/Roof_01_714|pos=(-15.00, 4.12, 27.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.67, 0.12, 2.00)|colliders=BoxCollider:Roof_01_714
+SOLID|Arquitetura/Floor_01_715|pos=(-15.00, -0.12, 31.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.67, 0.00, 2.00)|colliders=BoxCollider:Floor_01_715
+SOLID|Arquitetura/Roof_01_716|pos=(-15.00, 4.12, 31.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.67, 0.12, 2.00)|colliders=BoxCollider:Roof_01_716
+SOLID|Arquitetura/Floor_01_717|pos=(-11.67, -0.12, 19.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.67, 0.00, 2.00)|colliders=BoxCollider:Floor_01_717
+SOLID|Arquitetura/Roof_01_718|pos=(-11.67, 4.12, 19.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.67, 0.12, 2.00)|colliders=BoxCollider:Roof_01_718
+SOLID|Arquitetura/Floor_01_719|pos=(-11.67, -0.12, 23.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.67, 0.00, 2.00)|colliders=BoxCollider:Floor_01_719
+SOLID|Arquitetura/Roof_01_720|pos=(-11.67, 4.12, 23.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.67, 0.12, 2.00)|colliders=BoxCollider:Roof_01_720
+SOLID|Arquitetura/Floor_01_721|pos=(-11.67, -0.12, 27.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.67, 0.00, 2.00)|colliders=BoxCollider:Floor_01_721
+SOLID|Arquitetura/Roof_01_722|pos=(-11.67, 4.12, 27.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.67, 0.12, 2.00)|colliders=BoxCollider:Roof_01_722
+SOLID|Arquitetura/Floor_01_723|pos=(-11.67, -0.12, 31.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (1.67, 0.00, 2.00)|colliders=BoxCollider:Floor_01_723
+SOLID|Arquitetura/Roof_01_724|pos=(-11.67, 4.12, 31.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.67, 0.12, 2.00)|colliders=BoxCollider:Roof_01_724
+SOLID|Arquitetura/WallBand_Straight_725|pos=(-18.75, 2.00, 33.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 2.00, 0.11)|colliders=BoxCollider:WallBand_Straight_725
+SOLID|Arquitetura/TopCables_Straight_726|pos=(-18.75, 3.84, 33.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_727|pos=(-18.75, 0.10, 33.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallBand_Straight_728|pos=(-16.25, 2.00, 33.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 2.00, 0.11)|colliders=BoxCollider:WallBand_Straight_728
+SOLID|Arquitetura/TopCables_Straight_729|pos=(-16.25, 3.84, 33.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_730|pos=(-16.25, 0.10, 33.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallBand_Straight_731|pos=(-13.75, 2.00, 33.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 2.00, 0.11)|colliders=BoxCollider:WallBand_Straight_731
+SOLID|Arquitetura/TopCables_Straight_732|pos=(-13.75, 3.84, 33.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_733|pos=(-13.75, 0.10, 33.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallBand_Straight_734|pos=(-11.25, 2.00, 33.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 2.00, 0.11)|colliders=BoxCollider:WallBand_Straight_734
+SOLID|Arquitetura/TopCables_Straight_735|pos=(-11.25, 3.84, 33.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_736|pos=(-11.25, 0.10, 33.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallBand_Straight_737|pos=(-18.75, 2.00, 17.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 2.00, 0.11)|colliders=BoxCollider:WallBand_Straight_737
+SOLID|Arquitetura/TopCables_Straight_738|pos=(-18.75, 3.84, 17.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_739|pos=(-18.75, 0.10, 17.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_740|pos=(-16.25, 2.00, 17.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 2.00, 0.11)|colliders=BoxCollider:WallBand_Straight_740
+SOLID|Arquitetura/TopCables_Straight_741|pos=(-16.25, 3.84, 17.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_742|pos=(-16.25, 0.10, 17.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_743|pos=(-13.75, 2.00, 17.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 2.00, 0.11)|colliders=BoxCollider:WallBand_Straight_743
+SOLID|Arquitetura/TopCables_Straight_744|pos=(-13.75, 3.84, 17.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_745|pos=(-13.75, 0.10, 17.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_746|pos=(-11.25, 2.00, 17.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 2.00, 0.11)|colliders=BoxCollider:WallBand_Straight_746
+SOLID|Arquitetura/TopCables_Straight_747|pos=(-11.25, 3.84, 17.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_748|pos=(-11.25, 0.10, 17.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_749|pos=(-10.00, 2.00, 18.08)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.08, 2.00, 0.11)|colliders=BoxCollider:WallBand_Straight_749
+SOLID|Arquitetura/TopCables_Straight_750|pos=(-10.00, 3.84, 18.08)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.08, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_751|pos=(-10.00, 0.10, 18.08)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.08, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_752|pos=(-10.00, 2.00, 20.23)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.08, 2.00, 0.11)|colliders=BoxCollider:WallBand_Straight_752
+SOLID|Arquitetura/TopCables_Straight_753|pos=(-10.00, 3.84, 20.23)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.08, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_754|pos=(-10.00, 0.10, 20.23)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.08, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_755|pos=(-10.00, 2.00, 26.08)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 2.00, 0.11)|colliders=BoxCollider:WallBand_Straight_755
+SOLID|Arquitetura/TopCables_Straight_756|pos=(-10.00, 3.84, 26.08)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_757|pos=(-10.00, 0.10, 26.08)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_758|pos=(-10.00, 2.00, 28.85)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 2.00, 0.11)|colliders=BoxCollider:WallBand_Straight_758
+SOLID|Arquitetura/TopCables_Straight_759|pos=(-10.00, 3.84, 28.85)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_760|pos=(-10.00, 0.10, 28.85)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_761|pos=(-10.00, 2.00, 31.62)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 2.00, 0.11)|colliders=BoxCollider:WallBand_Straight_761
+SOLID|Arquitetura/TopCables_Straight_762|pos=(-10.00, 3.84, 31.62)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_763|pos=(-10.00, 0.10, 31.62)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.38, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_764|pos=(-20.00, 2.00, 18.33)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 2.00, 0.11)|colliders=BoxCollider:WallBand_Straight_764
+SOLID|Arquitetura/TopCables_Straight_765|pos=(-20.00, 3.84, 18.33)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_766|pos=(-20.00, 0.10, 18.33)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_767|pos=(-20.00, 2.00, 21.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 2.00, 0.11)|colliders=BoxCollider:WallBand_Straight_767
+SOLID|Arquitetura/TopCables_Straight_768|pos=(-20.00, 3.84, 21.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_769|pos=(-20.00, 0.10, 21.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_770|pos=(-20.00, 2.00, 23.67)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 2.00, 0.11)|colliders=BoxCollider:WallBand_Straight_770
+SOLID|Arquitetura/TopCables_Straight_771|pos=(-20.00, 3.84, 23.67)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_772|pos=(-20.00, 0.10, 23.67)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_773|pos=(-20.00, 2.00, 26.33)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 2.00, 0.11)|colliders=BoxCollider:WallBand_Straight_773
+SOLID|Arquitetura/TopCables_Straight_774|pos=(-20.00, 3.84, 26.33)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_775|pos=(-20.00, 0.10, 26.33)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_776|pos=(-20.00, 2.00, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 2.00, 0.11)|colliders=BoxCollider:WallBand_Straight_776
+SOLID|Arquitetura/TopCables_Straight_777|pos=(-20.00, 3.84, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_778|pos=(-20.00, 0.10, 29.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallBand_Straight_779|pos=(-20.00, 2.00, 31.67)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 2.00, 0.11)|colliders=BoxCollider:WallBand_Straight_779
+SOLID|Arquitetura/TopCables_Straight_780|pos=(-20.00, 3.84, 31.67)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.16, 0.13)|colliders=
+SOLID|Arquitetura/BottomMetal_Straight_781|pos=(-20.00, 0.10, 31.67)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.33, 0.10, 0.14)|colliders=
+SOLID|Iluminacao/Prop_Light_Wide_782|pos=(-15.00, 3.87, 22.20)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.80, 0.08, 0.25)|colliders=
+SOLID|Iluminacao/Prop_Light_Wide_783|pos=(-15.00, 3.87, 27.80)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.80, 0.08, 0.25)|colliders=
+SOLID|Passagem_08  MAQUINAS / OPCIONAL/Door_Frame_A_887|pos=(-10.00, 1.65, 23.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.90, 1.65, 0.12)|colliders=
+SOLID|Passagem_08  MAQUINAS / OPCIONAL/Door_Left_01_888|pos=(-9.84, 1.40, 20.80)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.38, 1.40, 0.09)|colliders=BoxCollider:Door_Left_01_888
+SOLID|08_Maquinas/Column_Simple_983|pos=(-18.80, 2.00, 19.20)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.20, 2.00, 0.39)|colliders=BoxCollider:Column_Simple_983
+SOLID|08_Maquinas/Column_Pipes_984|pos=(-18.80, 1.80, 24.20)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.31, 1.80, 0.31)|colliders=BoxCollider:Column_Pipes_984
+SOLID|08_Maquinas/Column_Hollow_985|pos=(-18.80, 1.70, 30.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.41, 1.70, 0.41)|colliders=BoxCollider:Column_Hollow_985
+SOLID|08_Maquinas/Storage_Electric_Box_02_986|pos=(-12.20, 0.96, 30.80)|bounds=Center: (0.00, 0.00, 1.60), Extents: (0.66, 0.96, 0.50)|colliders=BoxCollider:Storage_Electric_Box_02_986
+SOLID|08_Maquinas/Fan_01_987|pos=(-15.00, 3.70, 30.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.00, 0.10, 1.00)|colliders=
+SOLID|08_Maquinas/Prop_Fan_Small_988|pos=(-15.00, 3.60, 24.50)|bounds=Center: (0.00, -0.02, 0.00), Extents: (0.67, 0.18, 0.67)|colliders=
+SOLID|08_Maquinas/Prop_PipeHolder_989|pos=(-19.50, 2.60, 22.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.40, 0.09, 0.11)|colliders=
+SOLID|08_Maquinas/Prop_Vent_Small_990|pos=(-10.35, 2.80, 27.80)|bounds=Center: (-0.28, -2.73, 0.03), Extents: (0.16, 0.02, 0.10)|colliders=
+SOLID|08_Maquinas/Prop_Cable_3_991|pos=(-19.40, 3.30, 25.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.15, 0.01, 0.55)|colliders=
+SOLID|08_Maquinas/Prop_Light_Small_992|pos=(-15.00, 3.50, 32.50)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.35, 0.04, 0.09)|colliders=
+SOLID|08_Maquinas/Door_Simple_993|pos=(-15.00, 1.50, 17.30)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.77, 1.49, 0.10)|colliders=BoxCollider:Door_Simple_993
+SOLID|Arquitetura/Floor_01_793|pos=(33.00, -0.12, 33.67)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 1.67)|colliders=BoxCollider:Floor_01_793
+SOLID|Arquitetura/Roof_01_794|pos=(33.00, 3.92, 33.67)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 1.67)|colliders=BoxCollider:Roof_01_794
+SOLID|Arquitetura/Floor_01_795|pos=(33.00, -0.12, 37.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 1.67)|colliders=BoxCollider:Floor_01_795
+SOLID|Arquitetura/Roof_01_796|pos=(33.00, 3.92, 37.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 1.67)|colliders=BoxCollider:Roof_01_796
+SOLID|Arquitetura/Floor_01_797|pos=(33.00, -0.12, 40.33)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 1.67)|colliders=BoxCollider:Floor_01_797
+SOLID|Arquitetura/Roof_01_798|pos=(33.00, 3.92, 40.33)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 1.67)|colliders=BoxCollider:Roof_01_798
+SOLID|Arquitetura/Floor_01_799|pos=(37.00, -0.12, 33.67)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 1.67)|colliders=BoxCollider:Floor_01_799
+SOLID|Arquitetura/Roof_01_800|pos=(37.00, 3.92, 33.67)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 1.67)|colliders=BoxCollider:Roof_01_800
+SOLID|Arquitetura/Floor_01_801|pos=(37.00, -0.12, 37.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 1.67)|colliders=BoxCollider:Floor_01_801
+SOLID|Arquitetura/Roof_01_802|pos=(37.00, 3.92, 37.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 1.67)|colliders=BoxCollider:Roof_01_802
+SOLID|Arquitetura/Floor_01_803|pos=(37.00, -0.12, 40.33)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 1.67)|colliders=BoxCollider:Floor_01_803
+SOLID|Arquitetura/Roof_01_804|pos=(37.00, 3.92, 40.33)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 1.67)|colliders=BoxCollider:Roof_01_804
+SOLID|Arquitetura/Floor_01_805|pos=(41.00, -0.12, 33.67)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 1.67)|colliders=BoxCollider:Floor_01_805
+SOLID|Arquitetura/Roof_01_806|pos=(41.00, 3.92, 33.67)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 1.67)|colliders=BoxCollider:Roof_01_806
+SOLID|Arquitetura/Floor_01_807|pos=(41.00, -0.12, 37.00)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 1.67)|colliders=BoxCollider:Floor_01_807
+SOLID|Arquitetura/Roof_01_808|pos=(41.00, 3.92, 37.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 1.67)|colliders=BoxCollider:Roof_01_808
+SOLID|Arquitetura/Floor_01_809|pos=(41.00, -0.12, 40.33)|bounds=Center: (0.00, 0.12, 0.00), Extents: (2.00, 0.00, 1.67)|colliders=BoxCollider:Floor_01_809
+SOLID|Arquitetura/Roof_01_810|pos=(41.00, 3.92, 40.33)|bounds=Center: (0.00, 0.00, 0.00), Extents: (2.00, 0.12, 1.67)|colliders=BoxCollider:Roof_01_810
+SOLID|Arquitetura/WallAstra_Straight_Divided_811|pos=(32.50, 1.90, 42.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_811
+SOLID|Arquitetura/TopSimple_Straight_812|pos=(32.50, 3.64, 42.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_813|pos=(32.50, 0.10, 42.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_814|pos=(35.50, 1.90, 42.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_814
+SOLID|Arquitetura/TopSimple_Straight_815|pos=(35.50, 3.64, 42.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_816|pos=(35.50, 0.10, 42.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_817|pos=(38.50, 1.90, 42.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_817
+SOLID|Arquitetura/TopSimple_Straight_818|pos=(38.50, 3.64, 42.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_819|pos=(38.50, 0.10, 42.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_820|pos=(41.50, 1.90, 42.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_820
+SOLID|Arquitetura/TopSimple_Straight_821|pos=(41.50, 3.64, 42.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_822|pos=(41.50, 0.10, 42.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_823|pos=(32.50, 1.90, 32.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_823
+SOLID|Arquitetura/TopSimple_Straight_824|pos=(32.50, 3.64, 32.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_825|pos=(32.50, 0.10, 32.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_826|pos=(35.50, 1.90, 32.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_826
+SOLID|Arquitetura/TopSimple_Straight_827|pos=(35.50, 3.64, 32.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_828|pos=(35.50, 0.10, 32.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_829|pos=(38.50, 1.90, 32.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_829
+SOLID|Arquitetura/TopSimple_Straight_830|pos=(38.50, 3.64, 32.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_831|pos=(38.50, 0.10, 32.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_832|pos=(41.50, 1.90, 32.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_832
+SOLID|Arquitetura/TopSimple_Straight_833|pos=(41.50, 3.64, 32.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_834|pos=(41.50, 0.10, 32.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.50, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_835|pos=(43.00, 1.90, 33.25)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_835
+SOLID|Arquitetura/TopSimple_Straight_836|pos=(43.00, 3.64, 33.25)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_837|pos=(43.00, 0.10, 33.25)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_838|pos=(43.00, 1.90, 35.75)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_838
+SOLID|Arquitetura/TopSimple_Straight_839|pos=(43.00, 3.64, 35.75)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_840|pos=(43.00, 0.10, 35.75)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_841|pos=(43.00, 1.90, 38.25)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_841
+SOLID|Arquitetura/TopSimple_Straight_842|pos=(43.00, 3.64, 38.25)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_843|pos=(43.00, 0.10, 38.25)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_844|pos=(43.00, 1.90, 40.75)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_844
+SOLID|Arquitetura/TopSimple_Straight_845|pos=(43.00, 3.64, 40.75)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_846|pos=(43.00, 0.10, 40.75)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.25, 0.10, 0.13)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_847|pos=(31.00, 1.90, 32.83)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.83, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_847
+SOLID|Arquitetura/TopSimple_Straight_848|pos=(31.00, 3.64, 32.83)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.83, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_849|pos=(31.00, 0.10, 32.83)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.83, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_850|pos=(31.00, 1.90, 34.48)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.83, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_850
+SOLID|Arquitetura/TopSimple_Straight_851|pos=(31.00, 3.64, 34.48)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.83, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_852|pos=(31.00, 0.10, 34.48)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.83, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_853|pos=(31.00, 1.90, 39.53)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.83, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_853
+SOLID|Arquitetura/TopSimple_Straight_854|pos=(31.00, 3.64, 39.53)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.83, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_855|pos=(31.00, 0.10, 39.53)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.83, 0.10, 0.14)|colliders=
+SOLID|Arquitetura/WallAstra_Straight_Divided_856|pos=(31.00, 1.90, 41.18)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.83, 1.90, 0.11)|colliders=BoxCollider:WallAstra_Straight_Divided_856
+SOLID|Arquitetura/TopSimple_Straight_857|pos=(31.00, 3.64, 41.18)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.83, 0.16, 0.00)|colliders=
+SOLID|Arquitetura/BottomSimple_Straight_858|pos=(31.00, 0.10, 41.18)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.83, 0.10, 0.14)|colliders=
+SOLID|Iluminacao/Prop_Light_Wide_859|pos=(37.00, 3.67, 37.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.80, 0.08, 0.25)|colliders=
+SOLID|Passagem_09  MANUTENCAO/Door_Frame_Square_889|pos=(31.00, 1.65, 37.00)|bounds=Center: (0.00, 0.00, 0.00), Extents: (1.90, 1.65, 0.12)|colliders=
+SOLID|Passagem_09  MANUTENCAO/Door_Left_01_890|pos=(31.16, 1.40, 34.80)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.38, 1.40, 0.09)|colliders=BoxCollider:Door_Left_01_890
+SOLID|09_Manutencao/Storage_Cabinet_02_994|pos=(41.60, 0.66, 34.20)|bounds=Center: (0.33, 0.00, -1.39), Extents: (0.48, 0.66, 0.45)|colliders=BoxCollider:Storage_Cabinet_02_994
+SOLID|09_Manutencao/Storage_Cabinet_03_995|pos=(41.60, 1.00, 36.60)|bounds=Center: (0.81, 0.00, 0.19), Extents: (0.33, 1.00, 1.73)|colliders=BoxCollider:Storage_Cabinet_03_995
+SOLID|09_Manutencao/Storage_Cabinet_04_996|pos=(41.60, 0.24, 39.50)|bounds=Center: (-0.39, 0.11, 1.39), Extents: (0.73, 0.37, 0.58)|colliders=BoxCollider:Storage_Cabinet_04_996
+SOLID|09_Manutencao/Office_Table Metal Variant_997|pos=(37.00, 0.45, 40.40)|bounds=Center: (0.00, 0.00, 0.00), Extents: (0.91, 0.45, 0.46)|colliders=BoxCollider:Office_Table Metal Variant_997
+SOLID|09_Manutencao/Prop_Clamp_998|pos=(36.30, 1.02, 40.40)|bounds=Center: (0.29, 0.00, 0.00), Extents: (0.43, 0.12, 0.35)|colliders=BoxCollider:Prop_Clamp_998
+SOLID|09_Manutencao/Prop_PipeHolder_999|pos=(37.80, 0.98, 40.40)|bounds=Center: (-0.45, 0.00, 0.00), Extents: (0.35, 0.08, 0.10)|colliders=BoxCollider:Prop_PipeHolder_999
+SOLID|09_Manutencao/Office_Stool_1000|pos=(37.00, 0.33, 38.80)|bounds=Center: (0.00, 0.00, 0.82), Extents: (0.12, 0.33, 0.12)|colliders=BoxCollider:Office_Stool_1000
+SOLID|Porta_Saida_Externa/Folha_Externa_Existente|pos=(20.00, 2.80, 70.70)|bounds=Center: (0.00, 0.00, 0.00), Extents: (3.50, 2.80, 0.15)|colliders=BoxCollider:Folha_Externa_Existente
+INTERACT|Bateria_Carga_Esquerda|(-18.71, 0.81, 31.54)|Bateria_Carga_Esquerda:Center: (-18.71, 1.11, 31.54), Extents: (0.13, 0.31, 0.13)
+INTERACT|Painel_Instalar_Bateria|(-12.00, 0.00, 12.00)|Console_SciFi:Center: (-11.24, 0.62, 14.25), Extents: (0.43, 0.63, 0.26);Bateria_Instalada:Center: (-11.50, 0.86, 12.00), Extents: (0.00, 0.00, 0.00)
+INTERACT|Cartao_Seguranca_Laboratorio|(14.03, 0.91, 16.16)|Cartao_Seguranca_Laboratorio:Center: (14.03, 0.91, 16.16), Extents: (0.16, 0.01, 0.12)
+INTERACT|Leitor_Cartao_Seguranca|(22.50, 0.00, 44.10)|Console_SciFi:Center: (22.23, 0.62, 45.88), Extents: (0.29, 0.63, 0.45)
+INTERACT|Terminal_1_ENERGIA AUXILIAR|(16.00, 0.00, 54.00)|Console_SciFi:Center: (16.00, 0.62, 54.00), Extents: (0.26, 0.63, 0.43)
+INTERACT|Terminal_2_SISTEMA DE SEGURANÇA|(24.00, 0.00, 60.00)|Console_SciFi:Center: (24.00, 0.62, 60.00), Extents: (0.26, 0.63, 0.43)
+INTERACT|Terminal_3_CONTROLE DA SAÍDA|(16.00, 0.00, 66.00)|Console_SciFi:Center: (16.00, 0.62, 66.00), Extents: (0.25, 0.63, 0.43)
+Sparrow=(0.65, 1.83, -0.10); listener=1

@@ -1,0 +1,36 @@
+Validação final — ajustes de gameplay do Nível 1
+Unity 6000.0.81f1 / URP / Input System novo
+Projeto: C:/Users/matheus/Desktop/dino3
+
+APROVADO em Play:
+- Porta inicial sólida, coleta F e caixa no HoldPoint sem colisão/raycast.
+- Mouse esquerdo aplica AddForce/Impulse e AddTorque, gera reposição e respeita pausa.
+- Caixa errada não abre a porta; caixa válida colidindo com o alvo abre.
+- Caixa antiga expira; após resolver, não gera outra e remove a segurada.
+- Painel/leitor com hitboxes alinhadas aos modelos movidos pela equipe.
+- Bateria, instalação, entrada no laboratório, cartão aleatório, leitor e três terminais.
+- Sorteio repetido do mesmo cartão com variedade real e sem duplicação.
+- Sparrow com Animator/controller original, Fly executando e asa mudando de pose entre frames.
+- Pausa congela voo, animação, interação e arremesso.
+- Luz branca somente com 3/3. Abrir o portão não conclui: é necessário atravessar a saída.
+- Tela final e retorno ao menu, Novo Jogo e Reiniciar Nível zerando os sistemas.
+
+Auditoria:
+- Um jogador, um EventSystem, um HUD, um pet, um sistema de arremesso e um cartão.
+- Prefabs físicos, portas sólidas/dinâmicas, controller e atlas originais preservados.
+- Três pontos de cartão apoiados/livres, com aproximação alcançável por cápsula e linha de visão.
+- 1.430 renderizadores originais comparados com o backup: posição, rotação e escala preservadas.
+- Zero scripts ausentes.
+- Menus: regressão aprovada de cliques, WASD/mouse, corrida, salto, Ctrl, teto baixo, ESC e cenas.
+- Scripts compilados e executados no Editor. Nenhum pacote instalado ou cenário regenerado.
+
+Evidências:
+Testes_Play.txt
+Auditoria.txt
+Integracao.txt
+../Menus/Menus_Validacao.txt
+../../Previas/Ajustes_Nivel01/
+
+Limites: não foi gerada uma build. Recomenda-se partida humana para calibrar o arremesso,
+observar as pontas de asas em obstáculos e conferir desempenho/legibilidade no computador da equipe.
+A prévia do Sparrow é estática; a comprovação do movimento das asas está no teste real em Play.

@@ -1,0 +1,247 @@
+\subsection{Nível 1 -- A Nave}
+
+\subsubsection*{Sinopse e estado atual}
+
+Alex inicia na sala de contenção de uma nave de pesquisa desconhecida.
+A arquitetura e os equipamentos sugerem uma origem alienígena.
+O jogador precisa liberar sua primeira passagem, restaurar energia
+e abrir a saída externa do hangar.
+
+A fase está jogável do início ao fim. O controle é entregue
+diretamente na contenção, com o objetivo de pegar uma caixa.
+Não há cutscene de despertar, abertura animada de cápsula,
+voz de apresentação ou inimigo nesta versão.
+
+A nave é de tamanho médio, modular e explorável. O objetivo é
+oferecer ambientes distintos e caminhos legíveis, sem alongar
+artificialmente o percurso. Uma duração futura de 5 a 10 minutos
+é uma intenção de design, não uma medição validada da partida atual.
+
+\subsubsection*{Setores e função}
+
+\begin{center}
+\begin{tabularx}{\textwidth}{|p{3.5cm}|X|}
+\hline
+\textbf{Setor} & \textbf{Função na versão atual}\\
+\hline
+01 -- Contenção & Spawn, caixa inicial, alvo de impacto e primeira porta bloqueada.\\
+\hline
+02 -- Corredores & Conexão entre setores, sinalização e Sparrow esperando depois da primeira porta.\\
+\hline
+03 -- Energia & Painel acessível desde o início; instalação da bateria libera o laboratório.\\
+\hline
+04 -- Depósito & Armazenamento e acesso ao desvio de Máquinas/Carga.\\
+\hline
+05 -- Laboratório & Porta dependente da energia; três locais possíveis para o único cartão.\\
+\hline
+06 -- Segurança & Leitor do cartão que autoriza o acesso ao hangar.\\
+\hline
+07 -- Hangar & Três terminais, portão externo, luz branca e região de conclusão.\\
+\hline
+08 -- Máquinas/Carga & Ambiente industrial à esquerda do depósito, onde fica a bateria.\\
+\hline
+09 -- Manutenção & Sala auxiliar para exploração opcional.\\
+\hline
+\end{tabularx}
+\end{center}
+
+Os corredores conectam os setores. Visitar energia antes de possuir
+a bateria é permitido, mas não resolve o puzzle. A bateria é acessível
+antes da restauração; o cartão está no laboratório, cuja abertura
+depende somente da bateria. Não há dependência circular.
+
+\subsubsection*{Objetivos apresentados pelo HUD}
+
+\begin{enumerate}
+\item Pegue uma caixa na sala inicial.
+\item Acerte o botão acima da porta com a caixa.
+\item Encontre uma bateria na nave.
+\item Instale a bateria na sala de energia.
+\item Entre no laboratório.
+\item Encontre o cartão de segurança.
+\item Utilize o cartão no leitor da segurança.
+\item Ative os três terminais do hangar, com contador de 0/3 a 3/3.
+\item Atravesse a saída para escapar da nave.
+\end{enumerate}
+
+A adoção não substitui o objetivo principal. A confirmação do
+companheiro é uma mensagem temporária.
+
+\subsubsection*{Desafio inicial -- Impacto acima da porta}
+
+A porta da contenção começa fechada e sólida. O alvo fica acima dela,
+visível da sala. Uma caixa pequena permite iniciar o desafio com F.
+
+O jogador arremessa com o mouse esquerdo, observando a direção e a
+gravidade. Após cada lançamento, uma nova caixa aparece na mão.
+Um intervalo curto e o limite de projéteis evitam acúmulo excessivo.
+
+Um impacto válido da caixa lançada muda o indicador do alvo e abre
+a porta. Contato do personagem, do pet ou de decoração não é aceito.
+Após o sucesso, o sistema interrompe o spawn e remove as caixas.
+
+\subsubsection*{Exploração opcional -- Adoção do Sparrow}
+
+Depois da porta inicial, o jogador encontra o Sparrow no chão do
+corredor, próximo à lateral e fora da passagem principal. Ele utiliza
+os idles reais do pacote enquanto espera.
+
+A mensagem é \textbf{[F] Fazer amizade com o passarinho}. Ao adotar,
+o pet passa a acompanhar o jogador em voo. A adoção pode ser ignorada
+e não fornece bateria, cartão ou vantagem obrigatória nos puzzles.
+
+\subsubsection*{Puzzle 1 -- Bateria e energia}
+
+A bateria utiliza uma célula real do pacote \textit{Energy Cells Free}.
+Fica em Máquinas/Carga, no desvio à esquerda do depósito.
+
+Ao coletar com F, desaparece do cenário, o estado de posse é
+registrado e aparece \emph{Bateria coletada!}. O objetivo passa a
+indicar a instalação na sala de energia.
+
+O painel sem bateria informa \emph{Bateria necessária}. Com o item,
+F o instala, mostra a bateria no encaixe, ativa o indicador, reproduz
+a confirmação sonora e o VFX ciano. A porta do laboratório abre.
+
+\subsubsection*{Puzzle 2 -- Cartão de segurança}
+
+Dentro do laboratório há um cartão ARCADIA. Sua posição é sorteada
+entre três marcadores válidos sobre mesas, em cada início ou reinício.
+O modelo não é duplicado.
+
+O jogador mira e pressiona F. O cartão desaparece, a posse é
+registrada e o HUD orienta a ida ao leitor da segurança.
+
+Sem cartão, o leitor informa \emph{Cartão de acesso necessário}.
+Com o cartão, a interação autoriza o acesso e abre a porta do hangar.
+Não existe minigame de autenticação.
+
+\subsubsection*{Puzzle 3 -- Sistemas do hangar}
+
+Os três terminais representam:
+
+\begin{enumerate}
+\item Sistema de energia auxiliar.
+\item Sistema de segurança.
+\item Controle da saída externa.
+\end{enumerate}
+
+Cada terminal é ativado uma vez com F e muda seu indicador.
+A ordem é livre; não existe senha ou sequência de botões.
+O HUD apresenta o progresso de 0/3 até 3/3.
+
+Com os três ativos, o portão externo abre, o vapor é emitido e um
+alerta eletrônico toca por quatro segundos. A luz branca fica
+visível atrás do portão. Repetir uma solicitação não duplica o alerta.
+
+\subsubsection*{Estados das portas}
+
+\begin{center}
+\begin{tabularx}{\textwidth}{|p{3.3cm}|X|}
+\hline
+\textbf{Porta inicialmente fechada} & \textbf{Condição de abertura}\\
+\hline
+Contenção & Impacto válido de caixa lançada no alvo.\\
+\hline
+Laboratório & Bateria instalada e energia restaurada.\\
+\hline
+Entrada do hangar & Cartão utilizado no leitor da segurança.\\
+\hline
+Saída externa & Três terminais do hangar ativados.\\
+\hline
+\end{tabularx}
+\end{center}
+
+Todas bloqueiam fisicamente quando fechadas. A colisão acompanha a
+folha móvel ao abrir.
+
+\subsubsection*{Conclusão}
+
+Abrir o portão não conclui sozinho a fase. O jogador deve caminhar
+até a luz branca e entrar no volume de saída.
+
+O trigger identifica somente a cápsula do jogador, verifica sua
+presença no volume e solicita a conclusão ao gerente. São exigidos
+os três terminais e a liberação do portão. Caixas e pássaro não contam.
+
+A tela apresenta:
+
+\begin{center}
+\textbf{NÍVEL 1 CONCLUÍDO}\\[0.15cm]
+Você conseguiu escapar da nave.\\[0.15cm]
+\textbf{Voltar ao Menu Principal}
+\end{center}
+
+O jogo congela, libera o cursor e permite voltar ao menu.
+Não carrega automaticamente o Nível 2 nem mostra um planeta
+explorável ou a revelação dos dinossauros.
+
+\subsubsection*{Apresentação audiovisual}
+
+A nave combina iluminação fria, painéis, computadores, caixas,
+tubulações e equipamentos industriais. Os setores mantêm identidade
+própria sem prejudicar a circulação.
+
+As quatro portas importantes usam som mecânico 3D e pequenas
+descargas de vapor. A bateria instalada ativa faíscas ciano.
+Os efeitos são curtos, sem loop e sem colisores.
+
+O áudio de ambiente é discreto na energia. Passos e cantos do
+Sparrow têm componentes preparados, mas ainda não possuem clipes
+adequados atribuídos. Não são declarados como sons audíveis atuais.
+
+\subsubsection*{Assets e comprovação da variedade}
+
+O inventário formal da expansão registra \textbf{82 modelos visuais
+distintos em 1005 instâncias de cenário}. Esse é o catálogo-base
+auditado, anterior aos últimos acréscimos de gameplay e polimento,
+e não uma nova contagem total da cena atual.
+
+O critério agrupa geometrias equivalentes: repetir prefab, trocar
+material, mudar escala ou rotação não cria um novo modelo.
+UI, materiais, áudios, objetos vazios e repetições não aumentam
+o total de modelos visuais.
+
+A distribuição do catálogo-base é:
+
+\begin{center}
+\begin{tabularx}{\textwidth}{|X|r|}
+\hline
+\textbf{Categoria} & \textbf{Modelos distintos}\\
+\hline
+Armazenamento & 20\\
+Arquitetura & 21\\
+Científico & 2\\
+Computadores & 5\\
+Estruturas industriais & 6\\
+Iluminação & 5\\
+Industrial & 14\\
+Mobiliário & 6\\
+Portas & 2\\
+Segurança & 1\\
+\hline
+\textbf{Total da base auditada} & \textbf{82}\\
+\hline
+\end{tabularx}
+\end{center}
+
+As origens, setores e quantidades estão no relatório
+\texttt{Docs/Relatorios/Nivel01\_Expandido/Level01\_Expanded\_Assets.md}
+e nos CSV/JSON correspondentes. A contagem final deve ser
+regenerada a partir da cena entregue, sem somar estimativas
+aos modelos comprovados.
+
+Pacotes utilizados na nave incluem Barking Dog -- 3D Free Modular
+Kit, Modular SciFi MegaKit, Free Sci-Fi Office Pack, Low Poly
+Storage Pack e Surveillance Camera. Os itens usam Energy Cells
+Free e o cartão ARCADIA já existente. O companheiro utiliza
+Sparrow -- Quirky Series, da Omabuarts Studio.
+
+\subsubsection*{Limites desta entrega}
+
+Não estão implementados drone, inimigos, perseguição, combate,
+vida, inventário complexo, save, checkpoints, diálogos,
+cutscenes, abertura encenada da cápsula ou transição para outro nível.
+As câmeras são decorativas. Esses elementos não são necessários
+para resolver os puzzles atuais.
+

@@ -1,0 +1,99 @@
+--- Página 1 ---
+Trabalho de Game Development 
+ 
+ 
+A avaliação da disciplina é sobre o desenvolvimento de um jogo. 
+ 
+-Participação: nota proporcional a participação. 
+ 
+OBS 1: a cópia parcial ou total de um jogo leva na anulação do trabalho. 
+ 
+OBS 2: Valide com o professor o que realmente pode ser usado de assets de terceiros. 
+O jogo deve estar finalizado no final do 2º bimestre, porém tem um marco de entrega parcial 
+no final do 1º bimestre. 
+ 
+Apresentação  e execução no laboratório durante a aula:  (usar a mesma 
+versão que está instalada no lab 12  Unity 6000.0.8f1). 
+O que deve ser entregue: 
+-GDD: detalhado (focar na parte do 1 bimestre) 
+-Todos os arquivos do Unity 6 (Assets, Project Settings, User Settings, Package, scripts): Zipar 
+tudo. 
+-Uma apresentação: vídeo (1-3 min link): só para o Segundo bimestre. 
+Como será a avaliação: 
+-O jogo deve ser apresentado pelo grupo e executado( upar um vídeo de no máximo 3 min : 
+upar o link do vídeo no seu google drive ou one drive: só para o Segundo bimestre). 
+-Depois os arquivos do jogo bem como sua execução serão avaliados de acordo com os 
+critérios adotados. 
+Versão do Unity a ser usada: Unity 6 (As mesmas do laboratório). 
+Tipo de Projeto(Template): Universal 3D (URP) 
+O jogo deve ser construído no laboratório sempre que for possível e nos horários extra-
+classe. 
+Tema do Jogo: 
+ 
+-Ecorenovação, Tecnologia e Skills 
+ 
+ 
+-O jogo deve ter elementos (no mínimo 5 itens de cada) que evidenciem o tema e ter todos os 
+assuntos abordados nos tutoriais vistos em sala de aula. 
+Modo do jogo: 
+Pode ser em 1ª pessoa ou em 3ª pessoa. Deve ser em  3D. 
+Critérios de avaliação 1 Bimestre: 
+-tema do jogo: se foi inserido, como foi utilizado/valorizado: escolher um dos itens(ou 
+ecorenovação, ou tecnologia ou skills). 
+-elementos abordados nos tutoriais: colisão, movimentação( translate, AddForce), rotação, 
+torque, vetor de prefabs, scripts, partículas (explosão, predrinhas), som, animação (parado, 
+caminhando, correndo, pulando, caindo),  fumaça, etc), Randomizar a escolha da
+
+--- Página 2 ---
+posição no vetor, UI ( texto e botão (deve ter um botão para reiniciar o jogo) ), Spawn de 
+objetos por função, Tag. 
+-Documentação detalhada do GDD para o 1 bimestre:  
+-Jogo deve ter 5 níveis. Cada nível deve ter pelo menos 70 assets de diferentes categorias. 
+No primeiro bimestre, fazer somente o nível 1. 
+-Documentação do código: cada função deve ter uma documentação sobre o que ela faz, o 
+que representa os argumentos de entrada e retorno, bem como o que está sendo feito no 
+corpo da função. 
+-Gameplay 
+-Game Mechanic 
+-Qualidade dos Gráficos (dos assets, do cenário, do terreno, das animações) 
+-Participação: nota proporcional a participação. 
+Assets:  
+Unity Asset Store: https://assetstore.unity.com    
+animação: mixamo.com 
+https://texturebox 
+ 
+2º bimestre: 
+Apresentação e execução no laboratório durante a aula. 
+-O jogo deve ser apresentado pelo grupo e executado( upar um vídeo de no máximo 3 min : 
+upar o link do vídeo no seu google drive ou one drive: só para o Segundo bimestre). 
+ 
+O que deve ser entregue: 
+-GDD: detalhado (focar na parte do 1 bimestre) 
+-Todos os arquivos do Unity: Zipar tudo. 
+-Uma apresentação: vídeo (1-3 min link): só para o Segundo bimestre. 
+ 
+Critérios de avaliação 2 Bimestre: 
+-tema do jogo: se foi inserido, como foi utilizado/valorizado: todos os 3 itens(ecorenovação, 
+tecnologia e skills. No mínimo 3 itens de cada). 
+- (Com mais detalhes e melhor qualidade): 
+elementos abordados nos tutoriais: colisão, movimentação( translate, AddForce), rotação, 
+torque, vetor de prefabs, scripts, partículas(a que você irá criar), som, animação (parado, 
+caminhando, correndo, pulando, caindo, explosão, fumaça, etc), material (cor e textura), 
+
+--- Página 3 ---
+Randomizar a escolha da posição no vetor, UI ( texto e botão (deve ter um botão para 
+reiniciar o jogo) ), Terreno (modelado por você e texturizado com no mínimo 10 layers de 
+texturas textura, morros, vales, agua, ravinas, areia, cascalho, grama, gramíneas, árvores, 
+caminhos), Spawn de objetos por função, Tag. 
+Adcionar: NavMesh, NPC, Melhores animações, Partículas (criadas por você), Iluminação, Pós-
+Processamento. 
+-Jogo deve ter 5 níveis. Cada nível deve ter pelo menos 70 assets de diferentes categorias. 
+-Tema: O jogo deve ter elementos (no mínimo 5 itens de cada) que evidenciem o tema e ter 
+todos os assuntos abordados nos tutoriais vistos em sala de aula. 
+-Documentação detalhada do GDD para o 2 bimestre. 
+-Documentação do código: cada função deve ter uma documentação sobre o que ela faz, o 
+que representa os argumentos de entrada e retorno, bem como o que está sendo feito no 
+corpo da função. 
+-Gameplay 
+-Game Mechanic 
+-Qualidade dos Gráficos (dos assets, do cenário, do terreno, das animações) 

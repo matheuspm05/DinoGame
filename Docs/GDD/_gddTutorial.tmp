@@ -1,0 +1,13 @@
+\subsection{Níveis de treinamento}
+
+Não há cena separada de tutorial. O desafio inicial da caixa apresenta
+interação, mira, impulso e tentativa/erro dentro da própria contenção.
+
+O HUD mostra o objetivo e as ações contextuais quando o jogador mira
+em um objeto. Os menus oferecem o painel de controles. Não há, nesta
+versão, uma sequência adicional de popups temporizados ensinando cada
+tecla de movimentação.
+
+O tutorial atual deve ser apresentado como parte do Nível 1, sem
+declarar mensagens ou sistemas de ajuda ainda não implementados.
+
